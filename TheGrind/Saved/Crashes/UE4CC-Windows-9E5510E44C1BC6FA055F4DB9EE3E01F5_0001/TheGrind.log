@@ -1,0 +1,1273 @@
+﻿Log file open, 03/27/18 22:19:15
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TheGrind
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(484444002) SRandInit(484444002).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 3944462, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.192399
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.384s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-BRVLTMR (192.168.0.14:0)
+LogInit: Build: ++UE4+Release-4.19-CL-3944462
+LogInit: Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Mar 13 2018 23:12:32
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: -EpicPortal 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.03.28-01.19.17:452][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.28-01.19.17:452][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.03.28-01.19.17:493][  0]LogInit: Computer: DESKTOP-BRVLTMR
+[2018.03.28-01.19.17:493][  0]LogInit: User: Ricardo
+[2018.03.28-01.19.17:493][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.03.28-01.19.17:493][  0]LogInit: High frequency timer resolution =3.020483 MHz
+[2018.03.28-01.19.17:493][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2018.03.28-01.19.17:493][  0]LogMemory: Platform Memory Stats for Windows
+[2018.03.28-01.19.17:493][  0]LogMemory: Process Physical Memory: 273.92 MB used, 273.92 MB peak
+[2018.03.28-01.19.17:493][  0]LogMemory: Process Virtual Memory: 273.82 MB used, 273.82 MB peak
+[2018.03.28-01.19.17:493][  0]LogMemory: Physical Memory: 3835.35 MB used,  4320.60 MB free, 8155.95 MB total
+[2018.03.28-01.19.17:494][  0]LogMemory: Virtual Memory: 691.42 MB used,  4320.60 MB free, 134217728.00 MB total
+[2018.03.28-01.19.17:518][  0]LogInit: Overriding language with editor language configuration option (en).
+[2018.03.28-01.19.17:519][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2018.03.28-01.19.18:011][  0]LogStreaming: Display: Took  0.493s to EndInitTextLocalization.
+[2018.03.28-01.19.18:011][  0]LogInit: Setting process to per monitor DPI aware
+[2018.03.28-01.19.18:043][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.03.28-01.19.18:043][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.03.28-01.19.18:276][  0]LogD3D11RHI: D3D11 adapters:
+[2018.03.28-01.19.18:341][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2018.03.28-01.19.18:341][  0]LogD3D11RHI:       6061/0/4077 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.03.28-01.19.18:344][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.03.28-01.19.18:344][  0]LogD3D11RHI:       0/0/4077 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.03.28-01.19.18:344][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.03.28-01.19.18:350][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.03.28-01.19.18:350][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2018.03.28-01.19.18:350][  0]LogWindows: EnumDisplayDevices:
+[2018.03.28-01.19.18:350][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2018.03.28-01.19.18:350][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.03.28-01.19.18:351][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.03.28-01.19.18:351][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.03.28-01.19.18:351][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.03.28-01.19.18:351][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2018.03.28-01.19.18:351][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.03.28-01.19.18:351][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.03.28-01.19.18:351][  0]LogRHI: Texture pool is 4242 MB (70% of 6061 MB)
+[2018.03.28-01.19.18:379][  0]LogD3D11RHI: [Aftermath] Aftermath enabled but failed to initialize
+[2018.03.28-01.19.18:379][  0]LogD3D11RHI: Async texture creation enabled
+[2018.03.28-01.19.18:479][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.03.28-01.19.18:528][  0]LogShaderCompilers: Guid format shader working directory is -2 characters bigger than the processId version (../../../../../../Repositorios/The-Grind/TheGrind/Intermediate/Shaders/WorkingDirectory/10928/).
+[2018.03.28-01.19.18:528][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Ricardo/AppData/Local/Temp/UnrealShaderWorkingDir/E6394D594341E1228BCFC883C93E4C15/'.
+[2018.03.28-01.19.18:916][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.03.28-01.19.18:935][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.03.28-01.19.18:952][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.03.28-01.19.18:970][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.03.28-01.19.18:989][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.03.28-01.19.19:007][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.03.28-01.19.19:026][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.03.28-01.19.19:044][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.03.28-01.19.19:053][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.03.28-01.19.19:070][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.03.28-01.19.19:091][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.03.28-01.19.19:110][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.03.28-01.19.19:126][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.03.28-01.19.19:142][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.03.28-01.19.19:160][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.03.28-01.19.19:191][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.03.28-01.19.19:192][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.03.28-01.19.19:208][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.03.28-01.19.19:210][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.03.28-01.19.19:252][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.03.28-01.19.19:268][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.03.28-01.19.19:284][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.03.28-01.19.19:300][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.03.28-01.19.19:316][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.03.28-01.19.19:333][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.03.28-01.19.19:333][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.03.28-01.19.19:479][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.03.28-01.19.19:479][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.03.28-01.19.19:479][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.03.28-01.19.20:413][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.03.28-01.19.20:499][  0]LogDerivedDataCache: Loaded boot cache 0.09s 74MB C:/Users/Ricardo/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.03.28-01.19.20:499][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Ricardo/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.03.28-01.19.20:499][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Repositorios/The-Grind/TheGrind/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.03.28-01.19.20:500][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.03.28-01.19.20:500][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Repositorios/The-Grind/TheGrind/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.03.28-01.19.20:500][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.03.28-01.19.20:524][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.03.28-01.19.20:536][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Ricardo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.03.28-01.19.20:552][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.03.28-01.19.20:552][  0]LogSlate: Using Freetype 2.6.0
+[2018.03.28-01.19.20:553][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.28-01.19.20:553][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.28-01.19.20:703][  0]LogAssetRegistry: FAssetRegistry took 0.0280 seconds to start up
+[2018.03.28-01.19.21:123][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.28-01.19.21:305][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.03.28-01.19.21:308][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.03.28-01.19.21:308][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.03.28-01.19.21:308][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.03.28-01.19.21:308][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.03.28-01.19.21:308][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.03.28-01.19.21:347][  0]LogNetVersion: TheGrind , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2424750514)
+[2018.03.28-01.19.21:843][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.054350 seconds
+[2018.03.28-01.19.21:850][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.03.28-01.19.21:850][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.03.28-01.19.21:850][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.03.28-01.19.23:843][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.03.28-01.19.23:880][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.03.28-01.19.24:335][  0]SourceControl: Source control is disabled
+[2018.03.28-01.19.24:336][  0]SourceControl: Source control is disabled
+[2018.03.28-01.19.24:364][  0]SourceControl: Source control is disabled
+[2018.03.28-01.19.24:389][  0]SourceControl: Source control is disabled
+[2018.03.28-01.19.25:020][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.03.28-01.19.25:238][  0]LogOcInput: OculusInput pre-init called
+[2018.03.28-01.19.25:377][  0]LogEngine: Initializing Engine...
+[2018.03.28-01.19.25:378][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.03.28-01.19.25:380][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.03.28-01.19.25:380][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.03.28-01.19.25:646][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.03.28-01.19.25:712][  0]LogInit: XAudio2 using 'Fones de ouvido (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.28-01.19.25:739][  0]LogInit: FAudioDevice initialized.
+[2018.03.28-01.19.25:878][  0]LogDerivedDataCache: Saved boot cache 0.14s 74MB C:/Users/Ricardo/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.03.28-01.19.25:892][  0]LogInit: Texture streaming: Enabled
+[2018.03.28-01.19.25:914][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.03.28-01.19.25:935][  0]LogInit: Transaction tracking system initialized
+[2018.03.28-01.19.25:970][  0]BlueprintLog: New page: Editor Load
+[2018.03.28-01.19.26:070][  0]LocalizationService: Localization service is disabled
+[2018.03.28-01.19.26:170][  0]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/SideScrollerOverview'
+[2018.03.28-01.19.26:170][  0]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/SideScrollerOverview'
+[2018.03.28-01.19.26:170][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/SideScrollerBP/SideScrollerOverview.SideScrollerOverview_C'
+[2018.03.28-01.19.26:201][  0]LogConsoleResponse: Display: 
+[2018.03.28-01.19.26:508][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.03.28-01.19.26:508][  0]LogCook: Display: Mobile HDR setting 1
+[2018.03.28-01.19.26:508][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.03.28-01.19.26:508][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.03.28-01.19.26:508][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.03.28-01.19.27:000][  0]LogFileCache: Scanning file cache for directory 'C:/Repositorios/The-Grind/TheGrind/Content/' took 0.04s
+[2018.03.28-01.19.27:009][  0]SourceControl: Source control is disabled
+[2018.03.28-01.19.27:009][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.28-01.19.27:009][  0]LightingResults: New page: Lighting Build
+[2018.03.28-01.19.27:013][  0]MapCheck: New page: Map Check
+[2018.03.28-01.19.27:013][  0]LightingResults: New page: Lighting Build
+[2018.03.28-01.19.27:293][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.03.28-01.19.27:301][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.28-01.19.27:331][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.28-01.19.27:405][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 73.452ms to complete.
+[2018.03.28-01.19.27:405][  0]LogFileHelpers: Loading map 'Template_Default' took 0.396
+[2018.03.28-01.19.27:865][  0]LogCollectionManager: Loaded 0 collections in 0.002975 seconds
+[2018.03.28-01.19.27:906][  0]LogFileCache: Scanning file cache for directory 'C:/Repositorios/The-Grind/TheGrind/Saved/Collections/' took 0.01s
+[2018.03.28-01.19.27:907][  0]LogFileCache: Scanning file cache for directory 'C:/Repositorios/The-Grind/TheGrind/Content/Developers/Ricardo/Collections/' took 0.01s
+[2018.03.28-01.19.27:907][  0]LogFileCache: Scanning file cache for directory 'C:/Repositorios/The-Grind/TheGrind/Content/Collections/' took 0.01s
+[2018.03.28-01.19.27:907][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.03.28-01.19.27:919][  0]LogContentBrowser: Native class hierarchy populated in 0.0119 seconds. Added 2452 classes and 558 folders.
+[2018.03.28-01.19.27:927][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.03.28-01.19.29:610][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.03.28-01.19.29:616][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.03.28-01.19.29:740][  0]LogSlate: Took 0.000251 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.28-01.19.29:745][  0]LogSlate: Took 0.000428 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.03.28-01.19.29:762][  0]LogSlate: Took 0.011384 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.03.28-01.19.29:955][  0]LogRenderer: Reallocating scene render targets to support 1092x924 Format 10 NumSamples 1 (Frame:1).
+[2018.03.28-01.19.30:176][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.03.28-01.19.30:176][  0]LogLoad: (Engine Initialization) Total time: 15.86 seconds
+[2018.03.28-01.19.30:176][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.03.28-01.19.30:536][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.03.28-01.19.30:622][  0]LogSlate: Took 0.016485 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.03.28-01.19.30:862][  1]LogAssetRegistry: Asset discovery search completed in 10.1816 seconds
+[2018.03.28-01.19.30:866][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.03.28-01.19.30:866][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000086 seconds (updated 0 objects)
+[2018.03.28-01.25.07:635][333]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.03.28-01.25.08:138][355]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.03.28-01.25.10:784][468]LogSlate: Took 0.000262 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.03.28-01.25.11:416][468]LogLinker: Warning: Can't find file '/Game/FirstPerson/Character/Textures/UE4_LOGO_CARD'
+[2018.03.28-01.25.11:416][468]LoadErrors: Failed to load /Game/HeroChar/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms Referenced by Default__BP_HeroChar_C
+[2018.03.28-01.25.11:416][468]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/Character/Textures/UE4_LOGO_CARD' while loading ../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset.
+[2018.03.28-01.25.11:417][468]LoadErrors: Error: /Game/HeroChar/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO : Can't find file for asset. /Game/FirstPerson/Character/Textures/UE4_LOGO_CARD
+[2018.03.28-01.25.11:417][468]LogLinker: Warning: Can't find file '/Game/FirstPerson/Character/Textures/UE4_LOGO_CARD'
+[2018.03.28-01.25.11:417][468]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/Character/Textures/UE4_LOGO_CARD' while loading ../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset.
+[2018.03.28-01.25.11:925][468]LogLinker: Warning: Can't find file '/Game/FirstPerson/Character/Textures/UE4_LOGO_CARD'
+[2018.03.28-01.25.11:926][468]LoadErrors: Failed to load /Game/FirstPerson/Character/Textures/UE4_LOGO_CARD.UE4_LOGO_CARD Referenced by MaterialExpressionTextureSample_6
+[2018.03.28-01.25.11:926][468]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/Character/Textures/UE4_LOGO_CARD' while loading NULL.
+[2018.03.28-01.25.12:068][468]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.03.28-01.25.12:303][468]LogShaderCompilers: Display: Shaders left to compile 128
+[2018.03.28-01.25.12:303][468]LogShaderCompilers: Display: Shaders left to compile 118
+[2018.03.28-01.25.12:303][468]LogShaderCompilers: Display: Shaders left to compile 108
+[2018.03.28-01.25.12:303][468]LogSkeletalMesh: Skeletal Mesh found in DDC [131.494202ms] /Game/HeroChar/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2018.03.28-01.25.13:305][468]LogAIModule: Creating AISystem for world 01Gameplay
+[2018.03.28-01.25.13:347][468]Cmd: MAP LOAD FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/Maps/01Gameplay.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.28-01.25.13:348][468]LightingResults: New page: Lighting Build
+[2018.03.28-01.25.13:349][468]LoadErrors: New page: Loading map: 01Gameplay.umap
+[2018.03.28-01.25.13:349][468]MapCheck: New page: Map Check
+[2018.03.28-01.25.13:349][468]LightingResults: New page: Lighting Build
+[2018.03.28-01.25.13:460][468]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.28-01.25.13:512][468]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.28-01.25.13:660][468]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 147.718ms to complete.
+[2018.03.28-01.25.13:661][468]LogFileHelpers: Loading map '01Gameplay' took 0.314
+[2018.03.28-01.25.15:382][469]LogShaderCompilers: Display: Shaders left to compile 98
+[2018.03.28-01.25.15:382][469]LogShaderCompilers: Display: Shaders left to compile 88
+[2018.03.28-01.25.16:083][471]LogShaderCompilers: Display: Shaders left to compile 78
+[2018.03.28-01.25.17:924][474]LogShaderCompilers: Display: Shaders left to compile 68
+[2018.03.28-01.25.17:924][474]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.03.28-01.25.25:208][475]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.03.28-01.25.25:208][475]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.03.28-01.25.25:208][475]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.03.28-01.25.25:208][475]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.03.28-01.25.25:208][475]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.03.28-01.27.31:959][151]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.03.28-01.27.34:864][182]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.03.28-01.27.34:896][182]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.03.28-01.27.35:030][183]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.TheGrind
+[2018.03.28-01.27.35:030][183]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.03.28-01.27.35:030][183]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.19
+[2018.03.28-01.27.35:030][183]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.03.28-01.27.35:030][183]LogTemp: BranchPath = DESKTOP-BRVLTMR/C/Program Files/Epic Games/UE_4.19/Engine/Binaries --- GameBranchPath = DESKTOP-BRVLTMR/C/Program Files/Epic Games/UE_4.19/Engine/Binaries
+[2018.03.28-01.27.35:030][183]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Ricardo\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.03.28-01.28.06:498][786]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.28-01.28.06:519][786]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.28-01.28.06:519][786]PIE: New page: PIE session: 01Gameplay (Mar 27, 2018, 7:28:06 PM)
+[2018.03.28-01.28.06:519][786]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_01Gameplay
+[2018.03.28-01.28.06:545][786]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025320s)
+[2018.03.28-01.28.06:545][786]LogAIModule: Creating AISystem for world 01Gameplay
+[2018.03.28-01.28.06:546][786]LogPlayLevel: PIE: World Init took: (0.000910s)
+[2018.03.28-01.28.06:546][786]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/01Gameplay.01Gameplay to /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay (0.026451s)
+[2018.03.28-01.28.06:564][786]LogInit: XAudio2 using 'Fones de ouvido (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.28-01.28.06:575][786]LogInit: FAudioDevice initialized.
+[2018.03.28-01.28.06:616][786]LogLoad: Game class is 'BP_GameplayGameMode_C'
+[2018.03.28-01.28.06:621][786]LogWorld: Bringing World /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay up for play (max tick rate 0) at 2018.03.27-22.28.06
+[2018.03.28-01.28.06:622][786]LogWorld: Bringing up level for play took: 0.004118
+[2018.03.28-01.28.06:626][786]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.03.28-01.28.06:633][786]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_01Gameplay -0.516
+[2018.03.28-01.28.28:032][195]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.28-01.28.29:688][242]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2018.03.28-01.28.30:821][242]LogSlate: Took 0.004693 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.03.28-01.28.31:008][243]LogSlate: Took 0.011543 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.03.28-01.29.56:659][212]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.28-01.30.11:292][970]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroChar/BP_HeroChar" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset" SILENT=true
+[2018.03.28-01.30.11:354][970]LogSavePackage: Save=50.22ms
+[2018.03.28-01.30.11:354][970]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_HeroChar8FB6B95F4E6CC2EBD220B3BB7106A8EC.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset'
+[2018.03.28-01.30.11:360][970]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset
+[2018.03.28-01.30.12:532][ 39]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroChar/BP_HeroChar" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset" SILENT=true
+[2018.03.28-01.30.12:578][ 39]LogSavePackage: Save=40.91ms
+[2018.03.28-01.30.12:578][ 39]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_HeroChar48A433DB4A56489D704331A503CD7CE2.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset'
+[2018.03.28-01.30.12:580][ 39]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset
+[2018.03.28-01.30.13:169][ 79]BlueprintLog: New page: Compile BP_HeroChar
+[2018.03.28-01.30.14:140][104]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.28-01.30.14:170][104]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.28-01.30.14:170][104]PIE: New page: PIE session: 01Gameplay (Mar 27, 2018, 7:30:14 PM)
+[2018.03.28-01.30.14:170][104]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_01Gameplay
+[2018.03.28-01.30.14:195][104]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024563s)
+[2018.03.28-01.30.14:195][104]LogAIModule: Creating AISystem for world 01Gameplay
+[2018.03.28-01.30.14:196][104]LogPlayLevel: PIE: World Init took: (0.000852s)
+[2018.03.28-01.30.14:196][104]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/01Gameplay.01Gameplay to /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay (0.025613s)
+[2018.03.28-01.30.14:222][104]LogInit: XAudio2 using 'Fones de ouvido (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.28-01.30.14:231][104]LogInit: FAudioDevice initialized.
+[2018.03.28-01.30.14:272][104]LogLoad: Game class is 'BP_GameplayGameMode_C'
+[2018.03.28-01.30.14:277][104]LogWorld: Bringing World /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay up for play (max tick rate 0) at 2018.03.27-22.30.14
+[2018.03.28-01.30.14:277][104]LogWorld: Bringing up level for play took: 0.004563
+[2018.03.28-01.30.14:281][104]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_01Gameplay -0.868
+[2018.03.28-01.30.14:299][104]LogRenderer: Reallocating scene render targets to support 1292x924 Format 10 NumSamples 1 (Frame:1).
+[2018.03.28-01.30.16:977][193]LogSlate: Window 'TheGrind Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.03.28-01.31.16:303][187]LogClass: Warning: In asset 'None', there is an enum property of type 'EAnimationMode' with an invalid value of ''
+[2018.03.28-01.31.16:303][187]LogClass: Warning: In asset 'None', there is an enum property of type 'EAnimationMode' with an invalid value of ''
+[2018.03.28-01.32.51:045][704]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.03.28-01.32.51:082][704]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroChar/BP_HeroChar" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset" SILENT=true
+[2018.03.28-01.32.51:139][704]LogSavePackage: Save=51.06ms
+[2018.03.28-01.32.51:140][704]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_HeroCharA42398824AE7099621C920AECC7DDE06.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset'
+[2018.03.28-01.32.51:143][704]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset
+[2018.03.28-01.32.51:758][729]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.28-01.32.51:783][729]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.03.28-01.32.51:797][729]LogPlayLevel: [PlayLevel] Compiling BP_HeroChar before play...
+[2018.03.28-01.32.52:138][729]LogPlayLevel: PlayLevel: Blueprint regeneration took 354 ms (1 blueprints)
+[2018.03.28-01.32.52:138][729]PIE: New page: PIE session: 01Gameplay (Mar 27, 2018, 7:32:52 PM)
+[2018.03.28-01.32.52:138][729]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_01Gameplay
+[2018.03.28-01.32.52:163][729]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025175s)
+[2018.03.28-01.32.52:164][729]LogAIModule: Creating AISystem for world 01Gameplay
+[2018.03.28-01.32.52:164][729]LogPlayLevel: PIE: World Init took: (0.000816s)
+[2018.03.28-01.32.52:164][729]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/01Gameplay.01Gameplay to /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay (0.026174s)
+[2018.03.28-01.32.52:190][729]LogInit: XAudio2 using 'Fones de ouvido (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.28-01.32.52:199][729]LogInit: FAudioDevice initialized.
+[2018.03.28-01.32.52:244][729]LogLoad: Game class is 'BP_GameplayGameMode_C'
+[2018.03.28-01.32.52:253][729]LogWorld: Bringing World /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay up for play (max tick rate 0) at 2018.03.27-22.32.52
+[2018.03.28-01.32.52:254][729]LogWorld: Bringing up level for play took: 0.008369
+[2018.03.28-01.32.52:262][729]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_01Gameplay 1.113
+[2018.03.28-01.32.55:567][813]LogSlate: Window 'TheGrind Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.03.28-01.33.09:471][301]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.03.28-01.33.14:827][606]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroChar/BP_HeroChar" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset" SILENT=true
+[2018.03.28-01.33.14:883][606]LogSavePackage: Save=51.04ms
+[2018.03.28-01.33.14:883][606]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_HeroChar821D1B2B434FCB097F82B2B46509F2A6.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset'
+[2018.03.28-01.33.14:887][606]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset
+[2018.03.28-01.33.15:359][619]BlueprintLog: New page: Compile BP_HeroChar
+[2018.03.28-01.33.30:842][138]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroChar/BP_HeroChar" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset" SILENT=true
+[2018.03.28-01.33.30:898][138]LogSavePackage: Save=50.62ms
+[2018.03.28-01.33.30:898][138]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_HeroChar3E359F3F46A521ED2A0C9699321133AD.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset'
+[2018.03.28-01.33.30:902][138]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset
+[2018.03.28-01.33.31:384][153]BlueprintLog: New page: Compile BP_HeroChar
+[2018.03.28-01.33.32:464][186]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.28-01.33.32:487][186]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.28-01.33.32:487][186]PIE: New page: PIE session: 01Gameplay (Mar 27, 2018, 7:33:32 PM)
+[2018.03.28-01.33.32:487][186]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_01Gameplay
+[2018.03.28-01.33.32:512][186]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025106s)
+[2018.03.28-01.33.32:513][186]LogAIModule: Creating AISystem for world 01Gameplay
+[2018.03.28-01.33.32:513][186]LogPlayLevel: PIE: World Init took: (0.000763s)
+[2018.03.28-01.33.32:513][186]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/01Gameplay.01Gameplay to /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay (0.026057s)
+[2018.03.28-01.33.32:539][186]LogInit: XAudio2 using 'Fones de ouvido (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.28-01.33.32:549][186]LogInit: FAudioDevice initialized.
+[2018.03.28-01.33.32:586][186]LogLoad: Game class is 'BP_GameplayGameMode_C'
+[2018.03.28-01.33.32:591][186]LogWorld: Bringing World /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay up for play (max tick rate 0) at 2018.03.27-22.33.32
+[2018.03.28-01.33.32:591][186]LogWorld: Bringing up level for play took: 0.004511
+[2018.03.28-01.33.32:596][186]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_01Gameplay -0.553
+[2018.03.28-01.33.37:616][315]LogSlate: Window 'TheGrind Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.03.28-01.34.10:886][912]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.28-01.34.10:910][912]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.03.28-01.34.10:924][912]LogPlayLevel: [PlayLevel] Compiling BP_HeroChar before play...
+[2018.03.28-01.34.11:260][912]LogPlayLevel: PlayLevel: Blueprint regeneration took 350 ms (1 blueprints)
+[2018.03.28-01.34.11:260][912]PIE: New page: PIE session: 01Gameplay (Mar 27, 2018, 7:34:11 PM)
+[2018.03.28-01.34.11:260][912]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_01Gameplay
+[2018.03.28-01.34.11:285][912]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024540s)
+[2018.03.28-01.34.11:286][912]LogAIModule: Creating AISystem for world 01Gameplay
+[2018.03.28-01.34.11:286][912]LogPlayLevel: PIE: World Init took: (0.000847s)
+[2018.03.28-01.34.11:286][912]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/01Gameplay.01Gameplay to /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay (0.025556s)
+[2018.03.28-01.34.11:312][912]LogInit: XAudio2 using 'Fones de ouvido (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.28-01.34.11:321][912]LogInit: FAudioDevice initialized.
+[2018.03.28-01.34.11:360][912]LogLoad: Game class is 'BP_GameplayGameMode_C'
+[2018.03.28-01.34.11:365][912]LogWorld: Bringing World /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay up for play (max tick rate 0) at 2018.03.27-22.34.11
+[2018.03.28-01.34.11:366][912]LogWorld: Bringing up level for play took: 0.004308
+[2018.03.28-01.34.11:370][912]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_01Gameplay 0.221
+[2018.03.28-01.34.21:367][173]LogSlate: Window 'TheGrind Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.03.28-01.34.41:051][968]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.28-01.34.41:128][970]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.28-01.34.41:150][970]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.03.28-01.34.41:164][970]LogPlayLevel: [PlayLevel] Compiling BP_HeroChar before play...
+[2018.03.28-01.34.41:588][970]LogPlayLevel: PlayLevel: Blueprint regeneration took 437 ms (1 blueprints)
+[2018.03.28-01.34.41:588][970]PIE: New page: PIE session: 01Gameplay (Mar 27, 2018, 7:34:41 PM)
+[2018.03.28-01.34.41:588][970]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_01Gameplay
+[2018.03.28-01.34.41:613][970]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024831s)
+[2018.03.28-01.34.41:613][970]LogAIModule: Creating AISystem for world 01Gameplay
+[2018.03.28-01.34.41:614][970]LogPlayLevel: PIE: World Init took: (0.000817s)
+[2018.03.28-01.34.41:614][970]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/01Gameplay.01Gameplay to /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay (0.025824s)
+[2018.03.28-01.34.41:639][970]LogInit: XAudio2 using 'Fones de ouvido (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.28-01.34.41:649][970]LogInit: FAudioDevice initialized.
+[2018.03.28-01.34.41:692][970]LogLoad: Game class is 'BP_GameplayGameMode_C'
+[2018.03.28-01.34.41:697][970]LogWorld: Bringing World /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay up for play (max tick rate 0) at 2018.03.27-22.34.41
+[2018.03.28-01.34.41:698][970]LogWorld: Bringing up level for play took: 0.004511
+[2018.03.28-01.34.41:701][970]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_01Gameplay 0.552
+[2018.03.28-01.34.44:718][ 42]LogSlate: Window 'TheGrind Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.03.28-01.34.45:793][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroChar/BP_HeroChar" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset" SILENT=true
+[2018.03.28-01.34.45:850][115]LogSavePackage: Save=51.02ms
+[2018.03.28-01.34.45:850][115]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_HeroCharCACD2D8E43613A652F398A81B3F67FE3.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset'
+[2018.03.28-01.34.45:853][115]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset
+[2018.03.28-01.34.46:247][127]BlueprintLog: New page: Compile BP_HeroChar
+[2018.03.28-01.35.04:149][617]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.28-01.35.04:172][617]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.03.28-01.35.04:187][617]LogPlayLevel: [PlayLevel] Compiling BP_HeroChar before play...
+[2018.03.28-01.35.04:523][617]LogPlayLevel: PlayLevel: Blueprint regeneration took 350 ms (1 blueprints)
+[2018.03.28-01.35.04:523][617]PIE: New page: PIE session: 01Gameplay (Mar 27, 2018, 7:35:04 PM)
+[2018.03.28-01.35.04:523][617]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_01Gameplay
+[2018.03.28-01.35.04:548][617]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024416s)
+[2018.03.28-01.35.04:548][617]LogAIModule: Creating AISystem for world 01Gameplay
+[2018.03.28-01.35.04:549][617]LogPlayLevel: PIE: World Init took: (0.000820s)
+[2018.03.28-01.35.04:549][617]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/01Gameplay.01Gameplay to /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay (0.025406s)
+[2018.03.28-01.35.04:575][617]LogInit: XAudio2 using 'Fones de ouvido (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.28-01.35.04:584][617]LogInit: FAudioDevice initialized.
+[2018.03.28-01.35.04:625][617]LogLoad: Game class is 'BP_GameplayGameMode_C'
+[2018.03.28-01.35.04:630][617]LogWorld: Bringing World /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay up for play (max tick rate 0) at 2018.03.27-22.35.04
+[2018.03.28-01.35.04:631][617]LogWorld: Bringing up level for play took: 0.004757
+[2018.03.28-01.35.04:635][617]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_01Gameplay -0.514
+[2018.03.28-01.35.09:942][751]LogSlate: Window 'TheGrind Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.03.28-01.35.11:458][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroChar/BP_HeroChar" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset" SILENT=true
+[2018.03.28-01.35.11:520][854]LogSavePackage: Save=50.08ms
+[2018.03.28-01.35.11:520][854]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_HeroChar573F15C545DA18EE5A90A8AA6A4BD283.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset'
+[2018.03.28-01.35.11:523][854]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset
+[2018.03.28-01.35.12:080][876]BlueprintLog: New page: Compile BP_HeroChar
+[2018.03.28-01.35.36:229][302]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.28-01.35.36:253][302]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.03.28-01.35.36:268][302]LogPlayLevel: [PlayLevel] Compiling BP_HeroChar before play...
+[2018.03.28-01.35.36:604][302]LogPlayLevel: PlayLevel: Blueprint regeneration took 351 ms (1 blueprints)
+[2018.03.28-01.35.36:604][302]PIE: New page: PIE session: 01Gameplay (Mar 27, 2018, 7:35:36 PM)
+[2018.03.28-01.35.36:604][302]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_01Gameplay
+[2018.03.28-01.35.36:629][302]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024354s)
+[2018.03.28-01.35.36:630][302]LogAIModule: Creating AISystem for world 01Gameplay
+[2018.03.28-01.35.36:630][302]LogPlayLevel: PIE: World Init took: (0.000738s)
+[2018.03.28-01.35.36:630][302]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/01Gameplay.01Gameplay to /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay (0.025265s)
+[2018.03.28-01.35.36:656][302]LogInit: XAudio2 using 'Fones de ouvido (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.28-01.35.36:665][302]LogInit: FAudioDevice initialized.
+[2018.03.28-01.35.36:706][302]LogLoad: Game class is 'BP_GameplayGameMode_C'
+[2018.03.28-01.35.36:711][302]LogWorld: Bringing World /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay up for play (max tick rate 0) at 2018.03.27-22.35.36
+[2018.03.28-01.35.36:711][302]LogWorld: Bringing up level for play took: 0.004487
+[2018.03.28-01.35.36:715][302]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_01Gameplay -0.433
+[2018.03.28-01.35.44:095][497]LogSlate: Window 'TheGrind Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.03.28-01.35.45:561][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroChar/BP_HeroChar" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset" SILENT=true
+[2018.03.28-01.35.45:617][599]LogSavePackage: Save=50.16ms
+[2018.03.28-01.35.45:617][599]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_HeroChar121B1D7D4B210F662C8B4CABFE7BB84A.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset'
+[2018.03.28-01.35.45:620][599]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset
+[2018.03.28-01.35.45:898][608]BlueprintLog: New page: Compile BP_HeroChar
+[2018.03.28-01.40.18:684][437]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Ricardo/Desktop/temp/Animations/SK_FPGun.FBX)
+[2018.03.28-01.40.18:726][437]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.03.28-01.40.18:726][437]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.03.28-01.40.18:726][437]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.03.28-01.40.18:726][437]LogFbx: ItemName: Model, ItemCount : 8
+[2018.03.28-01.40.18:726][437]LogFbx: ItemName: NodeAttribute, ItemCount : 6
+[2018.03.28-01.40.18:726][437]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.03.28-01.40.18:726][437]LogFbx: ItemName: Material, ItemCount : 1
+[2018.03.28-01.40.18:726][437]LogFbx: ItemName: Deformer, ItemCount : 7
+[2018.03.28-01.40.18:726][437]LogFbx: ItemName: Pose, ItemCount : 1
+[2018.03.28-01.40.18:738][437]LogFbx: Loading FBX Scene from ../../../../../../Users/Ricardo/Desktop/temp/Animations/SK_FPGun.FBX
+[2018.03.28-01.40.18:756][437]LogFbx: FBX Scene Loaded Succesfully
+[2018.03.28-01.40.38:478][437]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.03.28-01.40.38:540][437]LogFbx: Loading FBX Scene from ../../../../../../Users/Ricardo/Desktop/temp/Animations/SK_FPGun.FBX
+[2018.03.28-01.40.38:554][437]LogFbx: FBX Scene Loaded Succesfully
+[2018.03.28-01.40.38:572][437]LogFbx: =================================================
+[2018.03.28-01.40.38:572][437]LogFbx: Dumping Node START [SK_FPGun] 
+[2018.03.28-01.40.38:572][437]LogFbx: 	Total Deformer Count 383268728.
+[2018.03.28-01.40.38:572][437]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.28-01.40.38:572][437]LogFbx: =================================================
+[2018.03.28-01.40.38:572][437]LogFbx: 	Attribute (SK_FPGun) Type (4).
+[2018.03.28-01.40.38:573][437]LogFbx: 		[Node Attribute Child 1] SK_FPGun (Type Mesh).
+[2018.03.28-01.40.38:573][437]LogFbx: Dumping Node END [SK_FPGun]
+[2018.03.28-01.40.38:573][437]LogFbx: =================================================
+[2018.03.28-01.40.38:573][437]LogFbx: Dumping Node START [SK_FPGun] 
+[2018.03.28-01.40.38:573][437]LogFbx: 	Total Deformer Count 383257976.
+[2018.03.28-01.40.38:573][437]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.28-01.40.38:573][437]LogFbx: =================================================
+[2018.03.28-01.40.38:573][437]LogFbx: 	Attribute (SK_FPGun) Type (4).
+[2018.03.28-01.40.38:573][437]LogFbx: 		[Node Attribute Child 1] SK_FPGun (Type Mesh).
+[2018.03.28-01.40.38:573][437]LogFbx: Dumping Node END [SK_FPGun]
+[2018.03.28-01.40.38:573][437]LogFbx: =================================================
+[2018.03.28-01.40.38:573][437]LogFbx: Dumping Node START [SK_FPGun] 
+[2018.03.28-01.40.38:573][437]LogFbx: 	Total Deformer Count 383268784.
+[2018.03.28-01.40.38:573][437]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.28-01.40.38:573][437]LogFbx: =================================================
+[2018.03.28-01.40.38:573][437]LogFbx: 	Attribute (SK_FPGun) Type (4).
+[2018.03.28-01.40.38:573][437]LogFbx: 		[Node Attribute Child 1] SK_FPGun (Type Mesh).
+[2018.03.28-01.40.38:573][437]LogFbx: Dumping Node END [SK_FPGun]
+[2018.03.28-01.40.38:575][437]LogFbx: Valid bind pose for Pose (SK_FPGun) - SK_FPGun
+[2018.03.28-01.40.38:601][437]LogMaterial: Warning: Material /Game/HeroChar/Gun/M_FPGun.M_FPGun needed to have new flag set bUsedWithSkeletalMesh !
+[2018.03.28-01.40.38:611][437]LogMaterial: Missing cached shader map for material M_FPGun, compiling. 
+[2018.03.28-01.40.38:635][437]LogMaterial: Missing cached shader map for material M_FPGun, compiling. 
+[2018.03.28-01.40.38:709][437]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.03.28-01.40.38:709][437]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.03.28-01.40.38:709][437]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.03.28-01.40.38:709][437]LogFbx: Warning: Bones digested - 6  Depth of hierarchy - 3
+[2018.03.28-01.40.38:996][437]LogSkeletalMesh: Section 0: 7668 vertices, 3 active bones
+[2018.03.28-01.40.39:077][437]LogSkeletalMesh: Section 0: Material=0, 10317 triangles
+[2018.03.28-01.40.39:095][437]LogSkeletalMesh: Building Skeletal Mesh SK_FPGun...
+[2018.03.28-01.40.39:129][437]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/HeroChar/Gun/SK_FPGun.SK_FPGun
+[2018.03.28-01.40.39:133][437]LogLinker: Can't find file '/Game/HeroChar/Gun/SK_FPGun_Skeleton'
+[2018.03.28-01.40.39:133][437]LogLinker: Can't find file '/Game/HeroChar/Gun/SK_FPGun_Skeleton'
+[2018.03.28-01.40.39:170][437]LogLinker: Can't find file '/Game/HeroChar/Gun/SK_FPGun_PhysicsAsset'
+[2018.03.28-01.40.39:171][437]LogLinker: Can't find file '/Game/HeroChar/Gun/SK_FPGun_PhysicsAsset'
+[2018.03.28-01.40.39:217][437]LogFbx: =================================================
+[2018.03.28-01.40.39:217][437]LogFbx: Dumping Node START [SK_FPGun] 
+[2018.03.28-01.40.39:217][437]LogFbx: 	Total Deformer Count -1187837952.
+[2018.03.28-01.40.39:217][437]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.28-01.40.39:217][437]LogFbx: =================================================
+[2018.03.28-01.40.39:217][437]LogFbx: 	Attribute (SK_FPGun) Type (4).
+[2018.03.28-01.40.39:217][437]LogFbx: 		[Node Attribute Child 1] SK_FPGun (Type Mesh).
+[2018.03.28-01.40.39:217][437]LogFbx: Dumping Node END [SK_FPGun]
+[2018.03.28-01.40.39:217][437]LogFbx: =================================================
+[2018.03.28-01.40.39:217][437]LogFbx: Dumping Node START [SK_FPGun] 
+[2018.03.28-01.40.39:217][437]LogFbx: 	Total Deformer Count -1187837896.
+[2018.03.28-01.40.39:217][437]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.28-01.40.39:217][437]LogFbx: =================================================
+[2018.03.28-01.40.39:217][437]LogFbx: 	Attribute (SK_FPGun) Type (4).
+[2018.03.28-01.40.39:217][437]LogFbx: 		[Node Attribute Child 1] SK_FPGun (Type Mesh).
+[2018.03.28-01.40.39:217][437]LogFbx: Dumping Node END [SK_FPGun]
+[2018.03.28-01.40.39:217][437]LogFbx: =================================================
+[2018.03.28-01.40.39:217][437]LogFbx: Dumping Node START [SK_FPGun] 
+[2018.03.28-01.40.39:217][437]LogFbx: 	Total Deformer Count -1187837504.
+[2018.03.28-01.40.39:217][437]LogFbx: 		[Node 1]  (Type Skin).
+[2018.03.28-01.40.39:217][437]LogFbx: =================================================
+[2018.03.28-01.40.39:217][437]LogFbx: 	Attribute (SK_FPGun) Type (4).
+[2018.03.28-01.40.39:218][437]LogFbx: 		[Node Attribute Child 1] SK_FPGun (Type Mesh).
+[2018.03.28-01.40.39:218][437]LogFbx: Dumping Node END [SK_FPGun]
+[2018.03.28-01.40.39:225][437]LogFbx: SortedLinks :(0) Root_Bone
+[2018.03.28-01.40.39:225][437]LogFbx: SortedLinks :(1) Grip_Bone
+[2018.03.28-01.40.39:225][437]LogFbx: SortedLinks :(2) Slide_Bone
+[2018.03.28-01.40.39:225][437]LogFbx: SortedLinks :(3) Trigger_Bone
+[2018.03.28-01.40.39:225][437]LogFbx: SortedLinks :(4) Clip_Bone
+[2018.03.28-01.40.39:225][437]LogFbx: SortedLinks :(5) Ammo
+[2018.03.28-01.40.39:225][437]LogFbx: Parsing AnimStack Unreal Take
+[2018.03.28-01.40.39:232][437]LogLinker: Can't find file '/Game/HeroChar/Gun/SK_FPGun_Anim'
+[2018.03.28-01.40.39:233][437]LogLinker: Can't find file '/Game/HeroChar/Gun/SK_FPGun_Anim'
+[2018.03.28-01.40.39:269][437]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HeroChar/Gun/SK_FPGun_Anim.SK_FPGun_Anim
+[2018.03.28-01.40.39:282][437]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.SK_FPGun_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.28-01.40.39:293][437]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.03.28-01.40.39:312][437]LogSkeletalMesh: Building Skeletal Mesh SK_FPGun...
+[2018.03.28-01.40.39:332][437]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/HeroChar/Gun/SK_FPGun.SK_FPGun
+[2018.03.28-01.40.40:806][438]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.03.28-01.40.41:346][440]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.03.28-01.40.42:064][441]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.03.28-01.40.43:273][442]LogSlate: Window 'Message Log' being destroyed
+[2018.03.28-01.40.43:290][442]LogSlate: Window 'Message Log' being destroyed
+[2018.03.28-01.40.46:876][718]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/01Gameplay' took 0.023
+[2018.03.28-01.40.46:878][718]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HeroChar/Gun/SK_FPGun] ([1] browsable assets)...
+[2018.03.28-01.40.46:891][718]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/HeroChar/Gun/SK_FPGun.SK_FPGun]
+[2018.03.28-01.40.46:892][718]OBJ SavePackage: Finished generating thumbnails for package [/Game/HeroChar/Gun/SK_FPGun]
+[2018.03.28-01.40.46:892][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroChar/Gun/SK_FPGun" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Saved/Autosaves/Game/HeroChar/Gun/SK_FPGun_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.03.28-01.40.46:935][718]LogSavePackage: Save=41.28ms
+[2018.03.28-01.40.46:935][718]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/SK_FPGun_Auto174A8B23B47D566A751EFC7B85E69882A.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Saved/Autosaves/Game/HeroChar/Gun/SK_FPGun_Auto1.uasset'
+[2018.03.28-01.40.46:937][718]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Saved/Autosaves/Game/HeroChar/Gun/SK_FPGun_Auto1.uasset
+[2018.03.28-01.40.46:937][718]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HeroChar/Gun/M_FPGun] ([1] browsable assets)...
+[2018.03.28-01.40.46:951][718]OBJ SavePackage:     Rendered thumbnail for [Material /Game/HeroChar/Gun/M_FPGun.M_FPGun]
+[2018.03.28-01.40.46:951][718]OBJ SavePackage: Finished generating thumbnails for package [/Game/HeroChar/Gun/M_FPGun]
+[2018.03.28-01.40.46:951][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroChar/Gun/M_FPGun" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Saved/Autosaves/Game/HeroChar/Gun/M_FPGun_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.03.28-01.40.46:970][718]LogSavePackage: Save=16.39ms
+[2018.03.28-01.40.46:970][718]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/M_FPGun_Auto1A800B7FE402B95104CC50E8F6AE4370A.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Saved/Autosaves/Game/HeroChar/Gun/M_FPGun_Auto1.uasset'
+[2018.03.28-01.40.46:971][718]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Saved/Autosaves/Game/HeroChar/Gun/M_FPGun_Auto1.uasset
+[2018.03.28-01.40.46:972][718]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/HeroChar/Gun/SK_FPGun_Skeleton] ([1] browsable assets)...
+[2018.03.28-01.40.46:972][718]OBJ SavePackage: Finished generating thumbnails for package [/Game/HeroChar/Gun/SK_FPGun_Skeleton]
+[2018.03.28-01.40.46:979][718]LogSavePackage: Save=5.02ms
+[2018.03.28-01.40.46:979][718]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/SK_FPGun_Skeleton_Auto106F94BA048D8D07494A88B8E132197DF.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Saved/Autosaves/Game/HeroChar/Gun/SK_FPGun_Skeleton_Auto1.uasset'
+[2018.03.28-01.40.46:981][718]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Saved/Autosaves/Game/HeroChar/Gun/SK_FPGun_Skeleton_Auto1.uasset
+[2018.03.28-01.40.46:982][718]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HeroChar/Gun/SK_FPGun_PhysicsAsset] ([1] browsable assets)...
+[2018.03.28-01.40.46:996][718]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/HeroChar/Gun/SK_FPGun_PhysicsAsset.SK_FPGun_PhysicsAsset]
+[2018.03.28-01.40.46:996][718]OBJ SavePackage: Finished generating thumbnails for package [/Game/HeroChar/Gun/SK_FPGun_PhysicsAsset]
+[2018.03.28-01.40.47:041][718]LogSavePackage: Save=42.70ms
+[2018.03.28-01.40.47:041][718]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/SK_FPGun_PhysicsAsset_Auto1C7A0252747395480A4D605B891ABFF12.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Saved/Autosaves/Game/HeroChar/Gun/SK_FPGun_PhysicsAsset_Auto1.uasset'
+[2018.03.28-01.40.47:043][718]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Saved/Autosaves/Game/HeroChar/Gun/SK_FPGun_PhysicsAsset_Auto1.uasset
+[2018.03.28-01.40.47:043][718]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HeroChar/Gun/SK_FPGun_Anim] ([1] browsable assets)...
+[2018.03.28-01.40.47:058][718]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/HeroChar/Gun/SK_FPGun_Anim.SK_FPGun_Anim]
+[2018.03.28-01.40.47:058][718]OBJ SavePackage: Finished generating thumbnails for package [/Game/HeroChar/Gun/SK_FPGun_Anim]
+[2018.03.28-01.40.47:087][718]LogSavePackage: Save=26.76ms
+[2018.03.28-01.40.47:087][718]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/SK_FPGun_Anim_Auto1ACC1BD024DE4AC0F86C0A29B805C3572.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Saved/Autosaves/Game/HeroChar/Gun/SK_FPGun_Anim_Auto1.uasset'
+[2018.03.28-01.40.47:088][718]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Saved/Autosaves/Game/HeroChar/Gun/SK_FPGun_Anim_Auto1.uasset
+[2018.03.28-01.40.47:089][718]LogFileHelpers: Auto-saving content packages took 0.212
+[2018.03.28-01.40.57:583][378]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroChar/Gun/SK_Gun/M_FPGun" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/Gun/SK_Gun/M_FPGun.uasset" SILENT=true
+[2018.03.28-01.40.57:602][378]LogSavePackage: Save=16.17ms
+[2018.03.28-01.40.57:602][378]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/M_FPGunAB05E8FF4BB808E275EB088732CD8176.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/Gun/SK_Gun/M_FPGun.uasset'
+[2018.03.28-01.40.57:605][378]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/Gun/SK_Gun/M_FPGun.uasset
+[2018.03.28-01.40.57:622][378]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroChar/Gun/SK_Gun/SK_FPGun" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/Gun/SK_Gun/SK_FPGun.uasset" SILENT=true
+[2018.03.28-01.40.57:651][378]LogSavePackage: Save=26.17ms
+[2018.03.28-01.40.57:651][378]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/SK_FPGunB0BC76BD4D1B2938AE63D69B135FD6DA.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/Gun/SK_Gun/SK_FPGun.uasset'
+[2018.03.28-01.40.57:654][378]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/Gun/SK_Gun/SK_FPGun.uasset
+[2018.03.28-01.40.57:671][378]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroChar/Gun/SK_Gun/SK_FPGun_Anim" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/Gun/SK_Gun/SK_FPGun_Anim.uasset" SILENT=true
+[2018.03.28-01.40.57:688][378]LogSavePackage: Save=15.31ms
+[2018.03.28-01.40.57:689][378]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/SK_FPGun_Anim77B88D794CFB729A34E32B99406F1523.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/Gun/SK_Gun/SK_FPGun_Anim.uasset'
+[2018.03.28-01.40.57:693][378]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/Gun/SK_Gun/SK_FPGun_Anim.uasset
+[2018.03.28-01.40.57:712][378]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroChar/Gun/SK_Gun/SK_FPGun_PhysicsAsset" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/Gun/SK_Gun/SK_FPGun_PhysicsAsset.uasset" SILENT=true
+[2018.03.28-01.40.57:730][378]LogSavePackage: Save=15.48ms
+[2018.03.28-01.40.57:730][378]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/SK_FPGun_PhysicsAssetD59BD3E547A536B330AA2694EF50C352.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/Gun/SK_Gun/SK_FPGun_PhysicsAsset.uasset'
+[2018.03.28-01.40.57:734][378]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/Gun/SK_Gun/SK_FPGun_PhysicsAsset.uasset
+[2018.03.28-01.40.57:740][378]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroChar/Gun/SK_Gun/SK_FPGun_Skeleton" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/Gun/SK_Gun/SK_FPGun_Skeleton.uasset" SILENT=true
+[2018.03.28-01.40.57:748][378]LogSavePackage: Save=5.42ms
+[2018.03.28-01.40.57:748][378]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/SK_FPGun_Skeleton7284FE9B464728522CC0C2A464A7B00B.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/Gun/SK_Gun/SK_FPGun_Skeleton.uasset'
+[2018.03.28-01.40.57:752][378]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/Gun/SK_Gun/SK_FPGun_Skeleton.uasset
+[2018.03.28-01.41.26:196][851]LogSlate: Window 'Delete Assets' being destroyed
+[2018.03.28-01.41.37:778][ 79]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/01Gameplay" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/Maps/01Gameplay.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.28-01.41.37:953][ 79]LogSavePackage: Save=143.84ms
+[2018.03.28-01.41.37:953][ 79]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/01Gameplay14BE11B34AA02217693D7C8427F1FD7C.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/Maps/01Gameplay.umap'
+[2018.03.28-01.41.37:955][ 79]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/Maps/01Gameplay.umap
+[2018.03.28-01.42.37:802][229]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.28-01.42.39:736][273]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.03.28-01.42.39:969][273]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.28-01.42.39:974][273]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.03.28-01.42.40:044][273]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_10:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.03.28-01.42.40:628][273]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2018.03.28-01.42.53:218][424]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2018.03.28-01.42.53:274][424]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) - call TermArticulated first.
+[2018.03.28-01.44.58:915][464]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.03.28-01.44.59:993][476]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.03.28-01.45.01:004][487]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.03.28-01.45.01:017][487]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.03.28-01.46.30:393][884]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.28-01.48.13:359][424]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.28-01.48.19:726][752]Cmd: TRANSACTION UNDO
+[2018.03.28-01.48.19:726][752]LogEditorTransaction: Undo Translate Socket
+[2018.03.28-01.48.20:045][752]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.28-01.48.20:056][752]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2018.03.28-01.48.53:353][506]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.28-01.49.12:057][671]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.28-01.49.12:119][674]Cmd: MODE GRID=0
+[2018.03.28-01.49.55:056][539]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.28-01.51.03:920][298]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.28-01.51.04:046][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroChar/Mesh/SK_Mannequin_Arms_Skeleton" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/Mesh/SK_Mannequin_Arms_Skeleton.uasset" SILENT=true
+[2018.03.28-01.51.04:066][302]LogSavePackage: Save=7.23ms
+[2018.03.28-01.51.04:066][302]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/SK_Mannequin_Arms_Skeleton07DB0DF54557C9F89AE34D8A4D05EDB5.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/Mesh/SK_Mannequin_Arms_Skeleton.uasset'
+[2018.03.28-01.51.04:069][302]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/Mesh/SK_Mannequin_Arms_Skeleton.uasset
+[2018.03.28-01.51.06:755][421]LogSlate: Window 'SK_Mannequin_Arms' being destroyed
+[2018.03.28-01.51.28:621][727]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.28-01.52.06:652][769]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.03.28-01.52.16:081][609]LogSlate: Window 'BP_SKGun*' being destroyed
+[2018.03.28-01.52.48:815][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroChar/Gun/SK_Gun/BP_SKGun" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/Gun/SK_Gun/BP_SKGun.uasset" SILENT=true
+[2018.03.28-01.52.48:840][ 68]LogSavePackage: Save=22.06ms
+[2018.03.28-01.52.48:840][ 68]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_SKGun71EED97B42126CDD1E3C228DDF432BA1.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/Gun/SK_Gun/BP_SKGun.uasset'
+[2018.03.28-01.52.48:843][ 68]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/Gun/SK_Gun/BP_SKGun.uasset
+[2018.03.28-01.52.51:086][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroChar/Gun/SK_Gun/BP_SKGun" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/Gun/SK_Gun/BP_SKGun.uasset" SILENT=true
+[2018.03.28-01.52.51:110][281]LogSavePackage: Save=12.70ms
+[2018.03.28-01.52.51:110][281]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_SKGunE96AB1294B50E7E10B106499C9BA681A.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/Gun/SK_Gun/BP_SKGun.uasset'
+[2018.03.28-01.52.51:112][281]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/Gun/SK_Gun/BP_SKGun.uasset
+[2018.03.28-01.52.51:509][305]BlueprintLog: New page: Compile BP_SKGun
+[2018.03.28-01.53.10:384][598]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.03.28-01.53.23:737][119]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/01Gameplay' took 0.030
+[2018.03.28-01.53.23:739][119]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HeroChar/BP_HeroChar] ([1] browsable assets)...
+[2018.03.28-01.53.23:788][119]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/HeroChar/BP_HeroChar.BP_HeroChar]
+[2018.03.28-01.53.23:788][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/HeroChar/BP_HeroChar]
+[2018.03.28-01.53.23:788][119]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroChar/BP_HeroChar" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Saved/Autosaves/Game/HeroChar/BP_HeroChar_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.03.28-01.53.23:853][119]LogSavePackage: Save=53.44ms
+[2018.03.28-01.53.23:853][119]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_HeroChar_Auto2EECF71FC4FA95EF0DF7FFFA6A89F75B6.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Saved/Autosaves/Game/HeroChar/BP_HeroChar_Auto2.uasset'
+[2018.03.28-01.53.23:855][119]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Saved/Autosaves/Game/HeroChar/BP_HeroChar_Auto2.uasset
+[2018.03.28-01.53.23:855][119]LogFileHelpers: Auto-saving content packages took 0.116
+[2018.03.28-01.54.23:947][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroChar/BP_HeroChar" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset" SILENT=true
+[2018.03.28-01.54.24:006][506]LogSavePackage: Save=52.83ms
+[2018.03.28-01.54.24:006][506]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_HeroChar0C51B0B8491DC0F6CC35EFA1066B6DBC.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset'
+[2018.03.28-01.54.24:009][506]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset
+[2018.03.28-01.54.25:159][568]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroChar/BP_HeroChar" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset" SILENT=true
+[2018.03.28-01.54.25:208][568]LogSavePackage: Save=43.56ms
+[2018.03.28-01.54.25:208][568]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_HeroChar27B84E734ABB81E30F8491AD80A33F6E.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset'
+[2018.03.28-01.54.25:210][568]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset
+[2018.03.28-01.54.25:718][588]BlueprintLog: New page: Compile BP_HeroChar
+[2018.03.28-01.54.25:767][588]LogBlueprint: Error: [Compiler BP_HeroChar] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.03.28-01.54.25:767][588]LogBlueprint: Error: [Compiler BP_HeroChar] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.03.28-01.54.26:109][588]LogBlueprint: Warning: [Compiler BP_HeroChar] [2111.79] Compile of BP_HeroChar failed. 2 Fatal Issue(s) 0 Warning(s) [in 390 ms] (/Game/HeroChar/BP_HeroChar.BP_HeroChar)
+[2018.03.28-01.54.56:039][411]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroChar/BP_HeroChar" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset" SILENT=true
+[2018.03.28-01.54.56:096][411]LogSavePackage: Save=52.11ms
+[2018.03.28-01.54.56:096][411]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_HeroChar26B5F07D4ACCB3111A1B1AAAAF5BA4B4.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset'
+[2018.03.28-01.54.56:100][411]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset
+[2018.03.28-01.54.58:169][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroChar/BP_HeroChar" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset" SILENT=true
+[2018.03.28-01.54.58:219][543]LogSavePackage: Save=45.18ms
+[2018.03.28-01.54.58:219][543]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_HeroChar641BEA0A403BF274308BFCAE3E00099F.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset'
+[2018.03.28-01.54.58:221][543]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset
+[2018.03.28-01.54.58:542][550]BlueprintLog: New page: Compile BP_HeroChar
+[2018.03.28-01.55.14:378][793]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.28-01.55.14:405][793]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.28-01.55.14:405][793]PIE: New page: PIE session: 01Gameplay (Mar 27, 2018, 7:55:14 PM)
+[2018.03.28-01.55.14:405][793]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_01Gameplay
+[2018.03.28-01.55.14:432][793]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026581s)
+[2018.03.28-01.55.14:433][793]LogAIModule: Creating AISystem for world 01Gameplay
+[2018.03.28-01.55.14:433][793]LogPlayLevel: PIE: World Init took: (0.000873s)
+[2018.03.28-01.55.14:433][793]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/01Gameplay.01Gameplay to /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay (0.027659s)
+[2018.03.28-01.55.14:463][793]LogInit: XAudio2 using 'Fones de ouvido (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.28-01.55.14:472][793]LogInit: FAudioDevice initialized.
+[2018.03.28-01.55.14:515][793]LogLoad: Game class is 'BP_GameplayGameMode_C'
+[2018.03.28-01.55.14:519][793]LogWorld: Bringing World /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay up for play (max tick rate 0) at 2018.03.27-22.55.14
+[2018.03.28-01.55.14:520][793]LogWorld: Bringing up level for play took: 0.004241
+[2018.03.28-01.55.14:552][793]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_01Gameplay -0.597
+[2018.03.28-01.55.20:816][907]LogSlate: Window 'TheGrind Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.03.28-01.56.17:270][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroChar/BP_HeroChar" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset" SILENT=true
+[2018.03.28-01.56.17:335][483]LogSavePackage: Save=56.12ms
+[2018.03.28-01.56.17:335][483]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_HeroChar0FF9C26E437237AE5B7BD6B5DD2035B0.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset'
+[2018.03.28-01.56.17:339][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset
+[2018.03.28-01.56.18:198][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroChar/BP_HeroChar" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset" SILENT=true
+[2018.03.28-01.56.18:250][562]LogSavePackage: Save=46.40ms
+[2018.03.28-01.56.18:250][562]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_HeroChar6B680FCD49953EE7ECA666878E8E9EA6.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset'
+[2018.03.28-01.56.18:252][562]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset
+[2018.03.28-01.56.18:603][588]BlueprintLog: New page: Compile BP_HeroChar
+[2018.03.28-01.56.19:599][632]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.28-01.56.19:625][632]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.28-01.56.19:625][632]PIE: New page: PIE session: 01Gameplay (Mar 27, 2018, 7:56:19 PM)
+[2018.03.28-01.56.19:625][632]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_01Gameplay
+[2018.03.28-01.56.19:651][632]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025418s)
+[2018.03.28-01.56.19:651][632]LogAIModule: Creating AISystem for world 01Gameplay
+[2018.03.28-01.56.19:652][632]LogPlayLevel: PIE: World Init took: (0.000858s)
+[2018.03.28-01.56.19:652][632]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/01Gameplay.01Gameplay to /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay (0.026450s)
+[2018.03.28-01.56.19:680][632]LogInit: XAudio2 using 'Fones de ouvido (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.28-01.56.19:689][632]LogInit: FAudioDevice initialized.
+[2018.03.28-01.56.19:733][632]LogLoad: Game class is 'BP_GameplayGameMode_C'
+[2018.03.28-01.56.19:737][632]LogWorld: Bringing World /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay up for play (max tick rate 0) at 2018.03.27-22.56.19
+[2018.03.28-01.56.19:738][632]LogWorld: Bringing up level for play took: 0.004341
+[2018.03.28-01.56.19:744][632]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_01Gameplay 0.594
+[2018.03.28-01.56.22:479][793]LogSlate: Window 'TheGrind Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.03.28-01.56.56:460][239]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.Actor_2.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.03.28-01.56.56:495][239]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_15:PersistentLevel.Actor_2.DebugSkelMeshComponent_2) - call TermArticulated first.
+[2018.03.28-01.57.01:861][724]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.Actor_3.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2018.03.28-01.57.01:891][724]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_16:PersistentLevel.Actor_3.DebugSkelMeshComponent_3) - call TermArticulated first.
+[2018.03.28-01.57.13:516][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroChar/BP_HeroChar" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset" SILENT=true
+[2018.03.28-01.57.13:578][722]LogSavePackage: Save=56.65ms
+[2018.03.28-01.57.13:578][722]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_HeroChar389011184E5A8CDB67B594AD5350E020.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset'
+[2018.03.28-01.57.13:581][722]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset
+[2018.03.28-01.57.14:187][769]BlueprintLog: New page: Compile BP_HeroChar
+[2018.03.28-01.57.15:700][868]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.28-01.57.15:726][868]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.28-01.57.15:726][868]PIE: New page: PIE session: 01Gameplay (Mar 27, 2018, 7:57:15 PM)
+[2018.03.28-01.57.15:726][868]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_01Gameplay
+[2018.03.28-01.57.15:751][868]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025247s)
+[2018.03.28-01.57.15:752][868]LogAIModule: Creating AISystem for world 01Gameplay
+[2018.03.28-01.57.15:752][868]LogPlayLevel: PIE: World Init took: (0.000829s)
+[2018.03.28-01.57.15:752][868]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/01Gameplay.01Gameplay to /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay (0.026275s)
+[2018.03.28-01.57.15:781][868]LogInit: XAudio2 using 'Fones de ouvido (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.28-01.57.15:790][868]LogInit: FAudioDevice initialized.
+[2018.03.28-01.57.15:832][868]LogLoad: Game class is 'BP_GameplayGameMode_C'
+[2018.03.28-01.57.15:837][868]LogWorld: Bringing World /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay up for play (max tick rate 0) at 2018.03.27-22.57.15
+[2018.03.28-01.57.15:837][868]LogWorld: Bringing up level for play took: 0.004271
+[2018.03.28-01.57.15:843][868]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_01Gameplay 0.694
+[2018.03.28-01.57.22:017][233]LogSlate: Window 'TheGrind Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.03.28-01.57.51:375][844]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroChar/BP_HeroChar" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset" SILENT=true
+[2018.03.28-01.57.51:438][844]LogSavePackage: Save=56.16ms
+[2018.03.28-01.57.51:438][844]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_HeroCharEBBC3F0344BC30D84537DA9A5335F04B.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset'
+[2018.03.28-01.57.51:441][844]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset
+[2018.03.28-01.57.51:838][865]BlueprintLog: New page: Compile BP_HeroChar
+[2018.03.28-01.57.52:790][888]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.28-01.57.52:815][888]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.28-01.57.52:815][888]PIE: New page: PIE session: 01Gameplay (Mar 27, 2018, 7:57:52 PM)
+[2018.03.28-01.57.52:815][888]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_01Gameplay
+[2018.03.28-01.57.52:841][888]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025167s)
+[2018.03.28-01.57.52:841][888]LogAIModule: Creating AISystem for world 01Gameplay
+[2018.03.28-01.57.52:841][888]LogPlayLevel: PIE: World Init took: (0.000817s)
+[2018.03.28-01.57.52:842][888]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/01Gameplay.01Gameplay to /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay (0.026177s)
+[2018.03.28-01.57.52:870][888]LogInit: XAudio2 using 'Fones de ouvido (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.28-01.57.52:880][888]LogInit: FAudioDevice initialized.
+[2018.03.28-01.57.52:924][888]LogLoad: Game class is 'BP_GameplayGameMode_C'
+[2018.03.28-01.57.52:928][888]LogWorld: Bringing World /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay up for play (max tick rate 0) at 2018.03.27-22.57.52
+[2018.03.28-01.57.52:929][888]LogWorld: Bringing up level for play took: 0.004076
+[2018.03.28-01.57.52:979][888]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_01Gameplay -0.17
+[2018.03.28-01.58.06:049][425]LogSlate: Window 'TheGrind Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.03.28-01.58.56:382][416]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroChar/BP_HeroChar" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset" SILENT=true
+[2018.03.28-01.58.56:469][416]LogSavePackage: Save=75.82ms
+[2018.03.28-01.58.56:469][416]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_HeroCharB103E18D4A9AC3561039E48250DDB8E9.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset'
+[2018.03.28-01.58.56:473][416]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset
+[2018.03.28-01.59.26:334][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroChar/BP_HeroChar" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset" SILENT=true
+[2018.03.28-01.59.26:388][  5]LogSavePackage: Save=46.24ms
+[2018.03.28-01.59.26:388][  5]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_HeroChar2DDE29404130C24A597F0D925E4D3C9A.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset'
+[2018.03.28-01.59.26:389][  5]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset
+[2018.03.28-01.59.26:736][ 19]BlueprintLog: New page: Compile BP_HeroChar
+[2018.03.28-01.59.29:217][103]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.28-01.59.29:243][103]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.28-01.59.29:243][103]PIE: New page: PIE session: 01Gameplay (Mar 27, 2018, 7:59:29 PM)
+[2018.03.28-01.59.29:243][103]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_01Gameplay
+[2018.03.28-01.59.29:269][103]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025918s)
+[2018.03.28-01.59.29:270][103]LogAIModule: Creating AISystem for world 01Gameplay
+[2018.03.28-01.59.29:270][103]LogPlayLevel: PIE: World Init took: (0.000935s)
+[2018.03.28-01.59.29:270][103]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/01Gameplay.01Gameplay to /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay (0.027039s)
+[2018.03.28-01.59.29:300][103]LogInit: XAudio2 using 'Fones de ouvido (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.28-01.59.29:309][103]LogInit: FAudioDevice initialized.
+[2018.03.28-01.59.29:350][103]LogLoad: Game class is 'BP_GameplayGameMode_C'
+[2018.03.28-01.59.29:355][103]LogWorld: Bringing World /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay up for play (max tick rate 0) at 2018.03.27-22.59.29
+[2018.03.28-01.59.29:356][103]LogWorld: Bringing up level for play took: 0.004210
+[2018.03.28-01.59.29:362][103]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_01Gameplay 0.212
+[2018.03.28-01.59.38:721][643]LogSlate: Window 'TheGrind Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.03.28-01.59.43:881][ 75]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.28-01.59.55:967][394]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroChar/Mesh/SK_Mannequin_Arms_Skeleton" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/Mesh/SK_Mannequin_Arms_Skeleton.uasset" SILENT=true
+[2018.03.28-01.59.55:985][394]LogSavePackage: Save=7.75ms
+[2018.03.28-01.59.55:986][394]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/SK_Mannequin_Arms_SkeletonACEAD62B4B0FCFC19FAD9ABB1403DC1F.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/Mesh/SK_Mannequin_Arms_Skeleton.uasset'
+[2018.03.28-01.59.55:989][394]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/Mesh/SK_Mannequin_Arms_Skeleton.uasset
+[2018.03.28-01.59.57:312][495]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroChar/Mesh/SK_Mannequin_Arms_Skeleton" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/Mesh/SK_Mannequin_Arms_Skeleton.uasset" SILENT=true
+[2018.03.28-01.59.57:337][495]LogSavePackage: Save=18.41ms
+[2018.03.28-01.59.57:337][495]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/SK_Mannequin_Arms_SkeletonE1239D8F4DCB784DDFAECE9552BA25DF.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/Mesh/SK_Mannequin_Arms_Skeleton.uasset'
+[2018.03.28-01.59.57:338][495]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/Mesh/SK_Mannequin_Arms_Skeleton.uasset
+[2018.03.28-02.00.19:556][640]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.28-02.00.19:584][640]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.28-02.00.19:584][640]PIE: New page: PIE session: 01Gameplay (Mar 27, 2018, 8:00:19 PM)
+[2018.03.28-02.00.19:584][640]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_01Gameplay
+[2018.03.28-02.00.19:609][640]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025047s)
+[2018.03.28-02.00.19:610][640]LogAIModule: Creating AISystem for world 01Gameplay
+[2018.03.28-02.00.19:610][640]LogPlayLevel: PIE: World Init took: (0.000723s)
+[2018.03.28-02.00.19:610][640]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/01Gameplay.01Gameplay to /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay (0.025977s)
+[2018.03.28-02.00.19:640][640]LogInit: XAudio2 using 'Fones de ouvido (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.28-02.00.19:649][640]LogInit: FAudioDevice initialized.
+[2018.03.28-02.00.19:693][640]LogLoad: Game class is 'BP_GameplayGameMode_C'
+[2018.03.28-02.00.19:697][640]LogWorld: Bringing World /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay up for play (max tick rate 0) at 2018.03.27-23.00.19
+[2018.03.28-02.00.19:698][640]LogWorld: Bringing up level for play took: 0.004299
+[2018.03.28-02.00.19:705][640]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_01Gameplay 0.555
+[2018.03.28-02.00.24:760][919]LogSlate: Window 'TheGrind Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.03.28-02.00.34:679][696]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroChar/Mesh/SK_Mannequin_Arms_Skeleton" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/Mesh/SK_Mannequin_Arms_Skeleton.uasset" SILENT=true
+[2018.03.28-02.00.34:693][696]LogSavePackage: Save=7.56ms
+[2018.03.28-02.00.34:693][696]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/SK_Mannequin_Arms_Skeleton7F173CB04F40CB7259CF7F9CE8035179.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/Mesh/SK_Mannequin_Arms_Skeleton.uasset'
+[2018.03.28-02.00.34:694][696]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/Mesh/SK_Mannequin_Arms_Skeleton.uasset
+[2018.03.28-02.00.40:045][235]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.03.28-02.00.40:059][235]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroChar/Mesh/SK_Mannequin_Arms_Skeleton" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/Mesh/SK_Mannequin_Arms_Skeleton.uasset" SILENT=true
+[2018.03.28-02.00.40:072][235]LogSavePackage: Save=7.31ms
+[2018.03.28-02.00.40:072][235]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/SK_Mannequin_Arms_Skeleton4485F3BA4D73EC60E0FFC1854040026D.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/Mesh/SK_Mannequin_Arms_Skeleton.uasset'
+[2018.03.28-02.00.40:076][235]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/Mesh/SK_Mannequin_Arms_Skeleton.uasset
+[2018.03.28-02.00.41:497][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroChar/Mesh/SK_Mannequin_Arms_Skeleton" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/Mesh/SK_Mannequin_Arms_Skeleton.uasset" SILENT=true
+[2018.03.28-02.00.41:509][340]LogSavePackage: Save=6.83ms
+[2018.03.28-02.00.41:510][340]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/SK_Mannequin_Arms_SkeletonD8D3DB004A655D83DFF704856A749752.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/Mesh/SK_Mannequin_Arms_Skeleton.uasset'
+[2018.03.28-02.00.41:511][340]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/Mesh/SK_Mannequin_Arms_Skeleton.uasset
+[2018.03.28-02.00.44:253][530]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.28-02.00.44:277][530]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.28-02.00.44:277][530]PIE: New page: PIE session: 01Gameplay (Mar 27, 2018, 8:00:44 PM)
+[2018.03.28-02.00.44:277][530]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_01Gameplay
+[2018.03.28-02.00.44:303][530]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025048s)
+[2018.03.28-02.00.44:303][530]LogAIModule: Creating AISystem for world 01Gameplay
+[2018.03.28-02.00.44:303][530]LogPlayLevel: PIE: World Init took: (0.000753s)
+[2018.03.28-02.00.44:303][530]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/01Gameplay.01Gameplay to /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay (0.025978s)
+[2018.03.28-02.00.44:332][530]LogInit: XAudio2 using 'Fones de ouvido (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.28-02.00.44:341][530]LogInit: FAudioDevice initialized.
+[2018.03.28-02.00.44:373][530]LogLoad: Game class is 'BP_GameplayGameMode_C'
+[2018.03.28-02.00.44:378][530]LogWorld: Bringing World /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay up for play (max tick rate 0) at 2018.03.27-23.00.44
+[2018.03.28-02.00.44:378][530]LogWorld: Bringing up level for play took: 0.004146
+[2018.03.28-02.00.44:381][530]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_01Gameplay -0.768
+[2018.03.28-02.00.52:026][273]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.28-02.00.53:319][358]Cmd: TRANSACTION UNDO
+[2018.03.28-02.00.53:319][358]LogEditorTransaction: Undo Translate Socket
+[2018.03.28-02.00.53:320][358]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.Actor_2.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.03.28-02.00.53:611][358]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.Actor_3.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2018.03.28-02.00.55:793][412]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.03.28-02.00.55:858][412]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroChar/Mesh/SK_Mannequin_Arms_Skeleton" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/Mesh/SK_Mannequin_Arms_Skeleton.uasset" SILENT=true
+[2018.03.28-02.00.55:871][412]LogSavePackage: Save=7.53ms
+[2018.03.28-02.00.55:871][412]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/SK_Mannequin_Arms_SkeletonF092249246528C4F6F25FDBC89065B35.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/Mesh/SK_Mannequin_Arms_Skeleton.uasset'
+[2018.03.28-02.00.55:875][412]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/Mesh/SK_Mannequin_Arms_Skeleton.uasset
+[2018.03.28-02.01.00:841][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroChar/Gun/SK_Gun/BP_SKGun" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/Gun/SK_Gun/BP_SKGun.uasset" SILENT=true
+[2018.03.28-02.01.00:874][705]LogSavePackage: Save=21.38ms
+[2018.03.28-02.01.00:874][705]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_SKGun40ABFA1A4253495EB289BBA6442694A4.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/Gun/SK_Gun/BP_SKGun.uasset'
+[2018.03.28-02.01.00:876][705]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/Gun/SK_Gun/BP_SKGun.uasset
+[2018.03.28-02.01.01:338][734]BlueprintLog: New page: Compile BP_SKGun
+[2018.03.28-02.01.22:963][650]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.28-02.01.22:989][650]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.28-02.01.22:989][650]PIE: New page: PIE session: 01Gameplay (Mar 27, 2018, 8:01:22 PM)
+[2018.03.28-02.01.22:989][650]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_01Gameplay
+[2018.03.28-02.01.23:014][650]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025108s)
+[2018.03.28-02.01.23:015][650]LogAIModule: Creating AISystem for world 01Gameplay
+[2018.03.28-02.01.23:015][650]LogPlayLevel: PIE: World Init took: (0.001017s)
+[2018.03.28-02.01.23:015][650]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/01Gameplay.01Gameplay to /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay (0.026301s)
+[2018.03.28-02.01.23:043][650]LogInit: XAudio2 using 'Fones de ouvido (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.28-02.01.23:053][650]LogInit: FAudioDevice initialized.
+[2018.03.28-02.01.23:099][650]LogLoad: Game class is 'BP_GameplayGameMode_C'
+[2018.03.28-02.01.23:104][650]LogWorld: Bringing World /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay up for play (max tick rate 0) at 2018.03.27-23.01.23
+[2018.03.28-02.01.23:104][650]LogWorld: Bringing up level for play took: 0.004495
+[2018.03.28-02.01.23:111][650]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_01Gameplay -0.038
+[2018.03.28-02.01.34:770][ 64]LogSlate: Window 'TheGrind Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.03.28-02.02.00:404][934]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroChar/BP_HeroChar" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset" SILENT=true
+[2018.03.28-02.02.00:467][934]LogSavePackage: Save=57.11ms
+[2018.03.28-02.02.00:467][934]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_HeroCharA79C379341CE38444B95EAA10778DB8F.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset'
+[2018.03.28-02.02.00:470][934]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset
+[2018.03.28-02.02.00:925][957]BlueprintLog: New page: Compile BP_HeroChar
+[2018.03.28-02.02.11:906][660]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroChar/BP_HeroChar" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset" SILENT=true
+[2018.03.28-02.02.11:975][660]LogSavePackage: Save=62.00ms
+[2018.03.28-02.02.11:975][660]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_HeroCharF09615284CE47D0703B65898E76BE629.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset'
+[2018.03.28-02.02.11:978][660]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset
+[2018.03.28-02.02.13:588][781]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.03.28-02.02.20:128][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroChar/BP_HeroChar" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset" SILENT=true
+[2018.03.28-02.02.20:180][ 66]LogSavePackage: Save=46.50ms
+[2018.03.28-02.02.20:181][ 66]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_HeroChar03A7DA234B845A82375C188C48F5F016.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset'
+[2018.03.28-02.02.20:182][ 66]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset
+[2018.03.28-02.02.20:617][ 89]BlueprintLog: New page: Compile BP_HeroChar
+[2018.03.28-02.02.21:951][130]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.28-02.02.21:977][130]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.28-02.02.21:977][130]PIE: New page: PIE session: 01Gameplay (Mar 27, 2018, 8:02:21 PM)
+[2018.03.28-02.02.21:977][130]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_01Gameplay
+[2018.03.28-02.02.22:002][130]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025290s)
+[2018.03.28-02.02.22:003][130]LogAIModule: Creating AISystem for world 01Gameplay
+[2018.03.28-02.02.22:003][130]LogPlayLevel: PIE: World Init took: (0.000777s)
+[2018.03.28-02.02.22:003][130]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/01Gameplay.01Gameplay to /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay (0.026260s)
+[2018.03.28-02.02.22:033][130]LogInit: XAudio2 using 'Fones de ouvido (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.28-02.02.22:041][130]LogInit: FAudioDevice initialized.
+[2018.03.28-02.02.22:085][130]LogLoad: Game class is 'BP_GameplayGameMode_C'
+[2018.03.28-02.02.22:090][130]LogWorld: Bringing World /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay up for play (max tick rate 0) at 2018.03.27-23.02.22
+[2018.03.28-02.02.22:090][130]LogWorld: Bringing up level for play took: 0.004189
+[2018.03.28-02.02.22:097][130]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_01Gameplay 0.948
+[2018.03.28-02.02.31:090][562]LogSlate: Window 'TheGrind Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.03.28-02.02.36:648][994]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroChar/BP_HeroChar" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset" SILENT=true
+[2018.03.28-02.02.36:710][994]LogSavePackage: Save=55.84ms
+[2018.03.28-02.02.36:711][994]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_HeroCharB461CB7A45BE540531D4AFA79A46311C.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset'
+[2018.03.28-02.02.36:714][994]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset
+[2018.03.28-02.02.38:538][129]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroChar/BP_HeroChar" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset" SILENT=true
+[2018.03.28-02.02.38:604][129]LogSavePackage: Save=60.64ms
+[2018.03.28-02.02.38:604][129]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_HeroChar1AA5A88442B7C403B72840B6B90E76D2.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset'
+[2018.03.28-02.02.38:606][129]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset
+[2018.03.28-02.02.39:049][157]BlueprintLog: New page: Compile BP_HeroChar
+[2018.03.28-02.02.40:054][188]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.28-02.02.40:080][188]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.28-02.02.40:080][188]PIE: New page: PIE session: 01Gameplay (Mar 27, 2018, 8:02:40 PM)
+[2018.03.28-02.02.40:080][188]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_01Gameplay
+[2018.03.28-02.02.40:106][188]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025475s)
+[2018.03.28-02.02.40:107][188]LogAIModule: Creating AISystem for world 01Gameplay
+[2018.03.28-02.02.40:107][188]LogPlayLevel: PIE: World Init took: (0.000759s)
+[2018.03.28-02.02.40:107][188]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/01Gameplay.01Gameplay to /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay (0.026428s)
+[2018.03.28-02.02.40:136][188]LogInit: XAudio2 using 'Fones de ouvido (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.28-02.02.40:144][188]LogInit: FAudioDevice initialized.
+[2018.03.28-02.02.40:188][188]LogLoad: Game class is 'BP_GameplayGameMode_C'
+[2018.03.28-02.02.40:193][188]LogWorld: Bringing World /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay up for play (max tick rate 0) at 2018.03.27-23.02.40
+[2018.03.28-02.02.40:193][188]LogWorld: Bringing up level for play took: 0.004118
+[2018.03.28-02.02.40:199][188]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_01Gameplay 1.05
+[2018.03.28-02.02.45:213][440]LogSlate: Window 'TheGrind Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.03.28-02.02.46:449][536]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.28-02.02.46:475][536]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.28-02.02.46:475][536]PIE: New page: PIE session: 01Gameplay (Mar 27, 2018, 8:02:46 PM)
+[2018.03.28-02.02.46:475][536]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_01Gameplay
+[2018.03.28-02.02.46:500][536]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024544s)
+[2018.03.28-02.02.46:500][536]LogAIModule: Creating AISystem for world 01Gameplay
+[2018.03.28-02.02.46:501][536]LogPlayLevel: PIE: World Init took: (0.000827s)
+[2018.03.28-02.02.46:501][536]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/01Gameplay.01Gameplay to /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay (0.025554s)
+[2018.03.28-02.02.46:527][536]LogInit: XAudio2 using 'Fones de ouvido (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.28-02.02.46:536][536]LogInit: FAudioDevice initialized.
+[2018.03.28-02.02.46:581][536]LogLoad: Game class is 'BP_GameplayGameMode_C'
+[2018.03.28-02.02.46:586][536]LogWorld: Bringing World /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay up for play (max tick rate 0) at 2018.03.27-23.02.46
+[2018.03.28-02.02.46:587][536]LogWorld: Bringing up level for play took: 0.004483
+[2018.03.28-02.02.46:593][536]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_01Gameplay -0.556
+[2018.03.28-02.02.56:396][ 56]LogSlate: Window 'TheGrind Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.03.28-02.03.09:858][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroChar/BP_HeroChar" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset" SILENT=true
+[2018.03.28-02.03.09:920][114]LogSavePackage: Save=56.52ms
+[2018.03.28-02.03.09:921][114]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_HeroChar99F0F4794B765C6AFFB8C4961C7B48C5.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset'
+[2018.03.28-02.03.09:924][114]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset
+[2018.03.28-02.03.10:304][135]BlueprintLog: New page: Compile BP_HeroChar
+[2018.03.28-02.03.11:751][228]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.28-02.03.11:776][228]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.28-02.03.11:776][228]PIE: New page: PIE session: 01Gameplay (Mar 27, 2018, 8:03:11 PM)
+[2018.03.28-02.03.11:776][228]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_01Gameplay
+[2018.03.28-02.03.11:801][228]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024977s)
+[2018.03.28-02.03.11:802][228]LogAIModule: Creating AISystem for world 01Gameplay
+[2018.03.28-02.03.11:802][228]LogPlayLevel: PIE: World Init took: (0.000890s)
+[2018.03.28-02.03.11:802][228]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/01Gameplay.01Gameplay to /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay (0.026051s)
+[2018.03.28-02.03.11:830][228]LogInit: XAudio2 using 'Fones de ouvido (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.28-02.03.11:839][228]LogInit: FAudioDevice initialized.
+[2018.03.28-02.03.11:883][228]LogLoad: Game class is 'BP_GameplayGameMode_C'
+[2018.03.28-02.03.11:888][228]LogWorld: Bringing World /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay up for play (max tick rate 0) at 2018.03.27-23.03.11
+[2018.03.28-02.03.11:889][228]LogWorld: Bringing up level for play took: 0.004605
+[2018.03.28-02.03.11:894][228]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_01Gameplay 0.745
+[2018.03.28-02.03.18:652][574]LogSlate: Window 'TheGrind Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.03.28-02.03.22:565][919]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroChar/BP_HeroChar" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset" SILENT=true
+[2018.03.28-02.03.22:627][919]LogSavePackage: Save=55.87ms
+[2018.03.28-02.03.22:627][919]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_HeroChar4B81171D46A163FB43BA638BF54E6A5D.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset'
+[2018.03.28-02.03.22:631][919]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset
+[2018.03.28-02.03.23:053][948]BlueprintLog: New page: Compile BP_HeroChar
+[2018.03.28-02.03.23:952][983]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.28-02.03.23:977][983]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.28-02.03.23:977][983]PIE: New page: PIE session: 01Gameplay (Mar 27, 2018, 8:03:23 PM)
+[2018.03.28-02.03.23:977][983]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_01Gameplay
+[2018.03.28-02.03.24:002][983]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025052s)
+[2018.03.28-02.03.24:003][983]LogAIModule: Creating AISystem for world 01Gameplay
+[2018.03.28-02.03.24:003][983]LogPlayLevel: PIE: World Init took: (0.000762s)
+[2018.03.28-02.03.24:003][983]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/01Gameplay.01Gameplay to /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay (0.025991s)
+[2018.03.28-02.03.24:032][983]LogInit: XAudio2 using 'Fones de ouvido (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.28-02.03.24:040][983]LogInit: FAudioDevice initialized.
+[2018.03.28-02.03.24:079][983]LogLoad: Game class is 'BP_GameplayGameMode_C'
+[2018.03.28-02.03.24:084][983]LogWorld: Bringing World /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay up for play (max tick rate 0) at 2018.03.27-23.03.24
+[2018.03.28-02.03.24:084][983]LogWorld: Bringing up level for play took: 0.004248
+[2018.03.28-02.03.24:090][983]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_01Gameplay 0.941
+[2018.03.28-02.03.26:372][118]LogSlate: Window 'TheGrind Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.03.28-02.03.28:562][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroChar/BP_HeroChar" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset" SILENT=true
+[2018.03.28-02.03.28:623][321]LogSavePackage: Save=55.34ms
+[2018.03.28-02.03.28:623][321]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_HeroCharA1080E724CFE77473B124CB0D076EF93.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset'
+[2018.03.28-02.03.28:626][321]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset
+[2018.03.28-02.05.39:071][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroChar/Mesh/SK_Mannequin_Arms_Skeleton" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/Mesh/SK_Mannequin_Arms_Skeleton.uasset" SILENT=true
+[2018.03.28-02.05.39:090][355]LogSavePackage: Save=7.34ms
+[2018.03.28-02.05.39:090][355]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/SK_Mannequin_Arms_SkeletonAB27F8294653A95F97BD28A8D8762ED4.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/Mesh/SK_Mannequin_Arms_Skeleton.uasset'
+[2018.03.28-02.05.39:094][355]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/Mesh/SK_Mannequin_Arms_Skeleton.uasset
+[2018.03.28-02.05.40:604][446]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroChar/Mesh/SK_Mannequin_Arms" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/Mesh/SK_Mannequin_Arms.uasset" SILENT=true
+[2018.03.28-02.05.40:653][446]LogSavePackage: Save=37.45ms
+[2018.03.28-02.05.40:654][446]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/SK_Mannequin_Arms358D0419405D3B806C2CBC92BBADCD6C.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/Mesh/SK_Mannequin_Arms.uasset'
+[2018.03.28-02.05.40:655][446]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/Mesh/SK_Mannequin_Arms.uasset
+[2018.03.28-02.05.42:472][568]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroChar/Gun/SK_Gun/BP_SKGun" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/Gun/SK_Gun/BP_SKGun.uasset" SILENT=true
+[2018.03.28-02.05.42:500][568]LogSavePackage: Save=21.48ms
+[2018.03.28-02.05.42:500][568]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_SKGunA177EA9948C6BEEB5DC09494B3B622DD.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/Gun/SK_Gun/BP_SKGun.uasset'
+[2018.03.28-02.05.42:502][568]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/Gun/SK_Gun/BP_SKGun.uasset
+[2018.03.28-02.05.42:962][599]BlueprintLog: New page: Compile BP_SKGun
+[2018.03.28-02.05.48:451][964]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroChar/BP_HeroChar" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset" SILENT=true
+[2018.03.28-02.05.48:521][964]LogSavePackage: Save=56.37ms
+[2018.03.28-02.05.48:521][964]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_HeroChar69CB90C14FE5AE31F9D5AFBA5660AA11.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset'
+[2018.03.28-02.05.48:525][964]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset
+[2018.03.28-02.05.48:999][998]BlueprintLog: New page: Compile BP_HeroChar
+[2018.03.28-02.05.51:296][119]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.28-02.05.51:322][119]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.28-02.05.51:322][119]PIE: New page: PIE session: 01Gameplay (Mar 27, 2018, 8:05:51 PM)
+[2018.03.28-02.05.51:322][119]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_01Gameplay
+[2018.03.28-02.05.51:348][119]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025470s)
+[2018.03.28-02.05.51:348][119]LogAIModule: Creating AISystem for world 01Gameplay
+[2018.03.28-02.05.51:349][119]LogPlayLevel: PIE: World Init took: (0.000839s)
+[2018.03.28-02.05.51:349][119]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/01Gameplay.01Gameplay to /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay (0.026506s)
+[2018.03.28-02.05.51:379][119]LogInit: XAudio2 using 'Fones de ouvido (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.28-02.05.51:388][119]LogInit: FAudioDevice initialized.
+[2018.03.28-02.05.51:432][119]LogLoad: Game class is 'BP_GameplayGameMode_C'
+[2018.03.28-02.05.51:437][119]LogWorld: Bringing World /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay up for play (max tick rate 0) at 2018.03.27-23.05.51
+[2018.03.28-02.05.51:438][119]LogWorld: Bringing up level for play took: 0.004517
+[2018.03.28-02.05.51:443][119]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_01Gameplay 0.294
+[2018.03.28-02.06.00:196][392]LogSlate: Window 'TheGrind Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.03.28-02.06.13:953][681]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.28-02.06.13:980][681]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.03.28-02.06.13:996][681]LogPlayLevel: [PlayLevel] Compiling BP_HeroChar before play...
+[2018.03.28-02.06.14:360][681]LogPlayLevel: PlayLevel: Blueprint regeneration took 380 ms (1 blueprints)
+[2018.03.28-02.06.14:360][681]PIE: New page: PIE session: 01Gameplay (Mar 27, 2018, 8:06:14 PM)
+[2018.03.28-02.06.14:360][681]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_01Gameplay
+[2018.03.28-02.06.14:385][681]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024501s)
+[2018.03.28-02.06.14:386][681]LogAIModule: Creating AISystem for world 01Gameplay
+[2018.03.28-02.06.14:386][681]LogPlayLevel: PIE: World Init took: (0.000825s)
+[2018.03.28-02.06.14:386][681]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/01Gameplay.01Gameplay to /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay (0.025494s)
+[2018.03.28-02.06.14:413][681]LogInit: XAudio2 using 'Fones de ouvido (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.28-02.06.14:421][681]LogInit: FAudioDevice initialized.
+[2018.03.28-02.06.14:459][681]LogLoad: Game class is 'BP_GameplayGameMode_C'
+[2018.03.28-02.06.14:464][681]LogWorld: Bringing World /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay up for play (max tick rate 0) at 2018.03.27-23.06.14
+[2018.03.28-02.06.14:464][681]LogWorld: Bringing up level for play took: 0.004383
+[2018.03.28-02.06.14:468][681]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_01Gameplay 1.319
+[2018.03.28-02.06.20:602][858]LogSlate: Window 'TheGrind Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.03.28-02.06.23:369][997]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.28-02.06.23:393][997]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.28-02.06.23:394][997]PIE: New page: PIE session: 01Gameplay (Mar 27, 2018, 8:06:23 PM)
+[2018.03.28-02.06.23:394][997]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_01Gameplay
+[2018.03.28-02.06.23:419][997]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025397s)
+[2018.03.28-02.06.23:420][997]LogAIModule: Creating AISystem for world 01Gameplay
+[2018.03.28-02.06.23:420][997]LogPlayLevel: PIE: World Init took: (0.000852s)
+[2018.03.28-02.06.23:420][997]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/01Gameplay.01Gameplay to /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay (0.026498s)
+[2018.03.28-02.06.23:448][997]LogInit: XAudio2 using 'Fones de ouvido (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.28-02.06.23:457][997]LogInit: FAudioDevice initialized.
+[2018.03.28-02.06.23:498][997]LogLoad: Game class is 'BP_GameplayGameMode_C'
+[2018.03.28-02.06.23:503][997]LogWorld: Bringing World /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay up for play (max tick rate 0) at 2018.03.27-23.06.23
+[2018.03.28-02.06.23:503][997]LogWorld: Bringing up level for play took: 0.004221
+[2018.03.28-02.06.23:509][997]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_01Gameplay 0.36
+[2018.03.28-02.06.24:969][ 35]LogSlate: Window 'TheGrind Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.03.28-02.06.28:764][315]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.28-02.06.28:790][315]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.28-02.06.28:790][315]PIE: New page: PIE session: 01Gameplay (Mar 27, 2018, 8:06:28 PM)
+[2018.03.28-02.06.28:791][315]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_01Gameplay
+[2018.03.28-02.06.28:815][315]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024738s)
+[2018.03.28-02.06.28:816][315]LogAIModule: Creating AISystem for world 01Gameplay
+[2018.03.28-02.06.28:816][315]LogPlayLevel: PIE: World Init took: (0.000713s)
+[2018.03.28-02.06.28:816][315]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/01Gameplay.01Gameplay to /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay (0.025621s)
+[2018.03.28-02.06.28:843][315]LogInit: XAudio2 using 'Fones de ouvido (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.28-02.06.28:852][315]LogInit: FAudioDevice initialized.
+[2018.03.28-02.06.28:886][315]LogLoad: Game class is 'BP_GameplayGameMode_C'
+[2018.03.28-02.06.28:891][315]LogWorld: Bringing World /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay up for play (max tick rate 0) at 2018.03.27-23.06.28
+[2018.03.28-02.06.28:891][315]LogWorld: Bringing up level for play took: 0.004310
+[2018.03.28-02.06.28:893][315]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_01Gameplay -0.256
+[2018.03.28-02.06.38:984][ 53]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.03.28-02.06.42:810][444]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.03.28-02.07.05:943][485]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.074 s
+[2018.03.28-02.07.05:943][485]LogOutputDevice: Error: === Handled ensure: ===
+[2018.03.28-02.07.05:943][485]LogOutputDevice: Error: 
+[2018.03.28-02.07.05:943][485]LogOutputDevice: Error: Ensure condition failed: ListenerTransformCopy.IsValid() [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Runtime\Engine\Private\AudioDevice.cpp] [Line: 2315]
+[2018.03.28-02.07.05:943][485]LogOutputDevice: Error: Invalid listener transform provided to AudioDevice
+[2018.03.28-02.07.05:943][485]LogOutputDevice: Error: Stack: 
+[2018.03.28-02.07.05:943][485]LogOutputDevice: Error: [Callstack] 0x00000000ABC3BA76 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.28-02.07.05:943][485]LogOutputDevice: Error: [Callstack] 0x00000000AB99AE3A UE4Editor-Core.dll!UnknownFunction []
+[2018.03.28-02.07.05:944][485]LogOutputDevice: Error: [Callstack] 0x00000000AB9AECD6 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.28-02.07.05:944][485]LogOutputDevice: Error: [Callstack] 0x00000000A33FFFC6 UE4Editor-Engine.dll!UnknownFunction []
+[2018.03.28-02.07.05:944][485]LogOutputDevice: Error: [Callstack] 0x00000000964093C6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.28-02.07.05:944][485]LogOutputDevice: Error: [Callstack] 0x0000000096403F95 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.28-02.07.05:944][485]LogOutputDevice: Error: [Callstack] 0x000000009600DEC2 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.28-02.07.05:944][485]LogOutputDevice: Error: [Callstack] 0x00000000A42098BB UE4Editor-Engine.dll!UnknownFunction []
+[2018.03.28-02.07.05:944][485]LogOutputDevice: Error: [Callstack] 0x0000000095F606D8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.28-02.07.05:944][485]LogOutputDevice: Error: [Callstack] 0x0000000095F5DCEB UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.28-02.07.05:944][485]LogOutputDevice: Error: [Callstack] 0x00000000967F9526 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.28-02.07.05:944][485]LogOutputDevice: Error: [Callstack] 0x00000000727D5EAC UE4Editor.exe!UnknownFunction []
+[2018.03.28-02.07.05:944][485]LogOutputDevice: Error: [Callstack] 0x00000000727E6BD0 UE4Editor.exe!UnknownFunction []
+[2018.03.28-02.07.05:944][485]LogOutputDevice: Error: [Callstack] 0x00000000727E6C4A UE4Editor.exe!UnknownFunction []
+[2018.03.28-02.07.05:945][485]LogOutputDevice: Error: [Callstack] 0x00000000727F4149 UE4Editor.exe!UnknownFunction []
+[2018.03.28-02.07.05:945][485]LogOutputDevice: Error: [Callstack] 0x00000000727F5B57 UE4Editor.exe!UnknownFunction []
+[2018.03.28-02.07.05:945][485]LogOutputDevice: Error: [Callstack] 0x00000000E5B91FE4 KERNEL32.DLL!UnknownFunction []
+[2018.03.28-02.07.05:945][485]LogOutputDevice: Error: [Callstack] 0x00000000E649EFC1 ntdll.dll!UnknownFunction []
+[2018.03.28-02.07.05:945][485]LogOutputDevice: Error: 
+[2018.03.28-02.07.05:954][485]LogStats:                SubmitErrorReport -  0.000 s
+[2018.03.28-02.07.08:496][485]LogStats:                    SendNewReport -  2.542 s
+[2018.03.28-02.07.08:496][485]LogStats:             FDebug::EnsureFailed -  3.638 s
+[2018.03.28-02.07.08:608][485]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.112 s
+[2018.03.28-02.07.08:608][485]LogOutputDevice: Error: === Handled ensure: ===
+[2018.03.28-02.07.08:608][485]LogOutputDevice: Error: 
+[2018.03.28-02.07.08:608][485]LogOutputDevice: Error: Ensure condition failed: Y != 0 [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Runtime\Core\Private\GenericPlatform\GenericPlatformMath.cpp] [Line: 81]
+[2018.03.28-02.07.08:608][485]LogOutputDevice: Error: FMath::FMod(X=-135.610916, Y=-nan) : Y is zero, this is invalid and would result in NaN!
+[2018.03.28-02.07.08:608][485]LogOutputDevice: Error: Stack: 
+[2018.03.28-02.07.08:608][485]LogOutputDevice: Error: [Callstack] 0x00000000ABC3BA76 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.28-02.07.08:608][485]LogOutputDevice: Error: [Callstack] 0x00000000AB99AE3A UE4Editor-Core.dll!UnknownFunction []
+[2018.03.28-02.07.08:608][485]LogOutputDevice: Error: [Callstack] 0x00000000AB9AECD6 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.28-02.07.08:608][485]LogOutputDevice: Error: [Callstack] 0x00000000AB858565 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.28-02.07.08:609][485]LogOutputDevice: Error: [Callstack] 0x000000009569EBD8 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.28-02.07.08:609][485]LogOutputDevice: Error: [Callstack] 0x00000000955E1274 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.28-02.07.08:609][485]LogOutputDevice: Error: [Callstack] 0x00000000955C202B UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.28-02.07.08:609][485]LogOutputDevice: Error: [Callstack] 0x00000000955C2B88 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.28-02.07.08:609][485]LogOutputDevice: Error: [Callstack] 0x000000009501725A UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.28-02.07.08:609][485]LogOutputDevice: Error: [Callstack] 0x00000000955D5E91 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.28-02.07.08:609][485]LogOutputDevice: Error: [Callstack] 0x00000000955B9D74 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.28-02.07.08:609][485]LogOutputDevice: Error: [Callstack] 0x00000000AB86B723 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.28-02.07.08:609][485]LogOutputDevice: Error: [Callstack] 0x00000000AB86BD4A UE4Editor-Core.dll!UnknownFunction []
+[2018.03.28-02.07.08:609][485]LogOutputDevice: Error: [Callstack] 0x00000000BD533CC9 UE4Editor-RenderCore.dll!UnknownFunction []
+[2018.03.28-02.07.08:609][485]LogOutputDevice: Error: [Callstack] 0x00000000BD534CF6 UE4Editor-RenderCore.dll!UnknownFunction []
+[2018.03.28-02.07.08:609][485]LogOutputDevice: Error: [Callstack] 0x00000000ABC3A36C UE4Editor-Core.dll!UnknownFunction []
+[2018.03.28-02.07.08:609][485]LogOutputDevice: Error: [Callstack] 0x00000000ABC2F0D3 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.28-02.07.08:609][485]LogOutputDevice: Error: [Callstack] 0x00000000E5B91FE4 KERNEL32.DLL!UnknownFunction []
+[2018.03.28-02.07.08:609][485]LogOutputDevice: Error: [Callstack] 0x00000000E649EFC1 ntdll.dll!UnknownFunction []
+[2018.03.28-02.07.08:609][485]LogOutputDevice: Error: 
+[2018.03.28-02.07.08:609][485]LogStats:                SubmitErrorReport -  0.000 s
