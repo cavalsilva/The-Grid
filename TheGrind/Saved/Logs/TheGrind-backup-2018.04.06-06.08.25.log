@@ -1,0 +1,1370 @@
+﻿Log file open, 04/05/18 23:43:48
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TheGrind
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1437260596) SRandInit(1437260596).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 3944462, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.262982
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  3.575s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-BRVLTMR (192.168.0.14:0)
+LogInit: Build: ++UE4+Release-4.19-CL-3944462
+LogInit: Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Mar 13 2018 23:12:32
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.06-02.43.52:412][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.06-02.43.52:412][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.06-02.43.52:493][  0]LogInit: Computer: DESKTOP-BRVLTMR
+[2018.04.06-02.43.52:493][  0]LogInit: User: Ricardo
+[2018.04.06-02.43.52:493][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.04.06-02.43.52:493][  0]LogInit: High frequency timer resolution =3.020484 MHz
+[2018.04.06-02.43.52:494][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2018.04.06-02.43.52:494][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.06-02.43.52:494][  0]LogMemory: Process Physical Memory: 275.18 MB used, 275.18 MB peak
+[2018.04.06-02.43.52:494][  0]LogMemory: Process Virtual Memory: 269.85 MB used, 269.85 MB peak
+[2018.04.06-02.43.52:494][  0]LogMemory: Physical Memory: 4055.46 MB used,  4100.50 MB free, 8155.95 MB total
+[2018.04.06-02.43.52:494][  0]LogMemory: Virtual Memory: 687.42 MB used,  4100.50 MB free, 134217728.00 MB total
+[2018.04.06-02.43.52:854][  0]LogInit: Overriding language with editor language configuration option (en).
+[2018.04.06-02.43.52:854][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2018.04.06-02.43.53:956][  0]LogStreaming: Display: Took  1.102s to EndInitTextLocalization.
+[2018.04.06-02.43.53:956][  0]LogInit: Setting process to per monitor DPI aware
+[2018.04.06-02.43.54:093][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.04.06-02.43.54:093][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.04.06-02.43.56:698][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.06-02.43.56:750][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2018.04.06-02.43.56:750][  0]LogD3D11RHI:       6061/0/4077 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.04.06-02.43.56:753][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.06-02.43.56:753][  0]LogD3D11RHI:       0/0/4077 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.06-02.43.56:753][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.06-02.43.56:760][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.06-02.43.56:761][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2018.04.06-02.43.56:761][  0]LogWindows: EnumDisplayDevices:
+[2018.04.06-02.43.56:761][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2018.04.06-02.43.56:761][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.04.06-02.43.56:761][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.04.06-02.43.56:761][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.04.06-02.43.56:761][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.06-02.43.56:761][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2018.04.06-02.43.56:761][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.06-02.43.56:761][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.06-02.43.56:761][  0]LogRHI: Texture pool is 4242 MB (70% of 6061 MB)
+[2018.04.06-02.43.56:789][  0]LogD3D11RHI: [Aftermath] Aftermath enabled but failed to initialize
+[2018.04.06-02.43.56:789][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.06-02.43.56:801][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.04.06-02.43.56:849][  0]LogShaderCompilers: Guid format shader working directory is 0 characters bigger than the processId version (../../../../../../Repositorios/The-Grind/TheGrind/Intermediate/Shaders/WorkingDirectory/680/).
+[2018.04.06-02.43.56:850][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Ricardo/AppData/Local/Temp/UnrealShaderWorkingDir/9898C0C445BDA0DB94784DB5EF123380/'.
+[2018.04.06-02.43.58:126][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.06-02.43.58:145][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.06-02.43.58:162][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.06-02.43.58:180][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.06-02.43.58:212][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.06-02.43.58:230][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.06-02.43.58:248][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.06-02.43.58:266][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.06-02.43.58:275][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.06-02.43.58:291][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.06-02.43.58:307][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.06-02.43.58:324][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.06-02.43.58:341][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.04.06-02.43.58:357][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.06-02.43.58:373][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.06-02.43.58:405][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.06-02.43.58:405][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.06-02.43.58:435][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.06-02.43.58:437][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.06-02.43.58:552][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.06-02.43.58:568][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.06-02.43.58:584][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.06-02.43.58:601][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.06-02.43.58:617][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.06-02.43.58:649][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.06-02.43.58:649][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.06-02.43.59:339][  0]LogXGEController: Cleaning working directory: C:/Users/Ricardo/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.04.06-02.43.59:339][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.04.06-02.43.59:340][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.04.06-02.43.59:340][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.06-02.44.02:415][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.06-02.44.03:061][  0]LogDerivedDataCache: Loaded boot cache 0.65s 74MB C:/Users/Ricardo/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.04.06-02.44.03:061][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Ricardo/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.04.06-02.44.03:062][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Repositorios/The-Grind/TheGrind/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.06-02.44.03:062][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.06-02.44.03:062][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Repositorios/The-Grind/TheGrind/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.06-02.44.03:062][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.06-02.44.03:118][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.06-02.44.03:131][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Ricardo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.06-02.44.03:147][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.06-02.44.03:148][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.06-02.44.03:182][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.06-02.44.03:182][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.06-02.44.11:699][  0]LogAssetRegistry: FAssetRegistry took 0.0277 seconds to start up
+[2018.04.06-02.44.12:151][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.06-02.44.12:675][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.06-02.44.12:679][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.06-02.44.12:679][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.06-02.44.12:679][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.06-02.44.12:679][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.06-02.44.12:679][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.06-02.44.12:743][  0]LogNetVersion: TheGrind , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2424750514)
+[2018.04.06-02.44.14:130][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.062776 seconds
+[2018.04.06-02.44.14:137][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.04.06-02.44.14:137][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.04.06-02.44.14:137][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.06-02.44.35:054][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.06-02.44.35:092][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.06-02.44.35:908][  0]SourceControl: Source control is disabled
+[2018.04.06-02.44.35:908][  0]SourceControl: Source control is disabled
+[2018.04.06-02.44.35:932][  0]SourceControl: Source control is disabled
+[2018.04.06-02.44.35:955][  0]SourceControl: Source control is disabled
+[2018.04.06-02.44.36:687][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.06-02.44.36:883][  0]LogOcInput: OculusInput pre-init called
+[2018.04.06-02.44.37:207][  0]LogEngine: Initializing Engine...
+[2018.04.06-02.44.37:208][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.04.06-02.44.37:210][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.06-02.44.37:210][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.06-02.44.37:747][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.06-02.44.37:814][  0]LogInit: XAudio2 using 'Fones de ouvido (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.06-02.44.37:841][  0]LogInit: FAudioDevice initialized.
+[2018.04.06-02.44.37:972][  0]LogDerivedDataCache: Saved boot cache 0.13s 74MB C:/Users/Ricardo/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.04.06-02.44.38:014][  0]LogInit: Texture streaming: Enabled
+[2018.04.06-02.44.38:036][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.06-02.44.38:053][  0]LogInit: Transaction tracking system initialized
+[2018.04.06-02.44.38:086][  0]BlueprintLog: New page: Editor Load
+[2018.04.06-02.44.38:208][  0]LocalizationService: Localization service is disabled
+[2018.04.06-02.44.38:353][  0]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/SideScrollerOverview'
+[2018.04.06-02.44.38:353][  0]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/SideScrollerOverview'
+[2018.04.06-02.44.38:354][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/SideScrollerBP/SideScrollerOverview.SideScrollerOverview_C'
+[2018.04.06-02.44.38:541][  0]LogConsoleResponse: Display: 
+[2018.04.06-02.44.39:800][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.06-02.44.39:801][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.06-02.44.39:801][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.06-02.44.39:801][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.06-02.44.39:801][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.06-02.44.39:908][  0]LogFileCache: Scanning file cache for directory 'C:/Repositorios/The-Grind/TheGrind/Content/' took 0.02s
+[2018.04.06-02.44.40:728][  0]SourceControl: Source control is disabled
+[2018.04.06-02.44.40:729][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.06-02.44.40:771][  0]LightingResults: New page: Lighting Build
+[2018.04.06-02.44.40:777][  0]MapCheck: New page: Map Check
+[2018.04.06-02.44.40:777][  0]LightingResults: New page: Lighting Build
+[2018.04.06-02.44.41:341][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.04.06-02.44.41:363][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.06-02.44.41:376][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.06-02.44.41:448][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 71.158ms to complete.
+[2018.04.06-02.44.41:448][  0]LogFileHelpers: Loading map 'Template_Default' took 0.719
+[2018.04.06-02.44.41:636][  0]LogCollectionManager: Loaded 0 collections in 0.002265 seconds
+[2018.04.06-02.44.41:678][  0]LogFileCache: Scanning file cache for directory 'C:/Repositorios/The-Grind/TheGrind/Saved/Collections/' took 0.01s
+[2018.04.06-02.44.41:678][  0]LogFileCache: Scanning file cache for directory 'C:/Repositorios/The-Grind/TheGrind/Content/Developers/Ricardo/Collections/' took 0.01s
+[2018.04.06-02.44.41:678][  0]LogFileCache: Scanning file cache for directory 'C:/Repositorios/The-Grind/TheGrind/Content/Collections/' took 0.01s
+[2018.04.06-02.44.41:678][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.04.06-02.44.41:690][  0]LogContentBrowser: Native class hierarchy populated in 0.0116 seconds. Added 2452 classes and 558 folders.
+[2018.04.06-02.44.41:699][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.04.06-02.44.42:694][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.04.06-02.44.42:701][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.04.06-02.44.42:816][  0]LogSlate: Took 0.016894 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.06-02.44.42:836][  0]LogSlate: Took 0.015667 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.06-02.44.42:854][  0]LogSlate: Took 0.015070 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.06-02.44.43:020][  0]LogRenderer: Reallocating scene render targets to support 1160x924 Format 10 NumSamples 1 (Frame:1).
+[2018.04.06-02.44.43:234][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.04.06-02.44.43:234][  0]LogLoad: (Engine Initialization) Total time: 59.07 seconds
+[2018.04.06-02.44.43:234][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.06-02.44.43:594][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.04.06-02.44.43:922][  1]LogAssetRegistry: Asset discovery search completed in 32.2454 seconds
+[2018.04.06-02.44.43:925][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.04.06-02.44.43:925][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000077 seconds (updated 0 objects)
+[2018.04.06-02.44.47:941][ 13]LogSlate: Took 0.027437 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.04.06-02.45.57:581][447]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.06-02.45.58:498][515]LogSlate: Took 0.000245 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.04.06-02.46.00:142][515]LogLinker: Warning: Can't find file '/Game/FirstPerson/Character/Textures/UE4_LOGO_CARD'
+[2018.04.06-02.46.00:142][515]LoadErrors: Failed to load /Game/HeroChar/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms Referenced by Arms_GEN_VARIABLE
+[2018.04.06-02.46.00:143][515]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/Character/Textures/UE4_LOGO_CARD' while loading ../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset.
+[2018.04.06-02.46.00:143][515]LoadErrors: Error: /Game/HeroChar/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO : Can't find file for asset. /Game/FirstPerson/Character/Textures/UE4_LOGO_CARD
+[2018.04.06-02.46.00:143][515]LogLinker: Warning: Can't find file '/Game/FirstPerson/Character/Textures/UE4_LOGO_CARD'
+[2018.04.06-02.46.00:143][515]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/Character/Textures/UE4_LOGO_CARD' while loading ../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset.
+[2018.04.06-02.46.00:998][515]LogLinker: Warning: Can't find file '/Game/FirstPerson/Character/Textures/UE4_LOGO_CARD'
+[2018.04.06-02.46.00:999][515]LoadErrors: Failed to load /Game/FirstPerson/Character/Textures/UE4_LOGO_CARD.UE4_LOGO_CARD Referenced by MaterialExpressionTextureSample_6
+[2018.04.06-02.46.00:999][515]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/Character/Textures/UE4_LOGO_CARD' while loading NULL.
+[2018.04.06-02.46.02:004][515]LogSkeletalMesh: Skeletal Mesh found in DDC [19.387621ms] /Game/HeroChar/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2018.04.06-02.46.02:678][515]LogAIModule: Creating AISystem for world 01Gameplay
+[2018.04.06-02.46.02:720][515]Cmd: MAP LOAD FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/Maps/01Gameplay.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.06-02.46.02:721][515]LightingResults: New page: Lighting Build
+[2018.04.06-02.46.02:722][515]LoadErrors: New page: Loading map: 01Gameplay.umap
+[2018.04.06-02.46.02:722][515]MapCheck: New page: Map Check
+[2018.04.06-02.46.02:722][515]LightingResults: New page: Lighting Build
+[2018.04.06-02.46.02:839][515]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.06-02.46.02:896][515]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.06-02.46.02:987][515]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 91.095ms to complete.
+[2018.04.06-02.46.02:987][515]LogFileHelpers: Loading map '01Gameplay' took 0.267
+[2018.04.06-02.49.17:441][571]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.04.06-02.49.18:759][571]LogSlate: Took 0.036553 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.06-02.49.18:999][572]LogSlate: Took 0.023389 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.06-02.49.35:304][292]LogSlate: Took 0.028344 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.04.06-02.50.46:570][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroChar/BP_HeroChar" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset" SILENT=true
+[2018.04.06-02.50.46:703][602]LogSavePackage: Save=100.82ms
+[2018.04.06-02.50.46:703][602]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_HeroChar4E3819F44DAD89C96A6D3AB0197A8FD1.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset'
+[2018.04.06-02.50.46:709][602]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset
+[2018.04.06-02.50.47:241][653]BlueprintLog: New page: Compile BP_HeroChar
+[2018.04.06-02.51.41:148][275]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroChar/BP_HeroChar" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset" SILENT=true
+[2018.04.06-02.51.41:272][275]LogSavePackage: Save=100.27ms
+[2018.04.06-02.51.41:272][275]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_HeroCharD12A92194F6A2EEFA0F81C8ECEF8C46B.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset'
+[2018.04.06-02.51.41:276][275]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset
+[2018.04.06-02.51.41:672][314]BlueprintLog: New page: Compile BP_HeroChar
+[2018.04.06-02.56.02:882][202]LogSlate: Window 'Delete Variable' being destroyed
+[2018.04.06-02.56.06:535][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroChar/BP_HeroChar" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset" SILENT=true
+[2018.04.06-02.56.06:662][609]LogSavePackage: Save=94.65ms
+[2018.04.06-02.56.06:662][609]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_HeroChar9529E7C04D6B77299A95159DFE223631.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset'
+[2018.04.06-02.56.06:665][609]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset
+[2018.04.06-02.56.07:239][675]BlueprintLog: New page: Compile BP_HeroChar
+[2018.04.06-02.56.07:341][675]LogBlueprint: Error: [Compiler BP_HeroChar] This blueprint (self) is not a BP_GameplayGameMode_C, therefore ' Target ' must have a connection.
+[2018.04.06-02.56.07:341][675]LogBlueprint: Error: [Compiler BP_HeroChar] This blueprint (self) is not a BP_GameplayGameMode_C, therefore ' Target ' must have a connection.
+[2018.04.06-02.56.07:341][675]LogBlueprint: Error: [Compiler BP_HeroChar] This blueprint (self) is not a BP_GameplayGameMode_C, therefore ' Target ' must have a connection.
+[2018.04.06-02.56.07:342][675]LogBlueprint: Error: [Compiler BP_HeroChar] This blueprint (self) is not a BP_GameplayGameMode_C, therefore ' Target ' must have a connection.
+[2018.04.06-02.56.07:342][675]LogBlueprint: Error: [Compiler BP_HeroChar] This blueprint (self) is not a BP_GameplayGameMode_C, therefore ' Target ' must have a connection.
+[2018.04.06-02.56.07:342][675]LogBlueprint: Error: [Compiler BP_HeroChar] This blueprint (self) is not a BP_GameplayGameMode_C, therefore ' Target ' must have a connection.
+[2018.04.06-02.56.07:691][675]LogBlueprint: Warning: [Compiler BP_HeroChar] [0743.53] Compile of BP_HeroChar failed. 6 Fatal Issue(s) 0 Warning(s) [in 451 ms] (/Game/HeroChar/BP_HeroChar.BP_HeroChar)
+[2018.04.06-02.56.16:273][662]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroChar/BP_HeroChar" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset" SILENT=true
+[2018.04.06-02.56.16:378][662]LogSavePackage: Save=87.52ms
+[2018.04.06-02.56.16:378][662]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_HeroCharB724D14B4F134BD669F10293EA4D297A.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset'
+[2018.04.06-02.56.16:382][662]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset
+[2018.04.06-02.56.16:771][706]BlueprintLog: New page: Compile BP_HeroChar
+[2018.04.06-02.56.16:842][706]LogBlueprint: Error: [Compiler BP_HeroChar] This blueprint (self) is not a BP_GameplayGameMode_C, therefore ' Target ' must have a connection.
+[2018.04.06-02.56.16:842][706]LogBlueprint: Error: [Compiler BP_HeroChar] This blueprint (self) is not a BP_GameplayGameMode_C, therefore ' Target ' must have a connection.
+[2018.04.06-02.56.16:842][706]LogBlueprint: Error: [Compiler BP_HeroChar] This blueprint (self) is not a BP_GameplayGameMode_C, therefore ' Target ' must have a connection.
+[2018.04.06-02.56.16:842][706]LogBlueprint: Error: [Compiler BP_HeroChar] This blueprint (self) is not a BP_GameplayGameMode_C, therefore ' Target ' must have a connection.
+[2018.04.06-02.56.17:167][706]LogBlueprint: Warning: [Compiler BP_HeroChar] [0753.01] Compile of BP_HeroChar failed. 4 Fatal Issue(s) 0 Warning(s) [in 396 ms] (/Game/HeroChar/BP_HeroChar.BP_HeroChar)
+[2018.04.06-02.56.40:120][335]Cmd: TRANSACTION UNDO
+[2018.04.06-02.56.40:120][335]LogEditorTransaction: Undo Delete current selection
+[2018.04.06-02.56.40:521][354]Cmd: TRANSACTION UNDO
+[2018.04.06-02.56.40:521][354]LogEditorTransaction: Undo Delete current selection
+[2018.04.06-02.56.41:111][397]Cmd: TRANSACTION UNDO
+[2018.04.06-02.56.41:111][397]LogEditorTransaction: Undo Remove Variable
+[2018.04.06-02.56.41:628][429]Cmd: TRANSACTION UNDO
+[2018.04.06-02.56.41:628][429]LogEditorTransaction: Undo Delete current selection
+[2018.04.06-02.56.42:314][484]Cmd: TRANSACTION UNDO
+[2018.04.06-02.56.42:314][484]LogEditorTransaction: Undo Break Pin Links
+[2018.04.06-02.56.42:871][524]Cmd: TRANSACTION UNDO
+[2018.04.06-02.56.42:871][524]LogEditorTransaction: Undo Delete current selection
+[2018.04.06-02.56.44:332][672]Cmd: TRANSACTION UNDO
+[2018.04.06-02.56.44:332][672]LogEditorTransaction: Undo Clicking on Actors
+[2018.04.06-02.56.46:374][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroChar/BP_HeroChar" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset" SILENT=true
+[2018.04.06-02.56.46:497][910]LogSavePackage: Save=98.01ms
+[2018.04.06-02.56.46:497][910]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_HeroChar1982CC244DD1DDFDD4FB5490421786B4.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset'
+[2018.04.06-02.56.46:500][910]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset
+[2018.04.06-02.56.46:936][959]BlueprintLog: New page: Compile BP_HeroChar
+[2018.04.06-02.57.48:940][986]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroChar/BP_HeroChar" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset" SILENT=true
+[2018.04.06-02.57.49:066][986]LogSavePackage: Save=100.75ms
+[2018.04.06-02.57.49:066][986]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_HeroChar482600074FDBE149A15B2E95557AC7F5.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset'
+[2018.04.06-02.57.49:069][986]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset
+[2018.04.06-02.57.49:431][ 26]BlueprintLog: New page: Compile BP_HeroChar
+[2018.04.06-02.57.59:868][ 85]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.06-02.57.59:898][ 85]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.06-02.57.59:914][ 85]PIE: New page: PIE session: 01Gameplay (Apr 5, 2018, 8:57:59 PM)
+[2018.04.06-02.57.59:914][ 85]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_01Gameplay
+[2018.04.06-02.57.59:919][ 85]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004674s)
+[2018.04.06-02.57.59:920][ 85]LogAIModule: Creating AISystem for world 01Gameplay
+[2018.04.06-02.57.59:920][ 85]LogPlayLevel: PIE: World Init took: (0.000828s)
+[2018.04.06-02.57.59:920][ 85]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/01Gameplay.01Gameplay to /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay (0.005664s)
+[2018.04.06-02.57.59:950][ 85]LogInit: XAudio2 using 'Fones de ouvido (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.06-02.57.59:961][ 85]LogInit: FAudioDevice initialized.
+[2018.04.06-02.58.00:015][ 85]LogLoad: Game class is 'BP_GameplayGameMode_C'
+[2018.04.06-02.58.00:024][ 85]LogWorld: Bringing World /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay up for play (max tick rate 0) at 2018.04.05-23.58.00
+[2018.04.06-02.58.00:024][ 85]LogWorld: Bringing up level for play took: 0.003921
+[2018.04.06-02.58.00:061][ 85]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2018.04.06-02.58.00:069][ 85]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_01Gameplay -0.057
+[2018.04.06-02.58.00:099][ 85]LogRenderer: Reallocating scene render targets to support 1292x924 Format 10 NumSamples 1 (Frame:1).
+[2018.04.06-02.58.01:430][200]LogScript: Warning: Accessed None trying to read property GameplayGameModeRefer
+	BP_HeroChar_C /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay:PersistentLevel.BP_HeroChar_C_0
+	Function /Game/HeroChar/BP_HeroChar.BP_HeroChar_C:ExecuteUbergraph_BP_HeroChar:007A
+[2018.04.06-02.58.01:431][200]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property GameplayGameModeRefer from function: 'ExecuteUbergraph_BP_HeroChar' from node: Pause Game in graph: EventGraph in object: BP_HeroChar with description: Accessed None trying to read property GameplayGameModeRefer
+[2018.04.06-02.58.02:313][284]LogScript: Warning: Accessed None trying to read property GameplayGameModeRefer
+	BP_HeroChar_C /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay:PersistentLevel.BP_HeroChar_C_0
+	Function /Game/HeroChar/BP_HeroChar.BP_HeroChar_C:ExecuteUbergraph_BP_HeroChar:007A
+[2018.04.06-02.58.02:313][284]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property GameplayGameModeRefer from function: 'ExecuteUbergraph_BP_HeroChar' from node: Pause Game in graph: EventGraph in object: BP_HeroChar with description: Accessed None trying to read property GameplayGameModeRefer
+[2018.04.06-02.58.03:568][405]LogSlate: Window 'TheGrind Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.06-02.58.08:793][982]LogSlate: Window 'Message Log' being destroyed
+[2018.04.06-02.58.08:796][982]LogSlate: Window 'Message Log' being destroyed
+[2018.04.06-02.59.17:549][824]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroChar/BP_HeroChar" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset" SILENT=true
+[2018.04.06-02.59.17:673][824]LogSavePackage: Save=99.08ms
+[2018.04.06-02.59.17:673][824]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_HeroChar3E9EAD0B45FDEE1420B6668CE7C46651.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset'
+[2018.04.06-02.59.17:677][824]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset
+[2018.04.06-02.59.18:270][892]BlueprintLog: New page: Compile BP_HeroChar
+[2018.04.06-03.03.27:979][290]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroChar/BP_HeroChar" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset" SILENT=true
+[2018.04.06-03.03.28:113][290]LogSavePackage: Save=101.96ms
+[2018.04.06-03.03.28:113][290]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_HeroCharDAD023914DEF2C7D166907B71B630829.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset'
+[2018.04.06-03.03.28:117][290]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset
+[2018.04.06-03.03.28:639][346]BlueprintLog: New page: Compile BP_HeroChar
+[2018.04.06-03.03.29:742][396]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.06-03.03.29:772][396]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.06-03.03.29:772][396]PIE: New page: PIE session: 01Gameplay (Apr 5, 2018, 9:03:29 PM)
+[2018.04.06-03.03.29:772][396]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_01Gameplay
+[2018.04.06-03.03.29:777][396]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004850s)
+[2018.04.06-03.03.29:778][396]LogAIModule: Creating AISystem for world 01Gameplay
+[2018.04.06-03.03.29:778][396]LogPlayLevel: PIE: World Init took: (0.000791s)
+[2018.04.06-03.03.29:778][396]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/01Gameplay.01Gameplay to /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay (0.005803s)
+[2018.04.06-03.03.29:809][396]LogInit: XAudio2 using 'Fones de ouvido (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.06-03.03.29:819][396]LogInit: FAudioDevice initialized.
+[2018.04.06-03.03.29:866][396]LogLoad: Game class is 'BP_GameplayGameMode_C'
+[2018.04.06-03.03.29:870][396]LogWorld: Bringing World /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay up for play (max tick rate 0) at 2018.04.06-00.03.29
+[2018.04.06-03.03.29:871][396]LogWorld: Bringing up level for play took: 0.003953
+[2018.04.06-03.03.29:895][396]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_01Gameplay -0.231
+[2018.04.06-03.03.33:535][761]LogSlate: Window 'TheGrind Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.06-03.08.50:559][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameLogic/BP_GamePlayGameMode" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/GameLogic/BP_GamePlayGameMode.uasset" SILENT=true
+[2018.04.06-03.08.50:649][740]LogSavePackage: Save=57.24ms
+[2018.04.06-03.08.50:649][740]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_GamePlayGameMode0908FF654EBB2404F2C8838F0CF54019.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/GameLogic/BP_GamePlayGameMode.uasset'
+[2018.04.06-03.08.50:653][740]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/GameLogic/BP_GamePlayGameMode.uasset
+[2018.04.06-03.08.51:267][810]BlueprintLog: New page: Compile BP_GameplayGameMode
+[2018.04.06-03.08.51:332][810]LogBlueprint: Error: [Compiler BP_GameplayGameMode] This blueprint (self) is not a PlayerController, therefore ' Target ' must have a connection.
+[2018.04.06-03.08.51:397][810]LogBlueprint: Error: [Compiler BP_GameplayGameMode] Variable node  Set bShowMouseCursor  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2018.04.06-03.08.51:605][810]LogBlueprint: Warning: [Compiler BP_GameplayGameMode] [1507.45] Compile of BP_GameplayGameMode failed. 2 Fatal Issue(s) 0 Warning(s) [in 338 ms] (/Game/GameLogic/BP_GamePlayGameMode.BP_GameplayGameMode)
+[2018.04.06-03.09.12:773][248]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameLogic/BP_GamePlayGameMode" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/GameLogic/BP_GamePlayGameMode.uasset" SILENT=true
+[2018.04.06-03.09.12:854][248]LogSavePackage: Save=56.70ms
+[2018.04.06-03.09.12:854][248]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_GamePlayGameMode908B2DDB4871FA1B1B2B23B8C587C6C3.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/GameLogic/BP_GamePlayGameMode.uasset'
+[2018.04.06-03.09.12:858][248]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/GameLogic/BP_GamePlayGameMode.uasset
+[2018.04.06-03.09.13:680][344]BlueprintLog: New page: Compile BP_GameplayGameMode
+[2018.04.06-03.09.22:958][390]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameLogic/BP_GamePlayGameMode" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/GameLogic/BP_GamePlayGameMode.uasset" SILENT=true
+[2018.04.06-03.09.23:035][390]LogSavePackage: Save=58.75ms
+[2018.04.06-03.09.23:035][390]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_GamePlayGameMode625373234E96851CF855C29DEA0ADEF7.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/GameLogic/BP_GamePlayGameMode.uasset'
+[2018.04.06-03.09.23:039][390]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/GameLogic/BP_GamePlayGameMode.uasset
+[2018.04.06-03.09.23:548][448]BlueprintLog: New page: Compile BP_GameplayGameMode
+[2018.04.06-03.09.24:442][509]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.06-03.09.24:471][509]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.06-03.09.24:471][509]PIE: New page: PIE session: 01Gameplay (Apr 5, 2018, 9:09:24 PM)
+[2018.04.06-03.09.24:471][509]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_01Gameplay
+[2018.04.06-03.09.24:476][509]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004629s)
+[2018.04.06-03.09.24:476][509]LogAIModule: Creating AISystem for world 01Gameplay
+[2018.04.06-03.09.24:477][509]LogPlayLevel: PIE: World Init took: (0.000805s)
+[2018.04.06-03.09.24:477][509]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/01Gameplay.01Gameplay to /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay (0.005573s)
+[2018.04.06-03.09.24:505][509]LogInit: XAudio2 using 'Fones de ouvido (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.06-03.09.24:515][509]LogInit: FAudioDevice initialized.
+[2018.04.06-03.09.24:565][509]LogLoad: Game class is 'BP_GameplayGameMode_C'
+[2018.04.06-03.09.24:573][509]LogWorld: Bringing World /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay up for play (max tick rate 0) at 2018.04.06-00.09.24
+[2018.04.06-03.09.24:574][509]LogWorld: Bringing up level for play took: 0.007784
+[2018.04.06-03.09.24:587][509]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_01Gameplay 0.461
+[2018.04.06-03.09.28:146][870]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.06-03.09.35:669][644]LogSlate: Window 'TheGrind Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.06-03.09.37:759][882]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.06-03.09.37:788][882]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.06-03.09.37:788][882]PIE: New page: PIE session: 01Gameplay (Apr 5, 2018, 9:09:37 PM)
+[2018.04.06-03.09.37:788][882]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_01Gameplay
+[2018.04.06-03.09.37:793][882]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004542s)
+[2018.04.06-03.09.37:793][882]LogAIModule: Creating AISystem for world 01Gameplay
+[2018.04.06-03.09.37:794][882]LogPlayLevel: PIE: World Init took: (0.000679s)
+[2018.04.06-03.09.37:794][882]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/01Gameplay.01Gameplay to /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay (0.005367s)
+[2018.04.06-03.09.37:821][882]LogInit: XAudio2 using 'Fones de ouvido (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.06-03.09.37:830][882]LogInit: FAudioDevice initialized.
+[2018.04.06-03.09.37:871][882]LogLoad: Game class is 'BP_GameplayGameMode_C'
+[2018.04.06-03.09.37:875][882]LogWorld: Bringing World /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay up for play (max tick rate 0) at 2018.04.06-00.09.37
+[2018.04.06-03.09.37:876][882]LogWorld: Bringing up level for play took: 0.003572
+[2018.04.06-03.09.37:883][882]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_01Gameplay -0.242
+[2018.04.06-03.09.42:216][325]LogSlate: Window 'TheGrind Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.06-03.11.12:132][ 44]LogSlate: Took 0.086362 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.04.06-03.11.38:496][779]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MenuPause" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/MenuPause.uasset" SILENT=true
+[2018.04.06-03.11.38:542][779]LogSavePackage: Save=14.09ms
+[2018.04.06-03.11.38:542][779]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/MenuPause1A4B5A494DC4755CD14368BAA1D5F4D0.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/MenuPause.uasset'
+[2018.04.06-03.11.38:545][779]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/MenuPause.uasset
+[2018.04.06-03.11.39:069][840]BlueprintLog: New page: Compile MenuPause
+[2018.04.06-03.11.39:899][930]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.06-03.11.39:929][930]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.06-03.11.39:929][930]PIE: New page: PIE session: 01Gameplay (Apr 5, 2018, 9:11:39 PM)
+[2018.04.06-03.11.39:929][930]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_01Gameplay
+[2018.04.06-03.11.39:934][930]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004743s)
+[2018.04.06-03.11.39:935][930]LogAIModule: Creating AISystem for world 01Gameplay
+[2018.04.06-03.11.39:935][930]LogPlayLevel: PIE: World Init took: (0.000864s)
+[2018.04.06-03.11.39:935][930]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/01Gameplay.01Gameplay to /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay (0.005749s)
+[2018.04.06-03.11.39:965][930]LogInit: XAudio2 using 'Fones de ouvido (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.06-03.11.39:974][930]LogInit: FAudioDevice initialized.
+[2018.04.06-03.11.40:016][930]LogLoad: Game class is 'BP_GameplayGameMode_C'
+[2018.04.06-03.11.40:020][930]LogWorld: Bringing World /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay up for play (max tick rate 0) at 2018.04.06-00.11.40
+[2018.04.06-03.11.40:020][930]LogWorld: Bringing up level for play took: 0.003566
+[2018.04.06-03.11.40:025][930]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_01Gameplay -0.1
+[2018.04.06-03.11.43:171][298]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.06-03.11.44:672][478]PIE: Warning: The widget 'MenuPause_C' was already added to the screen.
+[2018.04.06-03.11.51:681][316]LogSlate: Window 'TheGrind Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.06-03.11.57:202][968]LogSlate: Window 'Message Log' being destroyed
+[2018.04.06-03.11.57:207][968]LogSlate: Window 'Message Log' being destroyed
+[2018.04.06-03.13.26:376][117]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MenuPause" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/MenuPause.uasset" SILENT=true
+[2018.04.06-03.13.26:420][117]LogSavePackage: Save=19.63ms
+[2018.04.06-03.13.26:420][117]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/MenuPauseD3627EDC429BFF462125EDB46B7118F1.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/MenuPause.uasset'
+[2018.04.06-03.13.26:424][117]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/MenuPause.uasset
+[2018.04.06-03.13.26:866][168]BlueprintLog: New page: Compile MenuPause
+[2018.04.06-03.13.27:740][261]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.06-03.13.27:771][261]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.06-03.13.27:771][261]PIE: New page: PIE session: 01Gameplay (Apr 5, 2018, 9:13:27 PM)
+[2018.04.06-03.13.27:771][261]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_01Gameplay
+[2018.04.06-03.13.27:776][261]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004814s)
+[2018.04.06-03.13.27:777][261]LogAIModule: Creating AISystem for world 01Gameplay
+[2018.04.06-03.13.27:777][261]LogPlayLevel: PIE: World Init took: (0.000775s)
+[2018.04.06-03.13.27:777][261]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/01Gameplay.01Gameplay to /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay (0.005756s)
+[2018.04.06-03.13.27:807][261]LogInit: XAudio2 using 'Fones de ouvido (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.06-03.13.27:816][261]LogInit: FAudioDevice initialized.
+[2018.04.06-03.13.27:859][261]LogLoad: Game class is 'BP_GameplayGameMode_C'
+[2018.04.06-03.13.27:863][261]LogWorld: Bringing World /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay up for play (max tick rate 0) at 2018.04.06-00.13.27
+[2018.04.06-03.13.27:864][261]LogWorld: Bringing up level for play took: 0.003665
+[2018.04.06-03.13.27:869][261]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_01Gameplay -0.257
+[2018.04.06-03.13.31:792][699]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.06-03.13.37:634][360]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.06-03.13.43:353][995]LogSlate: Window 'TheGrind Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.06-03.14.15:977][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MenuPause" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/MenuPause.uasset" SILENT=true
+[2018.04.06-03.14.16:021][277]LogSavePackage: Save=19.37ms
+[2018.04.06-03.14.16:021][277]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/MenuPause0BB1422E40C6F4D63AD46AA3BBB69B32.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/MenuPause.uasset'
+[2018.04.06-03.14.16:025][277]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/MenuPause.uasset
+[2018.04.06-03.14.16:885][378]BlueprintLog: New page: Compile MenuPause
+[2018.04.06-03.14.17:870][485]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.06-03.14.17:900][485]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.06-03.14.17:901][485]PIE: New page: PIE session: 01Gameplay (Apr 5, 2018, 9:14:17 PM)
+[2018.04.06-03.14.17:901][485]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_01Gameplay
+[2018.04.06-03.14.17:906][485]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004788s)
+[2018.04.06-03.14.17:906][485]LogAIModule: Creating AISystem for world 01Gameplay
+[2018.04.06-03.14.17:906][485]LogPlayLevel: PIE: World Init took: (0.000776s)
+[2018.04.06-03.14.17:906][485]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/01Gameplay.01Gameplay to /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay (0.005708s)
+[2018.04.06-03.14.17:937][485]LogInit: XAudio2 using 'Fones de ouvido (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.06-03.14.17:946][485]LogInit: FAudioDevice initialized.
+[2018.04.06-03.14.17:988][485]LogLoad: Game class is 'BP_GameplayGameMode_C'
+[2018.04.06-03.14.17:992][485]LogWorld: Bringing World /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay up for play (max tick rate 0) at 2018.04.06-00.14.17
+[2018.04.06-03.14.17:992][485]LogWorld: Bringing up level for play took: 0.004069
+[2018.04.06-03.14.17:998][485]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_01Gameplay -0.128
+[2018.04.06-03.14.22:557][  8]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.06-03.14.33:174][150]LogBlueprintUserMessages: [BP_Enemy_230] Enemy is Dead
+[2018.04.06-03.14.34:108][249]LogSlate: Window 'TheGrind Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.06-03.15.17:781][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameLogic/BP_GamePlayGameMode" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/GameLogic/BP_GamePlayGameMode.uasset" SILENT=true
+[2018.04.06-03.15.17:872][ 62]LogSavePackage: Save=59.65ms
+[2018.04.06-03.15.17:872][ 62]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_GamePlayGameModeD2E56D614B8699ABEF4ADA8E8B8DED54.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/GameLogic/BP_GamePlayGameMode.uasset'
+[2018.04.06-03.15.17:876][ 62]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/GameLogic/BP_GamePlayGameMode.uasset
+[2018.04.06-03.15.18:223][101]BlueprintLog: New page: Compile BP_GameplayGameMode
+[2018.04.06-03.15.19:245][176]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.06-03.15.19:276][176]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.06-03.15.19:276][176]PIE: New page: PIE session: 01Gameplay (Apr 5, 2018, 9:15:19 PM)
+[2018.04.06-03.15.19:277][176]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_01Gameplay
+[2018.04.06-03.15.19:281][176]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004618s)
+[2018.04.06-03.15.19:282][176]LogAIModule: Creating AISystem for world 01Gameplay
+[2018.04.06-03.15.19:282][176]LogPlayLevel: PIE: World Init took: (0.000713s)
+[2018.04.06-03.15.19:282][176]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/01Gameplay.01Gameplay to /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay (0.005477s)
+[2018.04.06-03.15.19:314][176]LogInit: XAudio2 using 'Fones de ouvido (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.06-03.15.19:323][176]LogInit: FAudioDevice initialized.
+[2018.04.06-03.15.19:366][176]LogLoad: Game class is 'BP_GameplayGameMode_C'
+[2018.04.06-03.15.19:370][176]LogWorld: Bringing World /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay up for play (max tick rate 0) at 2018.04.06-00.15.19
+[2018.04.06-03.15.19:370][176]LogWorld: Bringing up level for play took: 0.003586
+[2018.04.06-03.15.19:378][176]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_01Gameplay -0.748
+[2018.04.06-03.15.23:163][591]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.06-03.15.23:282][603]PIE: Error: SetInputMode_GameOnly expects a valid player controller as 'PlayerController' target
+[2018.04.06-03.15.24:280][707]LogSlate: Window 'TheGrind Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.06-03.15.35:636][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameLogic/BP_GamePlayGameMode" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/GameLogic/BP_GamePlayGameMode.uasset" SILENT=true
+[2018.04.06-03.15.35:714][225]LogSavePackage: Save=58.82ms
+[2018.04.06-03.15.35:714][225]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_GamePlayGameMode3C1C1AF24019B239B23395B475AD40F1.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/GameLogic/BP_GamePlayGameMode.uasset'
+[2018.04.06-03.15.35:718][225]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/GameLogic/BP_GamePlayGameMode.uasset
+[2018.04.06-03.15.36:239][285]BlueprintLog: New page: Compile BP_GameplayGameMode
+[2018.04.06-03.15.37:574][397]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.06-03.15.37:607][397]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.06-03.15.37:607][397]PIE: New page: PIE session: 01Gameplay (Apr 5, 2018, 9:15:37 PM)
+[2018.04.06-03.15.37:607][397]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_01Gameplay
+[2018.04.06-03.15.37:612][397]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004880s)
+[2018.04.06-03.15.37:613][397]LogAIModule: Creating AISystem for world 01Gameplay
+[2018.04.06-03.15.37:613][397]LogPlayLevel: PIE: World Init took: (0.000737s)
+[2018.04.06-03.15.37:613][397]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/01Gameplay.01Gameplay to /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay (0.005799s)
+[2018.04.06-03.15.37:643][397]LogInit: XAudio2 using 'Fones de ouvido (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.06-03.15.37:652][397]LogInit: FAudioDevice initialized.
+[2018.04.06-03.15.37:695][397]LogLoad: Game class is 'BP_GameplayGameMode_C'
+[2018.04.06-03.15.37:699][397]LogWorld: Bringing World /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay up for play (max tick rate 0) at 2018.04.06-00.15.37
+[2018.04.06-03.15.37:699][397]LogWorld: Bringing up level for play took: 0.003687
+[2018.04.06-03.15.37:707][397]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_01Gameplay -0.418
+[2018.04.06-03.15.41:770][837]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.06-03.15.43:596][ 23]LogSlate: Window 'TheGrind Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.06-03.17.15:245][419]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/01Gameplay' took 0.028
+[2018.04.06-03.17.15:249][419]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameLogic/BP_GamePlayGameMode] ([1] browsable assets)...
+[2018.04.06-03.17.15:249][419]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameLogic/BP_GamePlayGameMode]
+[2018.04.06-03.17.15:340][419]LogSavePackage: Save=65.40ms
+[2018.04.06-03.17.15:340][419]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_GamePlayGameMode_Auto17EF2DAC84483034B77ADC2A076D41EE9.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Saved/Autosaves/Game/GameLogic/BP_GamePlayGameMode_Auto1.uasset'
+[2018.04.06-03.17.15:342][419]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Saved/Autosaves/Game/GameLogic/BP_GamePlayGameMode_Auto1.uasset
+[2018.04.06-03.17.15:342][419]LogFileHelpers: Auto-saving content packages took 0.095
+[2018.04.06-03.17.35:258][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameLogic/BP_GamePlayGameMode" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/GameLogic/BP_GamePlayGameMode.uasset" SILENT=true
+[2018.04.06-03.17.35:344][444]LogSavePackage: Save=60.91ms
+[2018.04.06-03.17.35:344][444]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_GamePlayGameMode76CAF63243A157CFB547E0ACEA3F8111.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/GameLogic/BP_GamePlayGameMode.uasset'
+[2018.04.06-03.17.35:348][444]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/GameLogic/BP_GamePlayGameMode.uasset
+[2018.04.06-03.17.35:763][490]BlueprintLog: New page: Compile BP_GameplayGameMode
+[2018.04.06-03.17.36:740][560]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.06-03.17.36:771][560]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.06-03.17.36:771][560]PIE: New page: PIE session: 01Gameplay (Apr 5, 2018, 9:17:36 PM)
+[2018.04.06-03.17.36:771][560]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_01Gameplay
+[2018.04.06-03.17.36:776][560]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004746s)
+[2018.04.06-03.17.36:777][560]LogAIModule: Creating AISystem for world 01Gameplay
+[2018.04.06-03.17.36:777][560]LogPlayLevel: PIE: World Init took: (0.000834s)
+[2018.04.06-03.17.36:777][560]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/01Gameplay.01Gameplay to /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay (0.005724s)
+[2018.04.06-03.17.36:806][560]LogInit: XAudio2 using 'Fones de ouvido (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.06-03.17.36:815][560]LogInit: FAudioDevice initialized.
+[2018.04.06-03.17.36:861][560]LogLoad: Game class is 'BP_GameplayGameMode_C'
+[2018.04.06-03.17.36:865][560]LogWorld: Bringing World /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay up for play (max tick rate 0) at 2018.04.06-00.17.36
+[2018.04.06-03.17.36:865][560]LogWorld: Bringing up level for play took: 0.003548
+[2018.04.06-03.17.36:873][560]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_01Gameplay 0.747
+[2018.04.06-03.17.39:511][814]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.06-03.17.40:847][954]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.06-03.17.42:896][166]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.06-03.17.44:000][274]LogSlate: Window 'TheGrind Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.06-03.18.26:556][530]LogUObjectHash: Warning: Ambiguous search, could be Class /Script/UMG.VerticalBox or VerticalBox /Game/HUD/MenuPause.MenuPause:WidgetTree.VerticalBox
+[2018.04.06-03.18.26:556][530]LogUObjectHash: Warning: Ambiguous search, could be Class /Script/UMG.VerticalBox or VerticalBox /Game/HUD/MenuPause.MenuPause_C:WidgetTree.VerticalBox
+[2018.04.06-03.18.26:556][530]LogUObjectHash: Warning: Ambiguous search, could be Class /Script/UMG.VerticalBox or VerticalBox /Engine/Transient.REINST_MenuPause_C_8:WidgetTree.VerticalBox
+[2018.04.06-03.18.26:556][530]LogUObjectHash: Warning: Ambiguous search, could be Class /Script/UMG.VerticalBox or VerticalBox /Engine/Transient.World_4:MenuPause_C_13.WidgetTree_19.VerticalBox
+[2018.04.06-03.18.26:556][530]LogUObjectHash: Warning: Ambiguous search, could be Class /Script/UMG.VerticalBox or VerticalBox /Engine/Transient.World_4:MenuPause_C_46.WidgetTree_55.VerticalBox
+[2018.04.06-03.18.26:557][530]LogUObjectHash: Warning: Ambiguous search, could be Class /Script/UMG.VerticalBox or VerticalBox /Engine/Transient.World_4:MenuPause_C_14.WidgetTree_20.VerticalBox
+[2018.04.06-03.18.26:557][530]LogUObjectHash: Warning: Ambiguous search, could be Class /Script/UMG.VerticalBox or VerticalBox /Engine/Transient.World_4:MenuPause_C_6.WidgetTree_10.VerticalBox
+[2018.04.06-03.18.26:557][530]LogUObjectHash: Warning: Ambiguous search, could be Class /Script/UMG.VerticalBox or VerticalBox /Engine/Transient.REINST_MenuPause_C_4:WidgetTree.VerticalBox
+[2018.04.06-03.18.26:557][530]LogUObjectHash: Warning: Ambiguous search, could be Class /Script/UMG.VerticalBox or VerticalBox /Engine/Transient.World_4:MenuPause_C_45.WidgetTree_54.VerticalBox
+[2018.04.06-03.18.26:557][530]LogUObjectHash: Warning: Ambiguous search, could be VerticalBoxSlot /Game/HUD/MenuPause.MenuPause:WidgetTree.VerticalBox.VerticalBoxSlot_0 or VerticalBoxSlot /Game/HUD/MenuPause.MenuPause_C:WidgetTree.VerticalBox.VerticalBoxSlot_0
+[2018.04.06-03.18.26:557][530]LogUObjectHash: Warning: Ambiguous search, could be VerticalBoxSlot /Game/HUD/MenuPause.MenuPause:WidgetTree.VerticalBox.VerticalBoxSlot_0 or VerticalBoxSlot /Engine/Transient.REINST_MenuPause_C_8:WidgetTree.VerticalBox.VerticalBoxSlot_0
+[2018.04.06-03.18.26:557][530]LogUObjectHash: Warning: Ambiguous search, could be VerticalBoxSlot /Game/HUD/MenuPause.MenuPause:WidgetTree.VerticalBox.VerticalBoxSlot_0 or VerticalBoxSlot /Engine/Transient.World_4:MenuPause_C_13.WidgetTree_19.VerticalBox.VerticalBoxSlot_0
+[2018.04.06-03.18.26:557][530]LogUObjectHash: Warning: Ambiguous search, could be VerticalBoxSlot /Game/HUD/MenuPause.MenuPause:WidgetTree.VerticalBox.VerticalBoxSlot_0 or VerticalBoxSlot /Engine/Transient.World_4:MenuPause_C_45.WidgetTree_54.VerticalBox.VerticalBoxSlot_0
+[2018.04.06-03.18.26:557][530]LogUObjectHash: Warning: Ambiguous search, could be VerticalBoxSlot /Game/HUD/MenuPause.MenuPause:WidgetTree.VerticalBox.VerticalBoxSlot_0 or VerticalBoxSlot /Engine/Transient.World_4:MenuPause_C_14.WidgetTree_20.VerticalBox.VerticalBoxSlot_0
+[2018.04.06-03.18.26:557][530]LogUObjectHash: Warning: Ambiguous search, could be VerticalBoxSlot /Game/HUD/MenuPause.MenuPause:WidgetTree.VerticalBox.VerticalBoxSlot_0 or VerticalBoxSlot /Engine/Transient.World_4:MenuPause_C_6.WidgetTree_10.VerticalBox.VerticalBoxSlot_0
+[2018.04.06-03.18.26:557][530]LogUObjectHash: Warning: Ambiguous search, could be VerticalBoxSlot /Game/HUD/MenuPause.MenuPause:WidgetTree.VerticalBox.VerticalBoxSlot_0 or VerticalBoxSlot /Engine/Transient.REINST_MenuPause_C_4:WidgetTree.VerticalBox.VerticalBoxSlot_0
+[2018.04.06-03.18.26:557][530]LogUObjectHash: Warning: Ambiguous search, could be VerticalBoxSlot /Game/HUD/MenuPause.MenuPause:WidgetTree.VerticalBox.VerticalBoxSlot_0 or VerticalBoxSlot /Engine/Transient.World_4:MenuPause_C_46.WidgetTree_55.VerticalBox.VerticalBoxSlot_0
+[2018.04.06-03.18.26:557][530]LogProperty: Warning: Illegal TEXT reference to a private object in external package (VerticalBoxSlot /Game/HUD/MenuPause.MenuPause:WidgetTree.VerticalBox.VerticalBoxSlot_0) from referencer (Button /Engine/UMG/Editor/Transient.BtnBack).  Import failed...
+[2018.04.06-03.18.26:557][530]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'VerticalBoxSlot'"VerticalBox.VerticalBoxSlot_0"''
+[2018.04.06-03.18.48:857][ 92]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MenuPause" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/MenuPause.uasset" SILENT=true
+[2018.04.06-03.18.48:909][ 92]LogSavePackage: Save=19.95ms
+[2018.04.06-03.18.48:909][ 92]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/MenuPause353433074201EDF3B8E673AD5C10BF92.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/MenuPause.uasset'
+[2018.04.06-03.18.48:913][ 92]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/MenuPause.uasset
+[2018.04.06-03.19.33:621][572]BlueprintLog: New page: Compile MenuPause
+[2018.04.06-03.20.01:539][553]LogUObjectHash: Warning: Ambiguous search, could be Class /Script/UMG.VerticalBox or VerticalBox /Game/HUD/MenuPause.MenuPause:WidgetTree.VerticalBox
+[2018.04.06-03.20.01:539][553]LogUObjectHash: Warning: Ambiguous search, could be Class /Script/UMG.VerticalBox or VerticalBox /Engine/Transient.REINST_MenuPause_C_8:WidgetTree.VerticalBox
+[2018.04.06-03.20.01:539][553]LogUObjectHash: Warning: Ambiguous search, could be Class /Script/UMG.VerticalBox or VerticalBox /Engine/Transient.World_4:MenuPause_C_13.WidgetTree_19.VerticalBox
+[2018.04.06-03.20.01:539][553]LogUObjectHash: Warning: Ambiguous search, could be Class /Script/UMG.VerticalBox or VerticalBox /Engine/Transient.World_4:MenuPause_C_54.WidgetTree_62.VerticalBox
+[2018.04.06-03.20.01:539][553]LogUObjectHash: Warning: Ambiguous search, could be Class /Script/UMG.VerticalBox or VerticalBox /Engine/Transient.World_4:MenuPause_C_14.WidgetTree_20.VerticalBox
+[2018.04.06-03.20.01:539][553]LogUObjectHash: Warning: Ambiguous search, could be Class /Script/UMG.VerticalBox or VerticalBox /Engine/Transient.World_4:MenuPause_C_6.WidgetTree_10.VerticalBox
+[2018.04.06-03.20.01:539][553]LogUObjectHash: Warning: Ambiguous search, could be Class /Script/UMG.VerticalBox or VerticalBox /Engine/Transient.REINST_MenuPause_C_4:WidgetTree.VerticalBox
+[2018.04.06-03.20.01:539][553]LogUObjectHash: Warning: Ambiguous search, could be Class /Script/UMG.VerticalBox or VerticalBox /Engine/Transient.World_4:MenuPause_C_53.WidgetTree_61.VerticalBox
+[2018.04.06-03.20.01:539][553]LogUObjectHash: Warning: Ambiguous search, could be Class /Script/UMG.VerticalBox or VerticalBox /Engine/Transient.World_4:MenuPause_C_48.WidgetTree_57.VerticalBox
+[2018.04.06-03.20.01:539][553]LogUObjectHash: Warning: Ambiguous search, could be Class /Script/UMG.VerticalBox or VerticalBox /Engine/Transient.World_4:MenuPause_C_47.WidgetTree_56.VerticalBox
+[2018.04.06-03.20.01:539][553]LogUObjectHash: Warning: Ambiguous search, could be Class /Script/UMG.VerticalBox or VerticalBox /Engine/Transient.World_4:MenuPause_C_49.WidgetTree_58.VerticalBox
+[2018.04.06-03.20.01:539][553]LogUObjectHash: Warning: Ambiguous search, could be Class /Script/UMG.VerticalBox or VerticalBox /Engine/Transient.World_4:MenuPause_C_50.WidgetTree_59.VerticalBox
+[2018.04.06-03.20.01:539][553]LogUObjectHash: Warning: Ambiguous search, could be Class /Script/UMG.VerticalBox or VerticalBox /Engine/Transient.REINST_MenuPause_C_19:WidgetTree.VerticalBox
+[2018.04.06-03.20.01:539][553]LogUObjectHash: Warning: Ambiguous search, could be Class /Script/UMG.VerticalBox or VerticalBox /Game/HUD/MenuPause.MenuPause_C:WidgetTree.VerticalBox
+[2018.04.06-03.20.01:539][553]LogUObjectHash: Warning: Ambiguous search, could be VerticalBoxSlot /Game/HUD/MenuPause.MenuPause:WidgetTree.VerticalBox.VerticalBoxSlot_1 or VerticalBoxSlot /Engine/Transient.World_4:MenuPause_C_47.WidgetTree_56.VerticalBox.VerticalBoxSlot_1
+[2018.04.06-03.20.01:539][553]LogUObjectHash: Warning: Ambiguous search, could be VerticalBoxSlot /Game/HUD/MenuPause.MenuPause:WidgetTree.VerticalBox.VerticalBoxSlot_1 or VerticalBoxSlot /Engine/Transient.World_4:MenuPause_C_48.WidgetTree_57.VerticalBox.VerticalBoxSlot_1
+[2018.04.06-03.20.01:539][553]LogUObjectHash: Warning: Ambiguous search, could be VerticalBoxSlot /Game/HUD/MenuPause.MenuPause:WidgetTree.VerticalBox.VerticalBoxSlot_1 or VerticalBoxSlot /Engine/Transient.World_4:MenuPause_C_49.WidgetTree_58.VerticalBox.VerticalBoxSlot_1
+[2018.04.06-03.20.01:539][553]LogUObjectHash: Warning: Ambiguous search, could be VerticalBoxSlot /Game/HUD/MenuPause.MenuPause:WidgetTree.VerticalBox.VerticalBoxSlot_1 or VerticalBoxSlot /Engine/Transient.World_4:MenuPause_C_50.WidgetTree_59.VerticalBox.VerticalBoxSlot_1
+[2018.04.06-03.20.01:539][553]LogUObjectHash: Warning: Ambiguous search, could be VerticalBoxSlot /Game/HUD/MenuPause.MenuPause:WidgetTree.VerticalBox.VerticalBoxSlot_1 or VerticalBoxSlot /Game/HUD/MenuPause.MenuPause_C:WidgetTree.VerticalBox.VerticalBoxSlot_1
+[2018.04.06-03.20.01:539][553]LogUObjectHash: Warning: Ambiguous search, could be VerticalBoxSlot /Game/HUD/MenuPause.MenuPause:WidgetTree.VerticalBox.VerticalBoxSlot_1 or VerticalBoxSlot /Engine/Transient.World_4:MenuPause_C_53.WidgetTree_61.VerticalBox.VerticalBoxSlot_1
+[2018.04.06-03.20.01:539][553]LogUObjectHash: Warning: Ambiguous search, could be VerticalBoxSlot /Game/HUD/MenuPause.MenuPause:WidgetTree.VerticalBox.VerticalBoxSlot_1 or VerticalBoxSlot /Engine/Transient.World_4:MenuPause_C_54.WidgetTree_62.VerticalBox.VerticalBoxSlot_1
+[2018.04.06-03.20.01:539][553]LogProperty: Warning: Illegal TEXT reference to a private object in external package (VerticalBoxSlot /Game/HUD/MenuPause.MenuPause:WidgetTree.VerticalBox.VerticalBoxSlot_1) from referencer (Button /Engine/UMG/Editor/Transient.BtnMenu).  Import failed...
+[2018.04.06-03.20.01:539][553]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'VerticalBoxSlot'"VerticalBox.VerticalBoxSlot_1"''
+[2018.04.06-03.20.25:466][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MenuPause" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/MenuPause.uasset" SILENT=true
+[2018.04.06-03.20.25:512][323]LogSavePackage: Save=21.25ms
+[2018.04.06-03.20.25:512][323]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/MenuPauseAF50866849E981175041048DD98A4BA9.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/MenuPause.uasset'
+[2018.04.06-03.20.25:515][323]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/MenuPause.uasset
+[2018.04.06-03.21.31:385][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MenuPause" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/MenuPause.uasset" SILENT=true
+[2018.04.06-03.21.31:434][907]LogSavePackage: Save=23.49ms
+[2018.04.06-03.21.31:434][907]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/MenuPause0895F5C74FE9223F5C3743B8B6324B2E.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/MenuPause.uasset'
+[2018.04.06-03.21.31:438][907]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/MenuPause.uasset
+[2018.04.06-03.21.31:923][963]BlueprintLog: New page: Compile MenuPause
+[2018.04.06-03.21.59:650][738]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MenuPause" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/MenuPause.uasset" SILENT=true
+[2018.04.06-03.21.59:699][738]LogSavePackage: Save=24.35ms
+[2018.04.06-03.21.59:699][738]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/MenuPauseEE3D7CD44810EDECC15BFD9B5E2064DC.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/MenuPause.uasset'
+[2018.04.06-03.21.59:703][738]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/MenuPause.uasset
+[2018.04.06-03.22.20:325][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MenuPause" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/MenuPause.uasset" SILENT=true
+[2018.04.06-03.22.20:376][920]LogSavePackage: Save=25.09ms
+[2018.04.06-03.22.20:376][920]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/MenuPauseFAE249A34DEAF1EC793D94BFA84C4731.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/MenuPause.uasset'
+[2018.04.06-03.22.20:379][920]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/MenuPause.uasset
+[2018.04.06-03.22.20:732][960]BlueprintLog: New page: Compile MenuPause
+[2018.04.06-03.22.42:148][535]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MenuPause" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/MenuPause.uasset" SILENT=true
+[2018.04.06-03.22.42:197][535]LogSavePackage: Save=24.98ms
+[2018.04.06-03.22.42:197][535]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/MenuPause006747284EB0140F638190A65D02EE16.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/MenuPause.uasset'
+[2018.04.06-03.22.42:200][535]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/MenuPause.uasset
+[2018.04.06-03.22.42:639][585]BlueprintLog: New page: Compile MenuPause
+[2018.04.06-03.27.02:939][247]LogSlate: Window 'Color Picker' being destroyed
+[2018.04.06-03.27.13:133][449]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MenuPause" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/MenuPause.uasset" SILENT=true
+[2018.04.06-03.27.13:195][449]LogSavePackage: Save=26.82ms
+[2018.04.06-03.27.13:195][449]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/MenuPause7AC18C634D0EB2C2914271ACF967B683.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/MenuPause.uasset'
+[2018.04.06-03.27.13:199][449]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/MenuPause.uasset
+[2018.04.06-03.27.13:552][490]BlueprintLog: New page: Compile MenuPause
+[2018.04.06-03.28.00:504][221]LogSlate: Window 'Color Picker' being destroyed
+[2018.04.06-03.28.03:070][522]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.06-03.28.03:119][522]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.06-03.28.03:128][522]LogPlayLevel: [PlayLevel] Compiling MenuPause before play...
+[2018.04.06-03.28.03:474][522]LogPlayLevel: PlayLevel: Blueprint regeneration took 354 ms (1 blueprints)
+[2018.04.06-03.28.03:474][522]PIE: New page: PIE session: 01Gameplay (Apr 5, 2018, 9:28:03 PM)
+[2018.04.06-03.28.03:474][522]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_01Gameplay
+[2018.04.06-03.28.03:479][522]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004821s)
+[2018.04.06-03.28.03:480][522]LogAIModule: Creating AISystem for world 01Gameplay
+[2018.04.06-03.28.03:480][522]LogPlayLevel: PIE: World Init took: (0.000951s)
+[2018.04.06-03.28.03:480][522]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/01Gameplay.01Gameplay to /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay (0.005920s)
+[2018.04.06-03.28.03:509][522]LogInit: XAudio2 using 'Fones de ouvido (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.06-03.28.03:518][522]LogInit: FAudioDevice initialized.
+[2018.04.06-03.28.03:560][522]LogLoad: Game class is 'BP_GameplayGameMode_C'
+[2018.04.06-03.28.03:563][522]LogWorld: Bringing World /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay up for play (max tick rate 0) at 2018.04.06-00.28.03
+[2018.04.06-03.28.03:564][522]LogWorld: Bringing up level for play took: 0.003744
+[2018.04.06-03.28.03:570][522]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_01Gameplay 1.445
+[2018.04.06-03.28.10:770][219]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.06-03.28.12:011][343]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.06-03.28.12:107][353]LogBlueprintUserMessages: [MenuPause_C_83] Menu Principal
+[2018.04.06-03.28.12:471][391]LogBlueprintUserMessages: [MenuPause_C_83] Menu Principal
+[2018.04.06-03.28.13:116][455]LogSlate: Window 'TheGrind Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.06-03.29.56:832][879]LogSlate: Window 'Color Picker' being destroyed
+[2018.04.06-03.30.07:511][ 89]LogSlate: Window 'Color Picker' being destroyed
+[2018.04.06-03.30.12:599][654]LogSlate: Window 'Color Picker' being destroyed
+[2018.04.06-03.30.13:903][801]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MenuPause" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/MenuPause.uasset" SILENT=true
+[2018.04.06-03.30.13:955][801]LogSavePackage: Save=27.42ms
+[2018.04.06-03.30.13:955][801]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/MenuPause337F120742E6BA1D420D40AAE4B064FE.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/MenuPause.uasset'
+[2018.04.06-03.30.13:959][801]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/MenuPause.uasset
+[2018.04.06-03.30.14:396][851]BlueprintLog: New page: Compile MenuPause
+[2018.04.06-03.30.15:358][921]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.06-03.30.15:389][921]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.06-03.30.15:389][921]PIE: New page: PIE session: 01Gameplay (Apr 5, 2018, 9:30:15 PM)
+[2018.04.06-03.30.15:389][921]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_01Gameplay
+[2018.04.06-03.30.15:395][921]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005159s)
+[2018.04.06-03.30.15:395][921]LogAIModule: Creating AISystem for world 01Gameplay
+[2018.04.06-03.30.15:395][921]LogPlayLevel: PIE: World Init took: (0.000789s)
+[2018.04.06-03.30.15:395][921]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/01Gameplay.01Gameplay to /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay (0.006110s)
+[2018.04.06-03.30.15:425][921]LogInit: XAudio2 using 'Fones de ouvido (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.06-03.30.15:434][921]LogInit: FAudioDevice initialized.
+[2018.04.06-03.30.15:474][921]LogLoad: Game class is 'BP_GameplayGameMode_C'
+[2018.04.06-03.30.15:478][921]LogWorld: Bringing World /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay up for play (max tick rate 0) at 2018.04.06-00.30.15
+[2018.04.06-03.30.15:479][921]LogWorld: Bringing up level for play took: 0.003502
+[2018.04.06-03.30.15:484][921]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_01Gameplay -0.642
+[2018.04.06-03.30.19:402][301]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.06-03.30.19:479][309]LogBlueprintUserMessages: [MenuPause_C_89] Menu Principal
+[2018.04.06-03.30.22:399][603]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.06-03.30.22:500][611]LogSlate: Window 'TheGrind Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.06-03.31.19:125][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MenuPause" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/MenuPause.uasset" SILENT=true
+[2018.04.06-03.31.19:178][281]LogSavePackage: Save=27.66ms
+[2018.04.06-03.31.19:178][281]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/MenuPauseE076AE204AEEA5E1A607939FB662EFD8.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/MenuPause.uasset'
+[2018.04.06-03.31.19:181][281]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/MenuPause.uasset
+[2018.04.06-03.31.19:614][331]BlueprintLog: New page: Compile MenuPause
+[2018.04.06-03.32.18:008][425]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MenuPause" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/MenuPause.uasset" SILENT=true
+[2018.04.06-03.32.18:067][425]LogSavePackage: Save=26.50ms
+[2018.04.06-03.32.18:067][425]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/MenuPauseA8A29E334A3A06F74F49468CF4D794CD.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/MenuPause.uasset'
+[2018.04.06-03.32.18:070][425]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/MenuPause.uasset
+[2018.04.06-03.32.18:456][468]BlueprintLog: New page: Compile MenuPause
+[2018.04.06-03.32.33:603][341]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MenuPause" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/MenuPause.uasset" SILENT=true
+[2018.04.06-03.32.33:648][341]LogSavePackage: Save=26.59ms
+[2018.04.06-03.32.33:648][341]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/MenuPauseC823C66C48B0512CD099579F505383C7.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/MenuPause.uasset'
+[2018.04.06-03.32.33:651][341]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/MenuPause.uasset
+[2018.04.06-03.32.34:083][390]BlueprintLog: New page: Compile MenuPause
+[2018.04.06-03.32.35:599][534]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.06-03.32.35:630][534]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.06-03.32.35:630][534]PIE: New page: PIE session: 01Gameplay (Apr 5, 2018, 9:32:35 PM)
+[2018.04.06-03.32.35:630][534]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_01Gameplay
+[2018.04.06-03.32.35:635][534]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004670s)
+[2018.04.06-03.32.35:636][534]LogAIModule: Creating AISystem for world 01Gameplay
+[2018.04.06-03.32.35:636][534]LogPlayLevel: PIE: World Init took: (0.000818s)
+[2018.04.06-03.32.35:636][534]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/01Gameplay.01Gameplay to /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay (0.005629s)
+[2018.04.06-03.32.35:664][534]LogInit: XAudio2 using 'Fones de ouvido (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.06-03.32.35:673][534]LogInit: FAudioDevice initialized.
+[2018.04.06-03.32.35:714][534]LogLoad: Game class is 'BP_GameplayGameMode_C'
+[2018.04.06-03.32.35:718][534]LogWorld: Bringing World /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay up for play (max tick rate 0) at 2018.04.06-00.32.35
+[2018.04.06-03.32.35:719][534]LogWorld: Bringing up level for play took: 0.003606
+[2018.04.06-03.32.35:725][534]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_01Gameplay -0.401
+[2018.04.06-03.32.53:304][998]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.06-03.32.53:432][  8]LogSlate: Window 'TheGrind Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.06-03.36.01:291][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MenuPause" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/MenuPause.uasset" SILENT=true
+[2018.04.06-03.36.01:343][901]LogSavePackage: Save=27.22ms
+[2018.04.06-03.36.01:343][901]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/MenuPause81815CC34A97CE632DF760A7BF4BCBAD.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/MenuPause.uasset'
+[2018.04.06-03.36.01:347][901]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/MenuPause.uasset
+[2018.04.06-03.36.01:730][945]BlueprintLog: New page: Compile MenuPause
+[2018.04.06-03.36.02:469][999]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.06-03.36.02:499][999]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.06-03.36.02:499][999]PIE: New page: PIE session: 01Gameplay (Apr 5, 2018, 9:36:02 PM)
+[2018.04.06-03.36.02:500][999]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_01Gameplay
+[2018.04.06-03.36.02:504][999]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004608s)
+[2018.04.06-03.36.02:505][999]LogAIModule: Creating AISystem for world 01Gameplay
+[2018.04.06-03.36.02:505][999]LogPlayLevel: PIE: World Init took: (0.000946s)
+[2018.04.06-03.36.02:505][999]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/01Gameplay.01Gameplay to /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay (0.005715s)
+[2018.04.06-03.36.02:535][999]LogInit: XAudio2 using 'Fones de ouvido (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.06-03.36.02:544][999]LogInit: FAudioDevice initialized.
+[2018.04.06-03.36.02:585][999]LogLoad: Game class is 'BP_GameplayGameMode_C'
+[2018.04.06-03.36.02:590][999]LogWorld: Bringing World /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay up for play (max tick rate 0) at 2018.04.06-00.36.02
+[2018.04.06-03.36.02:590][999]LogWorld: Bringing up level for play took: 0.003933
+[2018.04.06-03.36.02:596][999]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_01Gameplay 0.471
+[2018.04.06-03.36.06:576][387]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.06-03.36.08:049][529]LogSlate: Window 'TheGrind Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.06-03.36.43:464][260]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MenuPause" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/MenuPause.uasset" SILENT=true
+[2018.04.06-03.36.43:515][260]LogSavePackage: Save=26.44ms
+[2018.04.06-03.36.43:515][260]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/MenuPause861CCD4042D98C928C0FBB9C22BBC66F.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/MenuPause.uasset'
+[2018.04.06-03.36.43:519][260]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/MenuPause.uasset
+[2018.04.06-03.36.44:009][316]BlueprintLog: New page: Compile MenuPause
+[2018.04.06-03.37.21:957][743]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.06-03.37.21:988][743]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.06-03.37.21:997][743]LogPlayLevel: [PlayLevel] Compiling MenuPause before play...
+[2018.04.06-03.37.22:218][743]LogPlayLevel: PlayLevel: Blueprint regeneration took 229 ms (1 blueprints)
+[2018.04.06-03.37.22:218][743]PIE: New page: PIE session: 01Gameplay (Apr 5, 2018, 9:37:22 PM)
+[2018.04.06-03.37.22:218][743]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_01Gameplay
+[2018.04.06-03.37.22:223][743]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004936s)
+[2018.04.06-03.37.22:224][743]LogAIModule: Creating AISystem for world 01Gameplay
+[2018.04.06-03.37.22:224][743]LogPlayLevel: PIE: World Init took: (0.000760s)
+[2018.04.06-03.37.22:224][743]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/01Gameplay.01Gameplay to /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay (0.005870s)
+[2018.04.06-03.37.22:254][743]LogInit: XAudio2 using 'Fones de ouvido (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.06-03.37.22:264][743]LogInit: FAudioDevice initialized.
+[2018.04.06-03.37.22:305][743]LogLoad: Game class is 'BP_GameplayGameMode_C'
+[2018.04.06-03.37.22:309][743]LogWorld: Bringing World /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay up for play (max tick rate 0) at 2018.04.06-00.37.22
+[2018.04.06-03.37.22:310][743]LogWorld: Bringing up level for play took: 0.003759
+[2018.04.06-03.37.22:316][743]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_01Gameplay 0.19
+[2018.04.06-03.37.26:671][160]LogSlate: Window 'TheGrind Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.06-03.37.38:516][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MenuPause" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/MenuPause.uasset" SILENT=true
+[2018.04.06-03.37.38:575][436]LogSavePackage: Save=27.45ms
+[2018.04.06-03.37.38:575][436]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/MenuPauseC850DF5B4B64C472CEBD60B9354A7131.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/MenuPause.uasset'
+[2018.04.06-03.37.38:580][436]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/MenuPause.uasset
+[2018.04.06-03.37.39:032][487]BlueprintLog: New page: Compile MenuPause
+[2018.04.06-03.37.40:147][586]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.06-03.37.40:177][586]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.06-03.37.40:178][586]PIE: New page: PIE session: 01Gameplay (Apr 5, 2018, 9:37:40 PM)
+[2018.04.06-03.37.40:178][586]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_01Gameplay
+[2018.04.06-03.37.40:182][586]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004509s)
+[2018.04.06-03.37.40:183][586]LogAIModule: Creating AISystem for world 01Gameplay
+[2018.04.06-03.37.40:183][586]LogPlayLevel: PIE: World Init took: (0.000684s)
+[2018.04.06-03.37.40:183][586]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/01Gameplay.01Gameplay to /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay (0.005344s)
+[2018.04.06-03.37.40:211][586]LogInit: XAudio2 using 'Fones de ouvido (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.06-03.37.40:220][586]LogInit: FAudioDevice initialized.
+[2018.04.06-03.37.40:263][586]LogLoad: Game class is 'BP_GameplayGameMode_C'
+[2018.04.06-03.37.40:267][586]LogWorld: Bringing World /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay up for play (max tick rate 0) at 2018.04.06-00.37.40
+[2018.04.06-03.37.40:267][586]LogWorld: Bringing up level for play took: 0.003489
+[2018.04.06-03.37.40:273][586]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_01Gameplay 0.147
+[2018.04.06-03.43.17:852][120]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.06-03.43.17:985][133]LogSlate: Window 'TheGrind Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.06-03.46.50:625][428]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 ../../../../../../Users/Ricardo/Downloads/quantify/Quantify Bold v2.6.ttf)
+[2018.04.06-03.47.00:330][428]LogSlate: Window 'Font Face Import Options' being destroyed
+[2018.04.06-03.47.00:475][429]LogSlate: Took 0.000245 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.06-03.47.00:480][429]LogSlate: Took 0.000237 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.06-03.47.00:496][429]LogSlate: Took 0.013147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.06-03.47.00:500][429]LogSlate: Took 0.000348 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.04.06-03.47.03:536][638]LogSlate: Took 0.000641 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.04.06-03.47.03:589][638]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/01Gameplay' took 0.026
+[2018.04.06-03.47.03:591][638]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/HUD/Fonts/Quantify_Bold_v2_6] ([1] browsable assets)...
+[2018.04.06-03.47.03:592][638]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD/Fonts/Quantify_Bold_v2_6]
+[2018.04.06-03.47.03:601][638]LogSavePackage: Save=6.28ms
+[2018.04.06-03.47.03:601][638]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/Quantify_Bold_v2_6_Auto2B73BA8544F5A47407D7D97A6C0749D63.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Saved/Autosaves/Game/HUD/Fonts/Quantify_Bold_v2_6_Auto2.uasset'
+[2018.04.06-03.47.03:603][638]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Saved/Autosaves/Game/HUD/Fonts/Quantify_Bold_v2_6_Auto2.uasset
+[2018.04.06-03.47.03:604][638]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HUD/Fonts/Quantify_Bold_v2_6_Font] ([1] browsable assets)...
+[2018.04.06-03.47.03:613][638]OBJ SavePackage:     Rendered thumbnail for [Font /Game/HUD/Fonts/Quantify_Bold_v2_6_Font.Quantify_Bold_v2_6_Font]
+[2018.04.06-03.47.03:613][638]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD/Fonts/Quantify_Bold_v2_6_Font]
+[2018.04.06-03.47.03:625][638]LogSavePackage: Save=8.88ms
+[2018.04.06-03.47.03:625][638]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/Quantify_Bold_v2_6_Font_Auto27144F8684DBBDB141EAB9D9479638D1D.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Saved/Autosaves/Game/HUD/Fonts/Quantify_Bold_v2_6_Font_Auto2.uasset'
+[2018.04.06-03.47.03:626][638]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Saved/Autosaves/Game/HUD/Fonts/Quantify_Bold_v2_6_Font_Auto2.uasset
+[2018.04.06-03.47.03:626][638]LogFileHelpers: Auto-saving content packages took 0.036
+[2018.04.06-03.47.28:719][830]LogSlate: Window 'Save Content' being destroyed
+[2018.04.06-03.47.28:741][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/Fonts/Quantify_Bold_v2_6" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/Fonts/Quantify_Bold_v2_6.uasset" SILENT=true
+[2018.04.06-03.47.28:750][830]LogSavePackage: Save=6.20ms
+[2018.04.06-03.47.28:750][830]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/Quantify_Bold_v2_6D16651EA4C84C4A5926BA79E5C45AC14.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/Fonts/Quantify_Bold_v2_6.uasset'
+[2018.04.06-03.47.28:758][830]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/Fonts/Quantify_Bold_v2_6.uasset
+[2018.04.06-03.47.28:771][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/Fonts/Quantify_Bold_v2_6_Font" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/Fonts/Quantify_Bold_v2_6_Font.uasset" SILENT=true
+[2018.04.06-03.47.28:782][830]LogSavePackage: Save=8.49ms
+[2018.04.06-03.47.28:782][830]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/Quantify_Bold_v2_6_Font4F0812664531BA9A4DAB95B8F01544CD.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/Fonts/Quantify_Bold_v2_6_Font.uasset'
+[2018.04.06-03.47.28:785][830]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/Fonts/Quantify_Bold_v2_6_Font.uasset
+[2018.04.06-03.47.39:070][ 83]LogSlate: Took 0.023955 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.06-03.47.40:085][195]LogSlate: Took 0.010344 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.04.06-03.48.39:367][320]LogEditorTransaction: Undo Edit Right
+[2018.04.06-03.49.00:857][492]LogEditorTransaction: Undo Edit Right
+[2018.04.06-03.49.01:318][527]Cmd: TRANSACTION UNDO
+[2018.04.06-03.49.01:318][527]LogEditorTransaction: Undo Edit Left
+[2018.04.06-03.50.58:042][283]LogEditorTransaction: Undo Edit Left
+[2018.04.06-03.51.57:437][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MenuPause" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/MenuPause.uasset" SILENT=true
+[2018.04.06-03.51.57:500][110]LogSavePackage: Save=29.16ms
+[2018.04.06-03.51.57:500][110]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/MenuPause0820F2634D4561889009CF9CB0A9909A.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/MenuPause.uasset'
+[2018.04.06-03.51.57:504][110]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/MenuPause.uasset
+[2018.04.06-03.51.57:865][151]BlueprintLog: New page: Compile MenuPause
+[2018.04.06-03.52.00:047][357]LogSlate: Took 0.020424 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.06-03.52.47:809][623]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/HUDPlayer" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/HUDPlayer.uasset" SILENT=true
+[2018.04.06-03.52.47:867][623]LogSavePackage: Save=26.40ms
+[2018.04.06-03.52.47:867][623]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/HUDPlayer40D974E545D4D2F2D0F79CA1B645505A.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/HUDPlayer.uasset'
+[2018.04.06-03.52.47:870][623]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/HUDPlayer.uasset
+[2018.04.06-03.52.48:878][737]BlueprintLog: New page: Compile HUDPlayer
+[2018.04.06-03.52.49:577][794]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.06-03.52.49:610][794]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.06-03.52.49:611][794]PIE: New page: PIE session: 01Gameplay (Apr 5, 2018, 9:52:49 PM)
+[2018.04.06-03.52.49:611][794]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_01Gameplay
+[2018.04.06-03.52.49:615][794]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004674s)
+[2018.04.06-03.52.49:617][794]LogAIModule: Creating AISystem for world 01Gameplay
+[2018.04.06-03.52.49:617][794]LogPlayLevel: PIE: World Init took: (0.001375s)
+[2018.04.06-03.52.49:617][794]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/01Gameplay.01Gameplay to /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay (0.006228s)
+[2018.04.06-03.52.49:649][794]LogInit: XAudio2 using 'Fones de ouvido (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.06-03.52.49:658][794]LogInit: FAudioDevice initialized.
+[2018.04.06-03.52.49:700][794]LogLoad: Game class is 'BP_GameplayGameMode_C'
+[2018.04.06-03.52.49:704][794]LogWorld: Bringing World /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay up for play (max tick rate 0) at 2018.04.06-00.52.49
+[2018.04.06-03.52.49:705][794]LogWorld: Bringing up level for play took: 0.003575
+[2018.04.06-03.52.49:711][794]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_01Gameplay -0.415
+[2018.04.06-03.52.51:216][915]LogSlate: Window 'TheGrind Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.06-03.53.58:863][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/HUDPlayer" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/HUDPlayer.uasset" SILENT=true
+[2018.04.06-03.53.58:913][215]LogSavePackage: Save=25.15ms
+[2018.04.06-03.53.58:913][215]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/HUDPlayer236FDE714C68598BF32EFBAF28EB50B9.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/HUDPlayer.uasset'
+[2018.04.06-03.53.58:917][215]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/HUDPlayer.uasset
+[2018.04.06-03.53.59:434][272]BlueprintLog: New page: Compile HUDPlayer
+[2018.04.06-03.54.00:623][388]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.06-03.54.00:657][388]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.06-03.54.00:657][388]PIE: New page: PIE session: 01Gameplay (Apr 5, 2018, 9:54:00 PM)
+[2018.04.06-03.54.00:657][388]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_01Gameplay
+[2018.04.06-03.54.00:662][388]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004866s)
+[2018.04.06-03.54.00:663][388]LogAIModule: Creating AISystem for world 01Gameplay
+[2018.04.06-03.54.00:663][388]LogPlayLevel: PIE: World Init took: (0.000807s)
+[2018.04.06-03.54.00:663][388]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/01Gameplay.01Gameplay to /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay (0.005839s)
+[2018.04.06-03.54.00:694][388]LogInit: XAudio2 using 'Fones de ouvido (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.06-03.54.00:703][388]LogInit: FAudioDevice initialized.
+[2018.04.06-03.54.00:744][388]LogLoad: Game class is 'BP_GameplayGameMode_C'
+[2018.04.06-03.54.00:748][388]LogWorld: Bringing World /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay up for play (max tick rate 0) at 2018.04.06-00.54.00
+[2018.04.06-03.54.00:749][388]LogWorld: Bringing up level for play took: 0.003450
+[2018.04.06-03.54.00:754][388]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_01Gameplay 0.629
+[2018.04.06-03.54.07:813][997]LogBlueprintUserMessages: [BP_Enemy2] Enemy is Dead
+[2018.04.06-03.54.12:157][381]LogBlueprintUserMessages: [BP_Enemy_230] Enemy is Dead
+[2018.04.06-03.54.17:380][855]LogBlueprintUserMessages: [BP_Enemy3] Enemy is Dead
+[2018.04.06-03.54.18:109][921]LogSlate: Window 'TheGrind Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.06-03.55.57:942][930]LogSlate: Window 'MenuDead*' being destroyed
+[2018.04.06-03.57.23:492][108]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/01Gameplay' took 0.043
+[2018.04.06-03.57.23:495][108]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/HUD/MenuDead] ([1] browsable assets)...
+[2018.04.06-03.57.23:495][108]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD/MenuDead]
+[2018.04.06-03.57.23:495][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MenuDead" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Saved/Autosaves/Game/HUD/MenuDead_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2018.04.06-03.57.23:530][108]LogSavePackage: Save=32.36ms
+[2018.04.06-03.57.23:530][108]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/MenuDead_Auto3707B187A493606B0ADDD7AB3E521611C.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Saved/Autosaves/Game/HUD/MenuDead_Auto3.uasset'
+[2018.04.06-03.57.23:532][108]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Saved/Autosaves/Game/HUD/MenuDead_Auto3.uasset
+[2018.04.06-03.57.23:532][108]LogFileHelpers: Auto-saving content packages took 0.039
+[2018.04.06-03.58.47:913][190]BlueprintLog: New page: Compile MenuDead
+[2018.04.06-03.58.52:911][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MenuDead" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/MenuDead.uasset" SILENT=true
+[2018.04.06-03.58.52:943][727]LogSavePackage: Save=28.71ms
+[2018.04.06-03.58.52:943][727]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/MenuDead7A65B3D347124195284F2FAA3FA431E5.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/MenuDead.uasset'
+[2018.04.06-03.58.52:946][727]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/MenuDead.uasset
+[2018.04.06-04.00.39:183][621]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MenuDead" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/MenuDead.uasset" SILENT=true
+[2018.04.06-04.00.39:239][621]LogSavePackage: Save=24.11ms
+[2018.04.06-04.00.39:239][621]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/MenuDead76A0BBD64086F8BFE60605B1ECE66111.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/MenuDead.uasset'
+[2018.04.06-04.00.39:243][621]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/MenuDead.uasset
+[2018.04.06-04.00.39:734][678]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MenuDead" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/MenuDead.uasset" SILENT=true
+[2018.04.06-04.00.39:805][678]LogSavePackage: Save=51.91ms
+[2018.04.06-04.00.39:805][678]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/MenuDeadF3F386BF4554F7E6273D17B524B8A43C.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/MenuDead.uasset'
+[2018.04.06-04.00.39:807][678]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HUD/MenuDead.uasset
+[2018.04.06-04.00.40:238][729]BlueprintLog: New page: Compile MenuDead
+[2018.04.06-04.01.16:066][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameLogic/BP_GamePlayGameMode" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/GameLogic/BP_GamePlayGameMode.uasset" SILENT=true
+[2018.04.06-04.01.16:158][597]LogSavePackage: Save=60.87ms
+[2018.04.06-04.01.16:158][597]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_GamePlayGameModeC948C7C345DA167372C08A8061FC7694.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/GameLogic/BP_GamePlayGameMode.uasset'
+[2018.04.06-04.01.16:162][597]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/GameLogic/BP_GamePlayGameMode.uasset
+[2018.04.06-04.03.55:887][971]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameLogic/BP_GamePlayGameMode" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/GameLogic/BP_GamePlayGameMode.uasset" SILENT=true
+[2018.04.06-04.03.55:976][971]LogSavePackage: Save=64.35ms
+[2018.04.06-04.03.55:977][971]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_GamePlayGameMode7761CB5A45B85F523BAB73B56E38070F.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/GameLogic/BP_GamePlayGameMode.uasset'
+[2018.04.06-04.03.55:980][971]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/GameLogic/BP_GamePlayGameMode.uasset
+[2018.04.06-04.03.56:523][ 31]BlueprintLog: New page: Compile BP_GameplayGameMode
+[2018.04.06-04.08.07:016][260]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameLogic/BP_GamePlayGameMode" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/GameLogic/BP_GamePlayGameMode.uasset" SILENT=true
+[2018.04.06-04.08.07:112][260]LogSavePackage: Save=64.17ms
+[2018.04.06-04.08.07:112][260]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_GamePlayGameMode26B98E1647FEE51F7E9286BB34215B9A.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/GameLogic/BP_GamePlayGameMode.uasset'
+[2018.04.06-04.08.07:114][260]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/GameLogic/BP_GamePlayGameMode.uasset
+[2018.04.06-04.08.10:099][528]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.04.06-04.08.10:266][528]LogSlate: Window 'TheGrind - Unreal Editor' being destroyed
+[2018.04.06-04.08.10:656][529]Cmd: QUIT_EDITOR
+[2018.04.06-04.08.11:634][529]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.06-04.08.11:634][529]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.06-04.08.11:665][529]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.04.06-04.08.11:666][529]LogExit: Preparing to exit.
+[2018.04.06-04.08.12:772][529]LogDirectoryWatcher: A directory notification for 'C:/Repositorios/The-Grind/TheGrind/Content/' was aborted.
+[2018.04.06-04.08.12:890][529]LogExit: Editor shut down
+[2018.04.06-04.08.12:925][529]LogExit: Transaction tracking system shut down
+[2018.04.06-04.08.13:190][529]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.04.06-04.08.13:191][529]LogDirectoryWatcher: A directory notification for '../../../../../../Repositorios/The-Grind/TheGrind/Content/' was aborted.
+[2018.04.06-04.08.13:191][529]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2018.04.06-04.08.13:191][529]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2018.04.06-04.08.13:191][529]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.04.06-04.08.13:191][529]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.04.06-04.08.13:191][529]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.04.06-04.08.13:191][529]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.04.06-04.08.13:383][529]LogExit: Object subsystem successfully closed.
+[2018.04.06-04.08.13:399][529]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.04.06-04.08.13:407][529]LogD3D11RHI: Shutdown
+[2018.04.06-04.08.13:407][529]LogD3D11RHI: CleanupD3DDevice
+[2018.04.06-04.08.13:413][529]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.04.06-04.08.13:444][529]LogModuleManager: Shutting down and abandoning module SequencerWidgets (582)
+[2018.04.06-04.08.13:444][529]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (580)
+[2018.04.06-04.08.13:444][529]LogModuleManager: Shutting down and abandoning module BlueprintGraph (578)
+[2018.04.06-04.08.13:444][529]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (576)
+[2018.04.06-04.08.13:444][529]LogModuleManager: Shutting down and abandoning module SceneOutliner (574)
+[2018.04.06-04.08.13:444][529]LogModuleManager: Shutting down and abandoning module AddContentDialog (572)
+[2018.04.06-04.08.13:445][529]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.19/FeaturePacks/' was aborted.
+[2018.04.06-04.08.13:452][529]LogModuleManager: Shutting down and abandoning module WidgetCarousel (571)
+[2018.04.06-04.08.13:452][529]LogModuleManager: Shutting down and abandoning module EditorWidgets (568)
+[2018.04.06-04.08.13:452][529]LogModuleManager: Shutting down and abandoning module CollectionManager (566)
+[2018.04.06-04.08.13:452][529]LogDirectoryWatcher: A directory notification for 'C:/Repositorios/The-Grind/TheGrind/Content/Collections/' was aborted.
+[2018.04.06-04.08.13:452][529]LogDirectoryWatcher: A directory notification for 'C:/Repositorios/The-Grind/TheGrind/Content/Developers/Ricardo/Collections/' was aborted.
+[2018.04.06-04.08.13:452][529]LogDirectoryWatcher: A directory notification for 'C:/Repositorios/The-Grind/TheGrind/Saved/Collections/' was aborted.
+[2018.04.06-04.08.13:452][529]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (564)
+[2018.04.06-04.08.13:452][529]LogModuleManager: Shutting down and abandoning module StatsViewer (562)
+[2018.04.06-04.08.13:452][529]LogModuleManager: Shutting down and abandoning module FoliageEdit (560)
+[2018.04.06-04.08.13:452][529]LogModuleManager: Shutting down and abandoning module LandscapeEditor (558)
+[2018.04.06-04.08.13:452][529]LogModuleManager: Shutting down and abandoning module MeshPaintMode (556)
+[2018.04.06-04.08.13:453][529]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (554)
+[2018.04.06-04.08.13:453][529]LogModuleManager: Shutting down and abandoning module ActorPickerMode (552)
+[2018.04.06-04.08.13:453][529]LogModuleManager: Shutting down and abandoning module GeometryMode (550)
+[2018.04.06-04.08.13:453][529]LogModuleManager: Shutting down and abandoning module TextureAlignMode (548)
+[2018.04.06-04.08.13:453][529]LogModuleManager: Shutting down and abandoning module BspMode (546)
+[2018.04.06-04.08.13:453][529]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (544)
+[2018.04.06-04.08.13:453][529]LogModuleManager: Shutting down and abandoning module HardwareSurvey (542)
+[2018.04.06-04.08.13:453][529]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (540)
+[2018.04.06-04.08.13:453][529]LogModuleManager: Shutting down and abandoning module AutomationWorker (538)
+[2018.04.06-04.08.13:453][529]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (536)
+[2018.04.06-04.08.13:453][529]LogModuleManager: Shutting down and abandoning module SequenceRecorder (535)
+[2018.04.06-04.08.13:453][529]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (532)
+[2018.04.06-04.08.13:453][529]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (530)
+[2018.04.06-04.08.13:453][529]LogModuleManager: Shutting down and abandoning module PlacementMode (529)
+[2018.04.06-04.08.13:453][529]LogModuleManager: Shutting down and abandoning module MaterialEditor (528)
+[2018.04.06-04.08.13:453][529]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (524)
+[2018.04.06-04.08.13:453][529]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (522)
+[2018.04.06-04.08.13:453][529]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (520)
+[2018.04.06-04.08.13:453][529]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (518)
+[2018.04.06-04.08.13:453][529]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (516)
+[2018.04.06-04.08.13:453][529]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (514)
+[2018.04.06-04.08.13:453][529]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (512)
+[2018.04.06-04.08.13:453][529]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (510)
+[2018.04.06-04.08.13:454][529]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (508)
+[2018.04.06-04.08.13:454][529]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (506)
+[2018.04.06-04.08.13:454][529]LogModuleManager: Shutting down and abandoning module CharacterAI (504)
+[2018.04.06-04.08.13:454][529]LogModuleManager: Shutting down and abandoning module SmartSnapping (502)
+[2018.04.06-04.08.13:454][529]LogModuleManager: Shutting down and abandoning module SessionServices (500)
+[2018.04.06-04.08.13:454][529]LogModuleManager: Shutting down and abandoning module ViewportSnapping (498)
+[2018.04.06-04.08.13:454][529]LogModuleManager: Shutting down and abandoning module ViewportInteraction (496)
+[2018.04.06-04.08.13:454][529]LogModuleManager: Shutting down and abandoning module ClothPainter (494)
+[2018.04.06-04.08.13:454][529]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (493)
+[2018.04.06-04.08.13:454][529]LogModuleManager: Shutting down and abandoning module LogVisualizer (490)
+[2018.04.06-04.08.13:454][529]LogModuleManager: Shutting down and abandoning module IntroTutorials (488)
+[2018.04.06-04.08.13:454][529]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (487)
+[2018.04.06-04.08.13:454][529]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (484)
+[2018.04.06-04.08.13:454][529]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (482)
+[2018.04.06-04.08.13:454][529]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (480)
+[2018.04.06-04.08.13:454][529]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (479)
+[2018.04.06-04.08.13:914][529]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (476)
+[2018.04.06-04.08.13:914][529]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (474)
+[2018.04.06-04.08.13:914][529]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (472)
+[2018.04.06-04.08.13:914][529]LogModuleManager: Shutting down and abandoning module InputBindingEditor (470)
+[2018.04.06-04.08.13:914][529]LogModuleManager: Shutting down and abandoning module MergeActors (468)
+[2018.04.06-04.08.13:914][529]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (466)
+[2018.04.06-04.08.13:914][529]LogModuleManager: Shutting down and abandoning module LocalizationService (465)
+[2018.04.06-04.08.13:914][529]LogModuleManager: Shutting down and abandoning module HardwareTargeting (462)
+[2018.04.06-04.08.13:915][529]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (460)
+[2018.04.06-04.08.13:915][529]LogModuleManager: Shutting down and abandoning module UndoHistory (458)
+[2018.04.06-04.08.13:915][529]LogModuleManager: Shutting down and abandoning module XmlParser (456)
+[2018.04.06-04.08.13:915][529]LogModuleManager: Shutting down and abandoning module Blutility (454)
+[2018.04.06-04.08.13:915][529]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (452)
+[2018.04.06-04.08.13:915][529]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (451)
+[2018.04.06-04.08.13:916][529]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (448)
+[2018.04.06-04.08.13:916][529]LogModuleManager: Shutting down and abandoning module SettingsEditor (446)
+[2018.04.06-04.08.13:916][529]LogModuleManager: Shutting down and abandoning module ProjectLauncher (444)
+[2018.04.06-04.08.13:916][529]LogModuleManager: Shutting down and abandoning module SessionFrontend (442)
+[2018.04.06-04.08.13:916][529]LogModuleManager: Shutting down and abandoning module ProfilerClient (440)
+[2018.04.06-04.08.13:916][529]LogModuleManager: Shutting down and abandoning module DeviceManager (438)
+[2018.04.06-04.08.13:916][529]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (437)
+[2018.04.06-04.08.13:983][529]LogModuleManager: Shutting down and abandoning module AutomationController (434)
+[2018.04.06-04.08.13:983][529]LogModuleManager: Shutting down and abandoning module AutomationWindow (432)
+[2018.04.06-04.08.13:983][529]LogModuleManager: Shutting down and abandoning module Layers (430)
+[2018.04.06-04.08.13:983][529]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (428)
+[2018.04.06-04.08.13:983][529]LogModuleManager: Shutting down and abandoning module DetailCustomizations (426)
+[2018.04.06-04.08.13:983][529]LogModuleManager: Shutting down and abandoning module PackagesDialog (424)
+[2018.04.06-04.08.13:984][529]LogModuleManager: Shutting down and abandoning module Persona (422)
+[2018.04.06-04.08.13:984][529]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (421)
+[2018.04.06-04.08.13:984][529]LogModuleManager: Shutting down and abandoning module AnimGraph (419)
+[2018.04.06-04.08.13:984][529]LogModuleManager: Shutting down and abandoning module Kismet (416)
+[2018.04.06-04.08.14:000][529]LogModuleManager: Shutting down and abandoning module GraphEditor (414)
+[2018.04.06-04.08.14:000][529]LogModuleManager: Shutting down and abandoning module ClassViewer (412)
+[2018.04.06-04.08.14:003][529]LogModuleManager: Shutting down and abandoning module Toolbox (410)
+[2018.04.06-04.08.14:004][529]LogModuleManager: Shutting down and abandoning module ModuleUI (408)
+[2018.04.06-04.08.14:004][529]LogModuleManager: Shutting down and abandoning module MovieSceneTools (406)
+[2018.04.06-04.08.14:004][529]LogModuleManager: Shutting down and abandoning module OutputLog (404)
+[2018.04.06-04.08.14:004][529]LogModuleManager: Shutting down and abandoning module GammaUI (402)
+[2018.04.06-04.08.14:004][529]LogModuleManager: Shutting down and abandoning module Documentation (400)
+[2018.04.06-04.08.14:007][529]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (398)
+[2018.04.06-04.08.14:007][529]LogModuleManager: Shutting down and abandoning module MovieScene (396)
+[2018.04.06-04.08.14:007][529]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (394)
+[2018.04.06-04.08.14:007][529]LogModuleManager: Shutting down and abandoning module LauncherPlatform (392)
+[2018.04.06-04.08.14:007][529]LogModuleManager: Shutting down and abandoning module AnalyticsET (390)
+[2018.04.06-04.08.14:007][529]LogModuleManager: Shutting down and abandoning module PortalServices (388)
+[2018.04.06-04.08.14:007][529]LogModuleManager: Shutting down and abandoning module PortalRpc (386)
+[2018.04.06-04.08.14:007][529]LogModuleManager: Shutting down and abandoning module MessagingRpc (384)
+[2018.04.06-04.08.14:007][529]LogModuleManager: Shutting down and abandoning module AIModule (382)
+[2018.04.06-04.08.14:007][529]LogModuleManager: Shutting down and abandoning module GameplayDebugger (381)
+[2018.04.06-04.08.14:007][529]LogModuleManager: Shutting down and abandoning module AITestSuite (379)
+[2018.04.06-04.08.14:007][529]LogModuleManager: Shutting down and abandoning module DesktopPlatform (376)
+[2018.04.06-04.08.14:007][529]LogModuleManager: Shutting down and abandoning module ProfilerService (374)
+[2018.04.06-04.08.14:062][529]LogModuleManager: Shutting down and abandoning module TaskGraph (372)
+[2018.04.06-04.08.14:062][529]LogModuleManager: Shutting down and abandoning module SteamVRController (370)
+[2018.04.06-04.08.14:062][529]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (368)
+[2018.04.06-04.08.14:062][529]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (366)
+[2018.04.06-04.08.14:062][529]LogModuleManager: Shutting down and abandoning module OculusInput (364)
+[2018.04.06-04.08.14:062][529]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (362)
+[2018.04.06-04.08.14:062][529]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (360)
+[2018.04.06-04.08.14:062][529]LogModuleManager: Shutting down and abandoning module CableComponent (358)
+[2018.04.06-04.08.14:062][529]LogModuleManager: Shutting down and abandoning module AudioCapture (356)
+[2018.04.06-04.08.14:062][529]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (354)
+[2018.04.06-04.08.14:062][529]LogModuleManager: Shutting down and abandoning module AndroidPermission (352)
+[2018.04.06-04.08.14:062][529]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (348)
+[2018.04.06-04.08.14:062][529]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (346)
+[2018.04.06-04.08.14:063][529]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (344)
+[2018.04.06-04.08.14:063][529]LogModuleManager: Shutting down and abandoning module MediaCompositing (342)
+[2018.04.06-04.08.14:063][529]LogModuleManager: Shutting down and abandoning module LinearTimecode (340)
+[2018.04.06-04.08.14:063][529]LogModuleManager: Shutting down and abandoning module ImgMedia (338)
+[2018.04.06-04.08.14:070][529]LogModuleManager: Shutting down and abandoning module HTML5Networking (336)
+[2018.04.06-04.08.14:070][529]LogModuleManager: Shutting down and abandoning module AlembicImporter (334)
+[2018.04.06-04.08.14:070][529]LogModuleManager: Shutting down and abandoning module AlembicLibrary (333)
+[2018.04.06-04.08.14:070][529]LogModuleManager: Shutting down and abandoning module GeometryCache (332)
+[2018.04.06-04.08.14:070][529]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (331)
+[2018.04.06-04.08.14:070][529]LogModuleManager: Shutting down and abandoning module DatasmithContent (326)
+[2018.04.06-04.08.14:071][529]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (324)
+[2018.04.06-04.08.14:071][529]LogModuleManager: Shutting down and abandoning module PluginBrowser (322)
+[2018.04.06-04.08.14:071][529]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (320)
+[2018.04.06-04.08.14:071][529]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (318)
+[2018.04.06-04.08.14:071][529]LogModuleManager: Shutting down and abandoning module CryptoKeys (316)
+[2018.04.06-04.08.14:071][529]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (314)
+[2018.04.06-04.08.14:071][529]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (312)
+[2018.04.06-04.08.14:071][529]LogModuleManager: Shutting down and abandoning module UObjectPlugin (310)
+[2018.04.06-04.08.14:071][529]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (308)
+[2018.04.06-04.08.14:071][529]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (306)
+[2018.04.06-04.08.14:071][529]LogModuleManager: Shutting down and abandoning module GitSourceControl (304)
+[2018.04.06-04.08.14:071][529]LogModuleManager: Shutting down and abandoning module SourceControl (303)
+[2018.04.06-04.08.14:072][529]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (300)
+[2018.04.06-04.08.14:072][529]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (298)
+[2018.04.06-04.08.14:072][529]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (296)
+[2018.04.06-04.08.14:072][529]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (294)
+[2018.04.06-04.08.14:072][529]LogModuleManager: Shutting down and abandoning module Paper2DEditor (292)
+[2018.04.06-04.08.14:072][529]LogModuleManager: Shutting down and abandoning module MeshPaint (291)
+[2018.04.06-04.08.14:072][529]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (288)
+[2018.04.06-04.08.14:072][529]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (286)
+[2018.04.06-04.08.14:072][529]LogModuleManager: Shutting down and abandoning module PhysXVehicles (284)
+[2018.04.06-04.08.14:072][529]LogModuleManager: Shutting down and abandoning module OculusEditor (282)
+[2018.04.06-04.08.14:073][529]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (280)
+[2018.04.06-04.08.14:073][529]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (278)
+[2018.04.06-04.08.14:073][529]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (276)
+[2018.04.06-04.08.14:073][529]LogModuleManager: Shutting down and abandoning module ActorSequence (274)
+[2018.04.06-04.08.14:073][529]LogModuleManager: Shutting down and abandoning module UdpMessaging (272)
+[2018.04.06-04.08.14:174][529]LogModuleManager: Shutting down and abandoning module TcpMessaging (270)
+[2018.04.06-04.08.14:274][529]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2018.04.06-04.08.14:274][529]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2018.04.06-04.08.14:274][529]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2018.04.06-04.08.14:274][529]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2018.04.06-04.08.14:274][529]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2018.04.06-04.08.14:274][529]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2018.04.06-04.08.14:277][529]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2018.04.06-04.08.14:277][529]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2018.04.06-04.08.14:278][529]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2018.04.06-04.08.14:278][529]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2018.04.06-04.08.14:279][529]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2018.04.06-04.08.14:283][529]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2018.04.06-04.08.14:284][529]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
+[2018.04.06-04.08.14:284][529]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (242)
+[2018.04.06-04.08.14:284][529]LogModuleManager: Shutting down and abandoning module LiveLink (240)
+[2018.04.06-04.08.15:011][529]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2018.04.06-04.08.15:011][529]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2018.04.06-04.08.15:011][529]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2018.04.06-04.08.15:013][529]LogModuleManager: Shutting down and abandoning module PacketHandler (232)
+[2018.04.06-04.08.15:013][529]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (230)
+[2018.04.06-04.08.15:013][529]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (228)
+[2018.04.06-04.08.15:013][529]LogModuleManager: Shutting down and abandoning module MediaAssets (226)
+[2018.04.06-04.08.15:013][529]LogModuleManager: Shutting down and abandoning module Media (225)
+[2018.04.06-04.08.15:019][529]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2018.04.06-04.08.15:020][529]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2018.04.06-04.08.15:020][529]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2018.04.06-04.08.15:020][529]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2018.04.06-04.08.15:020][529]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2018.04.06-04.08.15:020][529]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2018.04.06-04.08.15:020][529]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2018.04.06-04.08.15:020][529]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2018.04.06-04.08.15:020][529]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2018.04.06-04.08.15:020][529]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2018.04.06-04.08.15:020][529]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2018.04.06-04.08.15:020][529]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2018.04.06-04.08.15:021][529]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2018.04.06-04.08.15:021][529]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2018.04.06-04.08.15:021][529]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2018.04.06-04.08.15:021][529]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2018.04.06-04.08.15:025][529]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2018.04.06-04.08.15:025][529]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2018.04.06-04.08.15:026][529]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2018.04.06-04.08.15:026][529]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2018.04.06-04.08.15:026][529]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2018.04.06-04.08.15:026][529]LogModuleManager: Shutting down and abandoning module Core (178)
+[2018.04.06-04.08.15:026][529]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
+[2018.04.06-04.08.15:026][529]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2018.04.06-04.08.15:026][529]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2018.04.06-04.08.15:026][529]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2018.04.06-04.08.15:026][529]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2018.04.06-04.08.15:026][529]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
+[2018.04.06-04.08.15:026][529]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
+[2018.04.06-04.08.15:026][529]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2018.04.06-04.08.15:026][529]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2018.04.06-04.08.15:027][529]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
+[2018.04.06-04.08.15:043][529]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2018.04.06-04.08.15:113][529]LogDerivedDataCache: Shutdown
+[2018.04.06-04.08.15:113][529]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2018.04.06-04.08.15:113][529]LogXGEController: Cleaning working directory: C:/Users/Ricardo/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.04.06-04.08.15:114][529]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2018.04.06-04.08.15:114][529]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2018.04.06-04.08.15:114][529]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2018.04.06-04.08.15:114][529]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2018.04.06-04.08.15:114][529]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2018.04.06-04.08.15:115][529]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2018.04.06-04.08.15:115][529]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2018.04.06-04.08.15:115][529]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2018.04.06-04.08.15:115][529]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2018.04.06-04.08.15:115][529]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2018.04.06-04.08.15:115][529]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2018.04.06-04.08.15:115][529]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2018.04.06-04.08.15:115][529]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2018.04.06-04.08.15:115][529]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2018.04.06-04.08.15:116][529]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2018.04.06-04.08.15:116][529]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2018.04.06-04.08.15:116][529]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2018.04.06-04.08.15:116][529]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2018.04.06-04.08.15:116][529]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2018.04.06-04.08.15:116][529]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2018.04.06-04.08.15:116][529]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2018.04.06-04.08.15:116][529]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2018.04.06-04.08.15:117][529]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2018.04.06-04.08.15:117][529]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2018.04.06-04.08.15:117][529]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2018.04.06-04.08.15:117][529]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2018.04.06-04.08.15:117][529]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2018.04.06-04.08.15:117][529]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2018.04.06-04.08.15:117][529]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2018.04.06-04.08.15:117][529]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
+[2018.04.06-04.08.15:117][529]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2018.04.06-04.08.15:117][529]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2018.04.06-04.08.15:117][529]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2018.04.06-04.08.15:117][529]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2018.04.06-04.08.15:117][529]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2018.04.06-04.08.15:117][529]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2018.04.06-04.08.15:118][529]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2018.04.06-04.08.15:118][529]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2018.04.06-04.08.15:118][529]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2018.04.06-04.08.15:118][529]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2018.04.06-04.08.15:118][529]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2018.04.06-04.08.15:118][529]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2018.04.06-04.08.15:118][529]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2018.04.06-04.08.15:118][529]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2018.04.06-04.08.15:118][529]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2018.04.06-04.08.15:119][529]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2018.04.06-04.08.15:119][529]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2018.04.06-04.08.15:119][529]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2018.04.06-04.08.15:119][529]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2018.04.06-04.08.15:119][529]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.04.06-04.08.15:119][529]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.04.06-04.08.15:119][529]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.04.06-04.08.15:119][529]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.04.06-04.08.15:119][529]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.04.06-04.08.15:119][529]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.04.06-04.08.15:119][529]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B455CA71B-4BF7-F7BD-550E-4798EE83DE35%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.0-3944462%2B%2B%2BUE4%2BRelease-4.19&UserID=dc0359e24bc752b0983e4a84b611110e%7C9f1f5f4014ce415391b75215bf2b3a9d%7Cabf2abfe-0146-40b8-8c67-43fbb7be6289&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.04.06-04.08.15:138][529]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.04.06-04.08.15:141][529]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.04.06-04.08.15:141][529]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.04.06-04.08.15:141][529]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.04.06-04.08.15:141][529]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.04.06-04.08.15:142][529]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.04.06-04.08.15:142][529]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.04.06-04.08.15:142][529]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.04.06-04.08.15:148][529]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.04.06-04.08.15:148][529]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.04.06-04.08.15:148][529]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.04.06-04.08.15:148][529]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.04.06-04.08.15:148][529]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.04.06-04.08.15:148][529]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.04.06-04.08.15:149][529]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.04.06-04.08.15:149][529]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.04.06-04.08.15:149][529]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.04.06-04.08.15:149][529]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.04.06-04.08.15:149][529]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.04.06-04.08.15:156][529]LogExit: Exiting.
+[2018.04.06-04.08.15:186][529]Log file closed, 04/06/18 01:08:15
