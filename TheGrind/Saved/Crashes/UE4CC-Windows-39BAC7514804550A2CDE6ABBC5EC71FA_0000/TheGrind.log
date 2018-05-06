@@ -1,0 +1,1173 @@
+﻿Log file open, 04/07/18 21:14:44
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TheGrind
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1825926074) SRandInit(-1825926074).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 3944462, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.265359
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  4.553s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-BRVLTMR (192.168.0.14:0)
+LogInit: Build: ++UE4+Release-4.19-CL-3944462
+LogInit: Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Mar 13 2018 23:12:32
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.08-00.14.49:373][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.08-00.14.49:373][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.08-00.14.49:448][  0]LogInit: Computer: DESKTOP-BRVLTMR
+[2018.04.08-00.14.49:449][  0]LogInit: User: Ricardo
+[2018.04.08-00.14.49:449][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.04.08-00.14.49:449][  0]LogInit: High frequency timer resolution =3.020484 MHz
+[2018.04.08-00.14.49:449][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2018.04.08-00.14.49:449][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.08-00.14.49:449][  0]LogMemory: Process Physical Memory: 274.84 MB used, 274.84 MB peak
+[2018.04.08-00.14.49:449][  0]LogMemory: Process Virtual Memory: 263.80 MB used, 263.80 MB peak
+[2018.04.08-00.14.49:449][  0]LogMemory: Physical Memory: 3881.05 MB used,  4274.90 MB free, 8155.95 MB total
+[2018.04.08-00.14.49:449][  0]LogMemory: Virtual Memory: 681.48 MB used,  4274.90 MB free, 134217728.00 MB total
+[2018.04.08-00.14.49:829][  0]LogInit: Overriding language with editor language configuration option (en).
+[2018.04.08-00.14.49:829][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2018.04.08-00.14.50:794][  0]LogStreaming: Display: Took  0.966s to EndInitTextLocalization.
+[2018.04.08-00.14.50:795][  0]LogInit: Setting process to per monitor DPI aware
+[2018.04.08-00.14.50:943][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.04.08-00.14.50:943][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.04.08-00.14.54:244][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.08-00.14.54:295][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2018.04.08-00.14.54:295][  0]LogD3D11RHI:       6061/0/4077 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.04.08-00.14.54:298][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.08-00.14.54:298][  0]LogD3D11RHI:       0/0/4077 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.08-00.14.54:298][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.08-00.14.54:305][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.08-00.14.54:305][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2018.04.08-00.14.54:305][  0]LogWindows: EnumDisplayDevices:
+[2018.04.08-00.14.54:305][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2018.04.08-00.14.54:305][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.04.08-00.14.54:305][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.04.08-00.14.54:305][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.04.08-00.14.54:305][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.08-00.14.54:305][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2018.04.08-00.14.54:305][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.08-00.14.54:305][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.08-00.14.54:305][  0]LogRHI: Texture pool is 4242 MB (70% of 6061 MB)
+[2018.04.08-00.14.54:334][  0]LogD3D11RHI: [Aftermath] Aftermath enabled but failed to initialize
+[2018.04.08-00.14.54:334][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.08-00.14.54:410][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.04.08-00.14.54:458][  0]LogShaderCompilers: Guid format shader working directory is -2 characters bigger than the processId version (../../../../../../Repositorios/The-Grind/TheGrind/Intermediate/Shaders/WorkingDirectory/14028/).
+[2018.04.08-00.14.54:458][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Ricardo/AppData/Local/Temp/UnrealShaderWorkingDir/51C485DD49C2834D37A37F8F81AFCDDB/'.
+[2018.04.08-00.14.56:948][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.08-00.14.56:969][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.08-00.14.56:989][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.08-00.14.57:010][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.08-00.14.57:047][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.08-00.14.57:066][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.08-00.14.57:085][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.08-00.14.57:104][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.08-00.14.57:113][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.08-00.14.57:129][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.08-00.14.57:146][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.08-00.14.57:162][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.08-00.14.57:177][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.04.08-00.14.57:193][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.08-00.14.57:208][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.08-00.14.57:240][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.08-00.14.57:240][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.08-00.14.57:268][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.08-00.14.57:270][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.08-00.14.57:378][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.08-00.14.57:393][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.08-00.14.57:409][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.08-00.14.57:425][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.08-00.14.57:441][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.08-00.14.57:473][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.08-00.14.57:473][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.08-00.14.58:170][  0]LogXGEController: Cleaning working directory: C:/Users/Ricardo/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.04.08-00.14.58:170][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.04.08-00.14.58:170][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.04.08-00.14.58:170][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.08-00.15.00:889][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.08-00.15.01:509][  0]LogDerivedDataCache: Loaded boot cache 0.62s 74MB C:/Users/Ricardo/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.04.08-00.15.01:509][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Ricardo/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.04.08-00.15.01:509][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Repositorios/The-Grind/TheGrind/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.08-00.15.01:509][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.08-00.15.01:510][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Repositorios/The-Grind/TheGrind/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.08-00.15.01:510][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.08-00.15.01:560][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.08-00.15.01:572][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Ricardo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.08-00.15.01:586][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.08-00.15.01:587][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.08-00.15.01:624][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.08-00.15.01:624][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.08-00.15.08:960][  0]LogAssetRegistry: FAssetRegistry took 0.0286 seconds to start up
+[2018.04.08-00.15.09:426][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.08-00.15.09:946][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.08-00.15.09:949][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.08-00.15.09:950][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.08-00.15.09:950][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.08-00.15.09:950][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.08-00.15.09:950][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.08-00.15.10:012][  0]LogNetVersion: TheGrind , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2424750514)
+[2018.04.08-00.15.11:398][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.065305 seconds
+[2018.04.08-00.15.11:404][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.04.08-00.15.11:404][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.04.08-00.15.11:404][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.08-00.15.34:740][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.08-00.15.34:777][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.08-00.15.35:565][  0]SourceControl: Source control is disabled
+[2018.04.08-00.15.35:565][  0]SourceControl: Source control is disabled
+[2018.04.08-00.15.35:590][  0]SourceControl: Source control is disabled
+[2018.04.08-00.15.35:617][  0]SourceControl: Source control is disabled
+[2018.04.08-00.15.36:370][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.08-00.15.36:581][  0]LogOcInput: OculusInput pre-init called
+[2018.04.08-00.15.36:774][  0]LogEngine: Initializing Engine...
+[2018.04.08-00.15.36:775][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.04.08-00.15.36:777][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.08-00.15.36:777][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.08-00.15.37:245][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.08-00.15.37:300][  0]LogInit: XAudio2 using 'Fones de ouvido (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.08-00.15.37:314][  0]LogInit: FAudioDevice initialized.
+[2018.04.08-00.15.37:445][  0]LogDerivedDataCache: Saved boot cache 0.13s 74MB C:/Users/Ricardo/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.04.08-00.15.37:462][  0]LogInit: Texture streaming: Enabled
+[2018.04.08-00.15.37:505][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.08-00.15.37:528][  0]LogInit: Transaction tracking system initialized
+[2018.04.08-00.15.37:982][  0]BlueprintLog: New page: Editor Load
+[2018.04.08-00.15.38:523][  0]LocalizationService: Localization service is disabled
+[2018.04.08-00.15.39:353][  0]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/SideScrollerOverview'
+[2018.04.08-00.15.39:354][  0]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/SideScrollerOverview'
+[2018.04.08-00.15.39:354][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/SideScrollerBP/SideScrollerOverview.SideScrollerOverview_C'
+[2018.04.08-00.15.39:564][  0]LogConsoleResponse: Display: 
+[2018.04.08-00.15.40:409][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.08-00.15.40:409][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.08-00.15.40:409][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.08-00.15.40:409][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.08-00.15.40:409][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.08-00.15.41:529][  0]LogFileCache: Scanning file cache for directory 'C:/Repositorios/The-Grind/TheGrind/Content/' took 0.02s
+[2018.04.08-00.15.41:597][  0]SourceControl: Source control is disabled
+[2018.04.08-00.15.41:597][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.08-00.15.41:638][  0]LightingResults: New page: Lighting Build
+[2018.04.08-00.15.41:645][  0]MapCheck: New page: Map Check
+[2018.04.08-00.15.41:645][  0]LightingResults: New page: Lighting Build
+[2018.04.08-00.15.42:308][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.04.08-00.15.42:329][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.08-00.15.42:343][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.08-00.15.42:414][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 70.697ms to complete.
+[2018.04.08-00.15.42:414][  0]LogFileHelpers: Loading map 'Template_Default' took 0.817
+[2018.04.08-00.15.42:677][  0]LogCollectionManager: Loaded 0 collections in 0.002753 seconds
+[2018.04.08-00.15.42:720][  0]LogFileCache: Scanning file cache for directory 'C:/Repositorios/The-Grind/TheGrind/Saved/Collections/' took 0.01s
+[2018.04.08-00.15.42:720][  0]LogFileCache: Scanning file cache for directory 'C:/Repositorios/The-Grind/TheGrind/Content/Developers/Ricardo/Collections/' took 0.01s
+[2018.04.08-00.15.42:720][  0]LogFileCache: Scanning file cache for directory 'C:/Repositorios/The-Grind/TheGrind/Content/Collections/' took 0.01s
+[2018.04.08-00.15.42:720][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.04.08-00.15.42:732][  0]LogContentBrowser: Native class hierarchy populated in 0.0116 seconds. Added 2452 classes and 558 folders.
+[2018.04.08-00.15.42:743][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.04.08-00.15.43:661][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.04.08-00.15.43:667][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.04.08-00.15.43:824][  0]LogSlate: Took 0.021001 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.08-00.15.43:843][  0]LogSlate: Took 0.015894 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.08-00.15.43:888][  0]LogSlate: Took 0.040874 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.08-00.15.44:046][  0]LogRenderer: Reallocating scene render targets to support 1088x924 Format 10 NumSamples 1 (Frame:1).
+[2018.04.08-00.15.44:236][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.04.08-00.15.44:236][  0]LogLoad: (Engine Initialization) Total time: 64.21 seconds
+[2018.04.08-00.15.44:236][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.08-00.15.44:617][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.04.08-00.15.45:583][  3]LogAssetRegistry: Asset discovery search completed in 36.6462 seconds
+[2018.04.08-00.15.45:586][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.04.08-00.15.45:586][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000096 seconds (updated 0 objects)
+[2018.04.08-00.19.46:971][912]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.08-00.19.48:835][ 86]LogSlate: Took 0.122086 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.04.08-00.20.10:619][637]LogSlate: Took 0.000234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.04.08-00.20.11:320][637]LogLinker: Warning: Can't find file '/Game/FirstPerson/Character/Textures/UE4_LOGO_CARD'
+[2018.04.08-00.20.11:320][637]LoadErrors: Failed to load /Game/HeroChar/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms Referenced by Arms_GEN_VARIABLE
+[2018.04.08-00.20.11:320][637]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/Character/Textures/UE4_LOGO_CARD' while loading ../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset.
+[2018.04.08-00.20.11:320][637]LoadErrors: Error: /Game/HeroChar/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO : Can't find file for asset. /Game/FirstPerson/Character/Textures/UE4_LOGO_CARD
+[2018.04.08-00.20.11:321][637]LogLinker: Warning: Can't find file '/Game/FirstPerson/Character/Textures/UE4_LOGO_CARD'
+[2018.04.08-00.20.11:321][637]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/Character/Textures/UE4_LOGO_CARD' while loading ../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset.
+[2018.04.08-00.20.11:824][637]LogLinker: Warning: Can't find file '/Game/FirstPerson/Character/Textures/UE4_LOGO_CARD'
+[2018.04.08-00.20.11:824][637]LoadErrors: Failed to load /Game/FirstPerson/Character/Textures/UE4_LOGO_CARD.UE4_LOGO_CARD Referenced by MaterialExpressionTextureSample_6
+[2018.04.08-00.20.11:824][637]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/Character/Textures/UE4_LOGO_CARD' while loading NULL.
+[2018.04.08-00.20.12:326][637]LogSkeletalMesh: Skeletal Mesh found in DDC [23.415453ms] /Game/HeroChar/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2018.04.08-00.20.13:000][637]LogAIModule: Creating AISystem for world 01Gameplay
+[2018.04.08-00.20.13:027][637]Cmd: MAP LOAD FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/Maps/01Gameplay.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.08-00.20.13:027][637]LightingResults: New page: Lighting Build
+[2018.04.08-00.20.13:028][637]LoadErrors: New page: Loading map: 01Gameplay.umap
+[2018.04.08-00.20.13:028][637]MapCheck: New page: Map Check
+[2018.04.08-00.20.13:029][637]LightingResults: New page: Lighting Build
+[2018.04.08-00.20.13:132][637]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.08-00.20.13:187][637]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.08-00.20.13:275][637]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 88.138ms to complete.
+[2018.04.08-00.20.13:276][637]LogFileHelpers: Loading map '01Gameplay' took 0.250
+[2018.04.08-00.20.13:284][637]LoadErrors: Error: /Game/GameLogic/BP_GamePlayGameMode : Failed import for Function /Game/HUD/MenuDead.MenuDead_C:RestartFromCheckpoint__DelegateSignature Referenced by export DelegateProperty /Game/GameLogic/BP_GamePlayGameMode.BP_GameplayGameMode_C:ExecuteUbergraph_BP_GameplayGameMode.K2Node_CreateDelegate_OutputDelegate
+[2018.04.08-00.20.13:284][637]LoadErrors: Error: /Game/GameLogic/BP_GamePlayGameMode : Failed import for MulticastDelegateProperty /Game/HUD/MenuDead.MenuDead_C:RestartFromCheckpoint Referenced by export Function /Game/GameLogic/BP_GamePlayGameMode.BP_GameplayGameMode_C:ExecuteUbergraph_BP_GameplayGameMode
+[2018.04.08-00.22.09:266][121]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.08-00.22.09:291][121]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.08-00.22.09:299][121]PIE: New page: PIE session: 01Gameplay (Apr 7, 2018, 6:22:09 PM)
+[2018.04.08-00.22.09:299][121]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_01Gameplay
+[2018.04.08-00.22.11:444][121]LogPlayLevel: PIE: StaticDuplicateObject took: (2.145276s)
+[2018.04.08-00.22.11:445][121]LogAIModule: Creating AISystem for world 01Gameplay
+[2018.04.08-00.22.11:446][121]LogPlayLevel: PIE: World Init took: (0.001648s)
+[2018.04.08-00.22.11:446][121]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/01Gameplay.01Gameplay to /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay (2.147256s)
+[2018.04.08-00.22.11:477][121]LogInit: XAudio2 using 'Fones de ouvido (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.08-00.22.11:487][121]LogInit: FAudioDevice initialized.
+[2018.04.08-00.22.11:531][121]LogLoad: Game class is 'BP_GameplayGameMode_C'
+[2018.04.08-00.22.11:536][121]LogWorld: Bringing World /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay up for play (max tick rate 0) at 2018.04.07-21.22.11
+[2018.04.08-00.22.11:537][121]LogWorld: Bringing up level for play took: 0.003496
+[2018.04.08-00.22.11:541][121]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.04.08-00.22.11:547][121]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_01Gameplay 3.014
+[2018.04.08-00.22.24:769][517]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.08-00.22.28:195][780]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.04.08-00.22.29:571][780]LogSlate: Took 0.024150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.08-00.22.30:012][781]LogSlate: Took 0.015461 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.08-00.22.31:295][904]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.08-00.22.31:327][904]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.08-00.22.31:327][904]PIE: New page: PIE session: 01Gameplay (Apr 7, 2018, 6:22:31 PM)
+[2018.04.08-00.22.31:327][904]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_01Gameplay
+[2018.04.08-00.22.31:332][904]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004411s)
+[2018.04.08-00.22.31:332][904]LogAIModule: Creating AISystem for world 01Gameplay
+[2018.04.08-00.22.31:332][904]LogPlayLevel: PIE: World Init took: (0.000844s)
+[2018.04.08-00.22.31:333][904]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/01Gameplay.01Gameplay to /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay (0.005428s)
+[2018.04.08-00.22.31:361][904]LogInit: XAudio2 using 'Fones de ouvido (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.08-00.22.31:370][904]LogInit: FAudioDevice initialized.
+[2018.04.08-00.22.31:421][904]LogLoad: Game class is 'BP_GameplayGameMode_C'
+[2018.04.08-00.22.31:425][904]LogWorld: Bringing World /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay up for play (max tick rate 0) at 2018.04.07-21.22.31
+[2018.04.08-00.22.31:426][904]LogWorld: Bringing up level for play took: 0.003895
+[2018.04.08-00.22.31:437][904]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_01Gameplay 0.904
+[2018.04.08-00.22.31:462][904]LogRenderer: Reallocating scene render targets to support 1292x924 Format 10 NumSamples 1 (Frame:1).
+[2018.04.08-00.22.53:705][340]LogSlate: Window 'TheGrind Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.08-00.30.45:940][680]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Ricardo/Desktop/TheGrid-20180328T032131Z-001/TheGrid/thegrid-assets/thegrid-assets/thegrid-assets/chaves/key1.fbx)
+[2018.04.08-00.30.46:049][680]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.04.08-00.30.46:049][680]LogFbx: ItemName: Geometry, ItemCount : 3
+[2018.04.08-00.30.46:049][680]LogFbx: ItemName: Model, ItemCount : 3
+[2018.04.08-00.30.46:049][680]LogFbx: ItemName: Material, ItemCount : 2
+[2018.04.08-00.30.46:083][680]LogFbx: Loading FBX Scene from ../../../../../../Users/Ricardo/Desktop/TheGrid-20180328T032131Z-001/TheGrid/thegrid-assets/thegrid-assets/thegrid-assets/chaves/key1.fbx
+[2018.04.08-00.30.46:112][680]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.08-00.30.47:701][680]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.04.08-00.30.47:741][680]LogFbx: Loading FBX Scene from ../../../../../../Users/Ricardo/Desktop/TheGrid-20180328T032131Z-001/TheGrid/thegrid-assets/thegrid-assets/thegrid-assets/chaves/key1.fbx
+[2018.04.08-00.30.47:750][680]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.08-00.30.47:890][680]LogMaterial: Missing cached shader map for material M_key, compiling. 
+[2018.04.08-00.30.48:019][680]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.04.08-00.30.48:019][680]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.08-00.30.48:019][680]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.08-00.30.48:055][680]LogMaterial: Missing cached shader map for material M_keyglow, compiling. 
+[2018.04.08-00.30.48:132][680]LogStaticMesh: Building static mesh key1_key1...
+[2018.04.08-00.30.48:187][680]LogStaticMesh: Built static mesh [0.08s] /Game/Objects/Key/key1_key1.key1_key1
+[2018.04.08-00.30.48:429][680]LogStaticMesh: Building static mesh key1_key3...
+[2018.04.08-00.30.48:431][680]LogStaticMesh: Built static mesh [0.03s] /Game/Objects/Key/key1_key3.key1_key3
+[2018.04.08-00.30.48:521][680]LogStaticMesh: Building static mesh key1_key2...
+[2018.04.08-00.30.48:525][680]LogStaticMesh: Built static mesh [0.00s] /Game/Objects/Key/key1_key2.key1_key2
+[2018.04.08-00.30.50:887][792]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.04.08-00.30.52:174][797]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.08-00.30.52:514][798]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.08-00.31.15:325][866]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/01Gameplay' took 0.022
+[2018.04.08-00.31.15:355][866]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Objects/Key/key1_key1] ([1] browsable assets)...
+[2018.04.08-00.31.15:420][866]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Objects/Key/key1_key1.key1_key1]
+[2018.04.08-00.31.15:420][866]OBJ SavePackage: Finished generating thumbnails for package [/Game/Objects/Key/key1_key1]
+[2018.04.08-00.31.15:420][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/Key/key1_key1" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Saved/Autosaves/Game/Objects/Key/key1_key1_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.04.08-00.31.15:463][866]LogSavePackage: Save=33.48ms
+[2018.04.08-00.31.15:463][866]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/key1_key1_Auto158B3F6A947ABE909C31041A94807676B.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Saved/Autosaves/Game/Objects/Key/key1_key1_Auto1.uasset'
+[2018.04.08-00.31.15:466][866]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Saved/Autosaves/Game/Objects/Key/key1_key1_Auto1.uasset
+[2018.04.08-00.31.15:468][866]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Objects/Key/M_key] ([1] browsable assets)...
+[2018.04.08-00.31.15:497][866]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Objects/Key/M_key.M_key]
+[2018.04.08-00.31.15:497][866]OBJ SavePackage: Finished generating thumbnails for package [/Game/Objects/Key/M_key]
+[2018.04.08-00.31.15:498][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/Key/M_key" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Saved/Autosaves/Game/Objects/Key/M_key_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.04.08-00.31.15:552][866]LogSavePackage: Save=42.69ms
+[2018.04.08-00.31.15:552][866]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/M_key_Auto109760AB64184CEEF439AD184CB8CE5EC.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Saved/Autosaves/Game/Objects/Key/M_key_Auto1.uasset'
+[2018.04.08-00.31.15:554][866]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Saved/Autosaves/Game/Objects/Key/M_key_Auto1.uasset
+[2018.04.08-00.31.15:556][866]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Objects/Key/M_keyglow] ([1] browsable assets)...
+[2018.04.08-00.31.15:586][866]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Objects/Key/M_keyglow.M_keyglow]
+[2018.04.08-00.31.15:586][866]OBJ SavePackage: Finished generating thumbnails for package [/Game/Objects/Key/M_keyglow]
+[2018.04.08-00.31.15:586][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/Key/M_keyglow" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Saved/Autosaves/Game/Objects/Key/M_keyglow_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.04.08-00.31.15:605][866]LogSavePackage: Save=16.09ms
+[2018.04.08-00.31.15:605][866]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/M_keyglow_Auto108BF87CE4C97F492AE053580F95ABC5A.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Saved/Autosaves/Game/Objects/Key/M_keyglow_Auto1.uasset'
+[2018.04.08-00.31.15:607][866]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Saved/Autosaves/Game/Objects/Key/M_keyglow_Auto1.uasset
+[2018.04.08-00.31.15:607][866]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Objects/Key/key1_key3] ([1] browsable assets)...
+[2018.04.08-00.31.15:628][866]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Objects/Key/key1_key3.key1_key3]
+[2018.04.08-00.31.15:628][866]OBJ SavePackage: Finished generating thumbnails for package [/Game/Objects/Key/key1_key3]
+[2018.04.08-00.31.15:628][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/Key/key1_key3" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Saved/Autosaves/Game/Objects/Key/key1_key3_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.04.08-00.31.15:647][866]LogSavePackage: Save=16.53ms
+[2018.04.08-00.31.15:648][866]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/key1_key3_Auto14109A5D74987295FE470A09A10B16AD7.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Saved/Autosaves/Game/Objects/Key/key1_key3_Auto1.uasset'
+[2018.04.08-00.31.15:649][866]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Saved/Autosaves/Game/Objects/Key/key1_key3_Auto1.uasset
+[2018.04.08-00.31.15:650][866]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Objects/Key/key1_key2] ([1] browsable assets)...
+[2018.04.08-00.31.15:670][866]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Objects/Key/key1_key2.key1_key2]
+[2018.04.08-00.31.15:670][866]OBJ SavePackage: Finished generating thumbnails for package [/Game/Objects/Key/key1_key2]
+[2018.04.08-00.31.15:670][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/Key/key1_key2" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Saved/Autosaves/Game/Objects/Key/key1_key2_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.04.08-00.31.15:690][866]LogSavePackage: Save=16.91ms
+[2018.04.08-00.31.15:690][866]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/key1_key2_Auto122C41269454CFA29799F6388C45E1D31.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Saved/Autosaves/Game/Objects/Key/key1_key2_Auto1.uasset'
+[2018.04.08-00.31.15:691][866]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Saved/Autosaves/Game/Objects/Key/key1_key2_Auto1.uasset
+[2018.04.08-00.31.15:692][866]LogFileHelpers: Auto-saving content packages took 0.366
+[2018.04.08-00.31.31:156][333]LogSlate: Window 'Delete Assets' being destroyed
+[2018.04.08-00.31.35:092][490]LogSlate: Window 'Delete Assets' being destroyed
+[2018.04.08-00.31.51:794][897]LogSlate: Window 'Save Content' being destroyed
+[2018.04.08-00.31.51:836][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/Key/key1_key1" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/key1_key1.uasset" SILENT=true
+[2018.04.08-00.31.51:860][897]LogSavePackage: Save=19.00ms
+[2018.04.08-00.31.51:860][897]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/key1_key1619A224E45B243ECC06459835494DF01.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/key1_key1.uasset'
+[2018.04.08-00.31.51:869][897]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/key1_key1.uasset
+[2018.04.08-00.31.51:888][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/Key/key1_key2" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/key1_key2.uasset" SILENT=true
+[2018.04.08-00.31.51:908][897]LogSavePackage: Save=17.68ms
+[2018.04.08-00.31.51:908][897]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/key1_key20BBEF5804C0ABF438B652FA6D8D41E15.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/key1_key2.uasset'
+[2018.04.08-00.31.51:914][897]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/key1_key2.uasset
+[2018.04.08-00.31.51:935][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/Key/M_key" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/M_key.uasset" SILENT=true
+[2018.04.08-00.31.51:954][897]LogSavePackage: Save=16.24ms
+[2018.04.08-00.31.51:954][897]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/M_key34F86FEE42F4EFCFFFF75BB791B7C5E4.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/M_key.uasset'
+[2018.04.08-00.31.51:960][897]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/M_key.uasset
+[2018.04.08-00.31.51:981][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/Key/M_keyglow" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/M_keyglow.uasset" SILENT=true
+[2018.04.08-00.31.52:015][897]LogSavePackage: Save=16.34ms
+[2018.04.08-00.31.52:015][897]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/M_keyglow8E7BBDEF4931AB3399CD929A65DB9766.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/M_keyglow.uasset'
+[2018.04.08-00.31.52:021][897]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/M_keyglow.uasset
+[2018.04.08-00.32.00:964][240]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.04.08-00.32.14:682][  5]LogSlate: Window 'BP_Key*' being destroyed
+[2018.04.08-00.32.49:127][427]LogSlate: Window 'Delete Assets' being destroyed
+[2018.04.08-00.32.51:826][504]LogSlate: Window 'Save Content' being destroyed
+[2018.04.08-00.32.51:846][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/Key/BP_Key" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_Key.uasset" SILENT=true
+[2018.04.08-00.32.51:864][504]LogSavePackage: Save=13.82ms
+[2018.04.08-00.32.51:864][504]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_KeyFA8DDBFF440228238C250C872ED43662.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_Key.uasset'
+[2018.04.08-00.32.51:867][504]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_Key.uasset
+[2018.04.08-00.33.05:849][787]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Ricardo/Desktop/TheGrid-20180328T032131Z-001/TheGrid/thegrid-assets/thegrid-assets/thegrid-assets/chaves/key1.fbx)
+[2018.04.08-00.33.05:855][787]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.04.08-00.33.05:855][787]LogFbx: ItemName: Geometry, ItemCount : 3
+[2018.04.08-00.33.05:855][787]LogFbx: ItemName: Model, ItemCount : 3
+[2018.04.08-00.33.05:855][787]LogFbx: ItemName: Material, ItemCount : 2
+[2018.04.08-00.33.05:861][787]LogFbx: Loading FBX Scene from ../../../../../../Users/Ricardo/Desktop/TheGrid-20180328T032131Z-001/TheGrid/thegrid-assets/thegrid-assets/thegrid-assets/chaves/key1.fbx
+[2018.04.08-00.33.05:868][787]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.08-00.33.08:065][787]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.04.08-00.33.08:127][787]LogFbx: Loading FBX Scene from ../../../../../../Users/Ricardo/Desktop/TheGrid-20180328T032131Z-001/TheGrid/thegrid-assets/thegrid-assets/thegrid-assets/chaves/key1.fbx
+[2018.04.08-00.33.08:134][787]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.08-00.33.08:171][787]LogMaterial: Missing cached shader map for material M_key, compiling. 
+[2018.04.08-00.33.08:220][787]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.04.08-00.33.08:220][787]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.08-00.33.08:220][787]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.08-00.33.08:220][787]LogMaterial: Missing cached shader map for material M_keyglow, compiling. 
+[2018.04.08-00.33.08:251][787]LogStaticMesh: Building static mesh key1_key1...
+[2018.04.08-00.33.08:255][787]LogStaticMesh: Built static mesh [0.02s] /Game/Objects/Key/key1_key1.key1_key1
+[2018.04.08-00.33.08:442][787]LogStaticMesh: Building static mesh key1_key3...
+[2018.04.08-00.33.08:444][787]LogStaticMesh: Built static mesh [0.06s] /Game/Objects/Key/key1_key3.key1_key3
+[2018.04.08-00.33.08:577][787]LogStaticMesh: Building static mesh key1_key2...
+[2018.04.08-00.33.08:580][787]LogStaticMesh: Built static mesh [0.01s] /Game/Objects/Key/key1_key2.key1_key2
+[2018.04.08-00.33.09:121][795]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.04.08-00.33.10:288][796]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.08-00.33.10:730][801]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.08-00.33.12:194][802]LogSlate: Window 'Save Content' being destroyed
+[2018.04.08-00.33.12:237][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/Key/key1_key1" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/key1_key1.uasset" SILENT=true
+[2018.04.08-00.33.12:257][802]LogSavePackage: Save=17.52ms
+[2018.04.08-00.33.12:257][802]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/key1_key161BE03724EFF8501E83E488BEEE5288E.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/key1_key1.uasset'
+[2018.04.08-00.33.12:261][802]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/key1_key1.uasset
+[2018.04.08-00.33.12:283][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/Key/key1_key2" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/key1_key2.uasset" SILENT=true
+[2018.04.08-00.33.12:305][802]LogSavePackage: Save=18.62ms
+[2018.04.08-00.33.12:305][802]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/key1_key2E5B323DE4F43A0E8C128D6ACAE4FF7AE.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/key1_key2.uasset'
+[2018.04.08-00.33.12:309][802]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/key1_key2.uasset
+[2018.04.08-00.33.12:333][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/Key/key1_key3" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/key1_key3.uasset" SILENT=true
+[2018.04.08-00.33.12:353][802]LogSavePackage: Save=17.37ms
+[2018.04.08-00.33.12:353][802]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/key1_key38009E1B142412F770BB6529B4908DBE7.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/key1_key3.uasset'
+[2018.04.08-00.33.12:357][802]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/key1_key3.uasset
+[2018.04.08-00.33.12:381][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/Key/M_key" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/M_key.uasset" SILENT=true
+[2018.04.08-00.33.12:400][802]LogSavePackage: Save=16.22ms
+[2018.04.08-00.33.12:400][802]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/M_keyCCD9CCD140448DA68CBF569F2B00EF28.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/M_key.uasset'
+[2018.04.08-00.33.12:403][802]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/M_key.uasset
+[2018.04.08-00.33.12:685][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/Key/M_keyglow" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/M_keyglow.uasset" SILENT=true
+[2018.04.08-00.33.12:705][802]LogSavePackage: Save=16.70ms
+[2018.04.08-00.33.12:705][802]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/M_keyglow94CD7E1F4963828005FE59AE945D6F48.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/M_keyglow.uasset'
+[2018.04.08-00.33.12:708][802]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/M_keyglow.uasset
+[2018.04.08-00.34.16:039][756]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.08-00.34.16:132][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/Key/BP_Key" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_Key.uasset" SILENT=true
+[2018.04.08-00.34.17:448][764]LogSavePackage: Save=50.82ms
+[2018.04.08-00.34.17:448][764]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_KeyBA07AB2F44F48BCEC6818F88102D640B.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_Key.uasset'
+[2018.04.08-00.34.17:453][764]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_Key.uasset
+[2018.04.08-00.34.18:619][893]BlueprintLog: New page: Compile BP_Key
+[2018.04.08-00.34.46:302][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/Key/BP_Key" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_Key.uasset" SILENT=true
+[2018.04.08-00.34.46:352][721]LogSavePackage: Save=23.14ms
+[2018.04.08-00.34.46:352][721]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_Key9CCC9F964084FE36A4801F9E56BF7F0F.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_Key.uasset'
+[2018.04.08-00.34.46:357][721]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_Key.uasset
+[2018.04.08-00.34.46:895][784]BlueprintLog: New page: Compile BP_Key
+[2018.04.08-00.35.43:969][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/Key/BP_Key" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_Key.uasset" SILENT=true
+[2018.04.08-00.35.44:021][124]LogSavePackage: Save=24.25ms
+[2018.04.08-00.35.44:021][124]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_Key513AEF0B4FA511950FA096907C21A891.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_Key.uasset'
+[2018.04.08-00.35.44:025][124]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_Key.uasset
+[2018.04.08-00.35.44:420][170]BlueprintLog: New page: Compile BP_Key
+[2018.04.08-00.36.57:353][636]LogMaterial: Missing cached shader map for material M_Block, compiling. 
+[2018.04.08-00.36.57:382][637]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.04.08-00.36.57:382][637]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.08-00.36.57:382][637]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.08-00.37.00:617][736]LogSlate: Window 'Save Content' being destroyed
+[2018.04.08-00.37.00:727][736]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Block" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/Materials/M_Block.uasset" SILENT=true
+[2018.04.08-00.37.00:749][736]LogSavePackage: Save=19.10ms
+[2018.04.08-00.37.00:749][736]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/M_BlockC069D149460B63B616AAB29CAA05D77D.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/Materials/M_Block.uasset'
+[2018.04.08-00.37.00:753][736]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/Materials/M_Block.uasset
+[2018.04.08-00.37.24:982][ 83]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/Key/BP_Key" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_Key.uasset" SILENT=true
+[2018.04.08-00.37.25:034][ 83]LogSavePackage: Save=24.60ms
+[2018.04.08-00.37.25:034][ 83]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_Key7D7D1A2441D3F480E50194BA954CC855.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_Key.uasset'
+[2018.04.08-00.37.25:038][ 83]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_Key.uasset
+[2018.04.08-00.37.54:538][792]LogEditorTransaction: Undo Replace component used material
+[2018.04.08-00.38.34:699][570]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/Key/BP_Key" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_Key.uasset" SILENT=true
+[2018.04.08-00.38.34:742][570]LogSavePackage: Save=15.47ms
+[2018.04.08-00.38.34:742][570]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_Key2F9FCB704AA33357D658018D040F5DF3.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_Key.uasset'
+[2018.04.08-00.38.34:746][570]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_Key.uasset
+[2018.04.08-00.38.35:213][625]BlueprintLog: New page: Compile BP_Key
+[2018.04.08-00.38.55:777][394]LogSlate: Window 'Delete Assets' being destroyed
+[2018.04.08-00.38.57:436][575]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/Key/BP_Key" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_Key.uasset" SILENT=true
+[2018.04.08-00.38.57:488][575]LogSavePackage: Save=24.31ms
+[2018.04.08-00.38.57:488][575]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_KeyAE83C53F49552570E6F3E2B1E61417D0.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_Key.uasset'
+[2018.04.08-00.38.57:490][575]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_Key.uasset
+[2018.04.08-00.38.57:868][619]BlueprintLog: New page: Compile BP_Key
+[2018.04.08-00.39.08:374][227]LogSlate: Window 'Delete Assets' being destroyed
+[2018.04.08-00.39.13:372][444]LogSlate: Window 'Save Content' being destroyed
+[2018.04.08-00.39.13:406][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/Key/key1_key1" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/key1_key1.uasset" SILENT=true
+[2018.04.08-00.39.13:458][444]LogSavePackage: Save=17.53ms
+[2018.04.08-00.39.13:458][444]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/key1_key126E8F11F432A8F3FE604969DF25A1A69.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/key1_key1.uasset'
+[2018.04.08-00.39.13:461][444]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/key1_key1.uasset
+[2018.04.08-00.39.13:478][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/Key/key1_key2" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/key1_key2.uasset" SILENT=true
+[2018.04.08-00.39.13:522][444]LogSavePackage: Save=17.52ms
+[2018.04.08-00.39.13:522][444]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/key1_key238495F7F43C55B750A7EC1814F474811.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/key1_key2.uasset'
+[2018.04.08-00.39.13:526][444]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/key1_key2.uasset
+[2018.04.08-00.39.13:542][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/Key/key1_key3" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/key1_key3.uasset" SILENT=true
+[2018.04.08-00.39.13:585][444]LogSavePackage: Save=17.10ms
+[2018.04.08-00.39.13:585][444]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/key1_key3D9A4C652403D47A845FECB90F1B22267.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/key1_key3.uasset'
+[2018.04.08-00.39.13:589][444]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/key1_key3.uasset
+[2018.04.08-00.39.32:096][288]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.08-00.39.41:248][144]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.08-00.39.41:340][154]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.08-00.39.41:375][154]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.08-00.39.41:375][154]PIE: New page: PIE session: 01Gameplay (Apr 7, 2018, 6:39:41 PM)
+[2018.04.08-00.39.41:375][154]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_01Gameplay
+[2018.04.08-00.39.41:380][154]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004802s)
+[2018.04.08-00.39.41:380][154]LogAIModule: Creating AISystem for world 01Gameplay
+[2018.04.08-00.39.41:381][154]LogPlayLevel: PIE: World Init took: (0.000827s)
+[2018.04.08-00.39.41:381][154]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/01Gameplay.01Gameplay to /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay (0.005791s)
+[2018.04.08-00.39.41:409][154]LogInit: XAudio2 using 'Fones de ouvido (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.08-00.39.41:419][154]LogInit: FAudioDevice initialized.
+[2018.04.08-00.39.41:452][154]LogLoad: Game class is 'BP_GameplayGameMode_C'
+[2018.04.08-00.39.41:459][154]LogWorld: Bringing World /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay up for play (max tick rate 0) at 2018.04.07-21.39.41
+[2018.04.08-00.39.41:460][154]LogWorld: Bringing up level for play took: 0.006328
+[2018.04.08-00.39.41:468][154]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_01Gameplay 0.936
+[2018.04.08-00.40.21:881][594]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.08-00.42.16:620][658]LogEditorTransaction: Undo New Value Entered
+[2018.04.08-00.42.17:029][682]LogEditorTransaction: Undo New Time Entered
+[2018.04.08-00.42.51:667][789]LogEditorTransaction: Undo New Time Entered
+[2018.04.08-00.42.52:118][817]LogEditorTransaction: Undo New Value Entered
+[2018.04.08-00.43.07:803][887]LogEditorTransaction: Undo New Value Entered
+[2018.04.08-00.43.08:231][912]LogEditorTransaction: Undo New Time Entered
+[2018.04.08-00.43.52:545][672]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/01Gameplay" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Saved/Autosaves/Game/Maps/01Gameplay_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.04.08-00.43.52:654][672]LogSavePackage: Save=74.13ms
+[2018.04.08-00.43.52:654][672]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/01Gameplay_Auto298B999F94E9FB954E31AF5BDFA91474D.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Saved/Autosaves/Game/Maps/01Gameplay_Auto2.umap'
+[2018.04.08-00.43.52:656][672]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Saved/Autosaves/Game/Maps/01Gameplay_Auto2.umap
+[2018.04.08-00.43.52:662][672]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/01Gameplay' took 0.174
+[2018.04.08-00.43.52:662][672]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.174
+[2018.04.08-00.43.52:664][672]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Objects/Key/BP_Key] ([1] browsable assets)...
+[2018.04.08-00.43.52:680][672]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Objects/Key/BP_Key.BP_Key]
+[2018.04.08-00.43.52:680][672]OBJ SavePackage: Finished generating thumbnails for package [/Game/Objects/Key/BP_Key]
+[2018.04.08-00.43.52:680][672]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/Key/BP_Key" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Saved/Autosaves/Game/Objects/Key/BP_Key_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.04.08-00.43.52:738][672]LogSavePackage: Save=30.74ms
+[2018.04.08-00.43.52:738][672]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_Key_Auto210997FFD45CA2D5E3ED84AB649E24816.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Saved/Autosaves/Game/Objects/Key/BP_Key_Auto2.uasset'
+[2018.04.08-00.43.52:740][672]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Saved/Autosaves/Game/Objects/Key/BP_Key_Auto2.uasset
+[2018.04.08-00.43.52:740][672]LogFileHelpers: Auto-saving content packages took 0.076
+[2018.04.08-00.45.39:709][778]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/Key/BP_Key" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_Key.uasset" SILENT=true
+[2018.04.08-00.45.39:762][778]LogSavePackage: Save=23.50ms
+[2018.04.08-00.45.39:763][778]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_Key8B7725CF42B8E33177B0CF8E27BCAEAA.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_Key.uasset'
+[2018.04.08-00.45.39:769][778]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_Key.uasset
+[2018.04.08-00.45.40:180][810]BlueprintLog: New page: Compile BP_Key
+[2018.04.08-00.47.12:608][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/Key/BP_Key" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_Key.uasset" SILENT=true
+[2018.04.08-00.47.12:670][974]LogSavePackage: Save=33.88ms
+[2018.04.08-00.47.12:670][974]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_Key3888A4274E6E230821B0CD8F045339F8.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_Key.uasset'
+[2018.04.08-00.47.12:674][974]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_Key.uasset
+[2018.04.08-00.47.13:111][  9]BlueprintLog: New page: Compile BP_Key
+[2018.04.08-00.47.30:702][469]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/Key/BP_Key" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_Key.uasset" SILENT=true
+[2018.04.08-00.47.30:762][469]LogSavePackage: Save=32.30ms
+[2018.04.08-00.47.30:762][469]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_Key2D4D9418401EDA36F48BA4A13C1383AE.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_Key.uasset'
+[2018.04.08-00.47.30:765][469]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_Key.uasset
+[2018.04.08-00.47.31:207][501]BlueprintLog: New page: Compile BP_Key
+[2018.04.08-00.47.36:964][888]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.08-00.47.36:995][888]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.08-00.47.36:995][888]PIE: New page: PIE session: 01Gameplay (Apr 7, 2018, 6:47:36 PM)
+[2018.04.08-00.47.36:995][888]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_01Gameplay
+[2018.04.08-00.47.37:000][888]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004796s)
+[2018.04.08-00.47.37:001][888]LogAIModule: Creating AISystem for world 01Gameplay
+[2018.04.08-00.47.37:001][888]LogPlayLevel: PIE: World Init took: (0.000935s)
+[2018.04.08-00.47.37:001][888]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/01Gameplay.01Gameplay to /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay (0.005898s)
+[2018.04.08-00.47.37:029][888]LogInit: XAudio2 using 'Fones de ouvido (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.08-00.47.37:039][888]LogInit: FAudioDevice initialized.
+[2018.04.08-00.47.37:073][888]LogLoad: Game class is 'BP_GameplayGameMode_C'
+[2018.04.08-00.47.37:077][888]LogWorld: Bringing World /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay up for play (max tick rate 0) at 2018.04.07-21.47.37
+[2018.04.08-00.47.37:078][888]LogWorld: Bringing up level for play took: 0.003637
+[2018.04.08-00.47.37:082][888]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_01Gameplay 0.55
+[2018.04.08-00.47.42:218][229]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.08-00.47.42:242][229]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.08-00.47.42:243][229]PIE: New page: PIE session: 01Gameplay (Apr 7, 2018, 6:47:42 PM)
+[2018.04.08-00.47.42:243][229]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_01Gameplay
+[2018.04.08-00.47.42:247][229]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004734s)
+[2018.04.08-00.47.42:248][229]LogAIModule: Creating AISystem for world 01Gameplay
+[2018.04.08-00.47.42:248][229]LogPlayLevel: PIE: World Init took: (0.000720s)
+[2018.04.08-00.47.42:248][229]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/01Gameplay.01Gameplay to /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay (0.005604s)
+[2018.04.08-00.47.42:274][229]LogInit: XAudio2 using 'Fones de ouvido (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.08-00.47.42:283][229]LogInit: FAudioDevice initialized.
+[2018.04.08-00.47.42:325][229]LogLoad: Game class is 'BP_GameplayGameMode_C'
+[2018.04.08-00.47.42:332][229]LogWorld: Bringing World /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay up for play (max tick rate 0) at 2018.04.07-21.47.42
+[2018.04.08-00.47.42:333][229]LogWorld: Bringing up level for play took: 0.006361
+[2018.04.08-00.47.42:341][229]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_01Gameplay -0.191
+[2018.04.08-00.47.49:074][702]LogSlate: Window 'BP_Key' being destroyed
+[2018.04.08-00.47.50:980][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/Key/BP_Key" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_Key.uasset" SILENT=true
+[2018.04.08-00.47.51:042][927]LogSavePackage: Save=33.33ms
+[2018.04.08-00.47.51:042][927]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_KeyD05CECA84B1965CD9A3C2D8B1B5E7C29.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_Key.uasset'
+[2018.04.08-00.47.51:044][927]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_Key.uasset
+[2018.04.08-00.47.51:473][978]BlueprintLog: New page: Compile BP_Key
+[2018.04.08-00.48.21:577][ 86]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.08-00.48.22:861][240]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.08-00.48.22:891][240]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.08-00.48.22:891][240]PIE: New page: PIE session: 01Gameplay (Apr 7, 2018, 6:48:22 PM)
+[2018.04.08-00.48.22:891][240]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_01Gameplay
+[2018.04.08-00.48.22:897][240]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005028s)
+[2018.04.08-00.48.22:897][240]LogAIModule: Creating AISystem for world 01Gameplay
+[2018.04.08-00.48.22:897][240]LogPlayLevel: PIE: World Init took: (0.000740s)
+[2018.04.08-00.48.22:897][240]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/01Gameplay.01Gameplay to /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay (0.005962s)
+[2018.04.08-00.48.22:923][240]LogInit: XAudio2 using 'Fones de ouvido (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.08-00.48.22:932][240]LogInit: FAudioDevice initialized.
+[2018.04.08-00.48.22:974][240]LogLoad: Game class is 'BP_GameplayGameMode_C'
+[2018.04.08-00.48.22:978][240]LogWorld: Bringing World /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay up for play (max tick rate 0) at 2018.04.07-21.48.22
+[2018.04.08-00.48.22:978][240]LogWorld: Bringing up level for play took: 0.003633
+[2018.04.08-00.48.22:984][240]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_01Gameplay 0.452
+[2018.04.08-00.48.24:482][407]LogSlate: Window 'TheGrind Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.08-00.49.58:405][944]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/Key/BP_Key" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_Key.uasset" SILENT=true
+[2018.04.08-00.49.58:479][944]LogSavePackage: Save=35.52ms
+[2018.04.08-00.49.58:479][944]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_Key99C8BF734CEF6D7D04BA83A4DCC45171.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_Key.uasset'
+[2018.04.08-00.49.58:483][944]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_Key.uasset
+[2018.04.08-00.49.58:794][981]BlueprintLog: New page: Compile BP_Key
+[2018.04.08-00.51.01:894][841]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/Key/BP_Key" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_Key.uasset" SILENT=true
+[2018.04.08-00.51.01:978][841]LogSavePackage: Save=54.73ms
+[2018.04.08-00.51.01:978][841]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_KeyC1F8E3FF4EBB64F831EB17B8A9317001.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_Key.uasset'
+[2018.04.08-00.51.01:982][841]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_Key.uasset
+[2018.04.08-00.51.30:402][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/Key/BP_Key" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_Key.uasset" SILENT=true
+[2018.04.08-00.51.30:467][198]LogSavePackage: Save=36.79ms
+[2018.04.08-00.51.30:467][198]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_Key6B9E210F439B9C18A8972090643171F7.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_Key.uasset'
+[2018.04.08-00.51.30:471][198]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_Key.uasset
+[2018.04.08-00.51.30:869][243]BlueprintLog: New page: Compile BP_Key
+[2018.04.08-00.54.30:070][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/Key/BP_Key" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_Key.uasset" SILENT=true
+[2018.04.08-00.54.30:141][444]LogSavePackage: Save=42.44ms
+[2018.04.08-00.54.30:141][444]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_KeyA272384E408ABDC8300B9385A945881C.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_Key.uasset'
+[2018.04.08-00.54.30:145][444]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_Key.uasset
+[2018.04.08-00.54.30:529][489]BlueprintLog: New page: Compile BP_Key
+[2018.04.08-00.54.39:911][454]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/01Gameplay" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Saved/Autosaves/Game/Maps/01Gameplay_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.04.08-00.54.40:033][454]LogSavePackage: Save=83.98ms
+[2018.04.08-00.54.40:033][454]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/01Gameplay_Auto34B1972E44BD3C8EBC9552183C851DFD8.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Saved/Autosaves/Game/Maps/01Gameplay_Auto3.umap'
+[2018.04.08-00.54.40:035][454]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Saved/Autosaves/Game/Maps/01Gameplay_Auto3.umap
+[2018.04.08-00.54.40:037][454]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/01Gameplay' took 0.170
+[2018.04.08-00.54.40:037][454]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.170
+[2018.04.08-00.54.40:039][454]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Objects/Key/BP_Key] ([1] browsable assets)...
+[2018.04.08-00.54.40:054][454]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Objects/Key/BP_Key.BP_Key]
+[2018.04.08-00.54.40:054][454]OBJ SavePackage: Finished generating thumbnails for package [/Game/Objects/Key/BP_Key]
+[2018.04.08-00.54.40:054][454]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/Key/BP_Key" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Saved/Autosaves/Game/Objects/Key/BP_Key_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2018.04.08-00.54.40:120][454]LogSavePackage: Save=42.18ms
+[2018.04.08-00.54.40:120][454]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_Key_Auto3DB79FB194A33E579376BF089D79AC8B6.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Saved/Autosaves/Game/Objects/Key/BP_Key_Auto3.uasset'
+[2018.04.08-00.54.40:122][454]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Saved/Autosaves/Game/Objects/Key/BP_Key_Auto3.uasset
+[2018.04.08-00.54.40:123][454]LogFileHelpers: Auto-saving content packages took 0.085
+[2018.04.08-00.55.19:951][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/Key/BP_Key" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_Key.uasset" SILENT=true
+[2018.04.08-00.55.20:017][445]LogSavePackage: Save=30.16ms
+[2018.04.08-00.55.20:017][445]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_Key40AF50C74C274CED1E8D6FA3E609825F.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_Key.uasset'
+[2018.04.08-00.55.20:023][445]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_Key.uasset
+[2018.04.08-00.55.20:586][512]BlueprintLog: New page: Compile BP_Key
+[2018.04.08-00.55.50:783][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/Key/BP_Key" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_Key.uasset" SILENT=true
+[2018.04.08-00.55.50:852][885]LogSavePackage: Save=39.59ms
+[2018.04.08-00.55.50:852][885]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_Key3A3A65974D6D324908FCA193CF47EE67.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_Key.uasset'
+[2018.04.08-00.55.50:855][885]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_Key.uasset
+[2018.04.08-00.55.51:376][947]BlueprintLog: New page: Compile BP_Key
+[2018.04.08-00.57.29:826][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/Key/BP_Key" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_Key.uasset" SILENT=true
+[2018.04.08-00.57.29:894][296]LogSavePackage: Save=39.89ms
+[2018.04.08-00.57.29:895][296]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_KeyABB36644424628D05DCDD2B56006D299.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_Key.uasset'
+[2018.04.08-00.57.29:898][296]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_Key.uasset
+[2018.04.08-00.57.30:255][337]BlueprintLog: New page: Compile BP_Key
+[2018.04.08-00.58.20:709][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/Key/BP_Key" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_Key.uasset" SILENT=true
+[2018.04.08-00.58.20:777][594]LogSavePackage: Save=39.07ms
+[2018.04.08-00.58.20:777][594]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_Key4C329A6245A6D77AE7736F98C1CA9867.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_Key.uasset'
+[2018.04.08-00.58.20:781][594]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_Key.uasset
+[2018.04.08-00.58.21:589][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/Key/BP_Key" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_Key.uasset" SILENT=true
+[2018.04.08-00.58.21:640][688]LogSavePackage: Save=30.17ms
+[2018.04.08-00.58.21:640][688]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_Key4C2F02174BF5B961BA094CAE87B87930.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_Key.uasset'
+[2018.04.08-00.58.21:642][688]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_Key.uasset
+[2018.04.08-00.58.22:063][737]BlueprintLog: New page: Compile BP_Key
+[2018.04.08-01.00.48:195][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/Key/BP_Key" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_Key.uasset" SILENT=true
+[2018.04.08-01.00.48:271][130]LogSavePackage: Save=39.88ms
+[2018.04.08-01.00.48:271][130]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_Key8037BB414E0E54453EBDFB9E5E3AD8D6.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_Key.uasset'
+[2018.04.08-01.00.48:273][130]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_Key.uasset
+[2018.04.08-01.00.48:628][172]BlueprintLog: New page: Compile BP_Key
+[2018.04.08-01.00.57:974][ 45]LogSlate: Window 'Save Content' being destroyed
+[2018.04.08-01.00.58:088][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/01Gameplay" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/Maps/01Gameplay.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.08-01.00.58:217][ 45]LogSavePackage: Save=74.22ms
+[2018.04.08-01.00.58:217][ 45]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/01Gameplay08809D33430B832403685FACACDBFFC9.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/Maps/01Gameplay.umap'
+[2018.04.08-01.00.58:221][ 45]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/Maps/01Gameplay.umap
+[2018.04.08-01.00.58:263][ 45]LogFileHelpers: Saving map '01Gameplay' took 0.269
+[2018.04.08-01.02.37:498][ 37]LogMetaData: Removing '/Game/Objects/Key/BP_KeyGreen.BP_KeyGreen:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Objects/Key/BP_Key_Green.PackageMetaData'
+[2018.04.08-01.02.37:498][ 37]LogMetaData: Removing '/Game/Objects/Key/BP_KeyGreen.SKEL_BP_KeyGreen_C' ref from Metadata '/Game/Objects/Key/BP_Key_Green.PackageMetaData'
+[2018.04.08-01.02.37:498][ 37]LogMetaData: Removing '/Game/Objects/Key/BP_KeyGreen.BP_KeyGreen_C' ref from Metadata '/Game/Objects/Key/BP_Key_Green.PackageMetaData'
+[2018.04.08-01.02.37:498][ 37]LogMetaData: Removing '/Game/Objects/Key/BP_KeyGreen.BP_KeyGreen:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Objects/Key/BP_Key_Green.PackageMetaData'
+[2018.04.08-01.02.37:498][ 37]LogMetaData: Removing '/Game/Objects/Key/BP_KeyGreen.BP_KeyGreen:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/Objects/Key/BP_Key_Green.PackageMetaData'
+[2018.04.08-01.02.37:498][ 37]LogMetaData: Removing '/Game/Objects/Key/BP_KeyGreen.BP_KeyGreen:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Objects/Key/BP_Key_Green.PackageMetaData'
+[2018.04.08-01.02.37:498][ 37]LogMetaData: Removing '/Game/Objects/Key/BP_KeyGreen.BP_KeyGreen:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/Objects/Key/BP_Key_Green.PackageMetaData'
+[2018.04.08-01.02.37:498][ 37]LogMetaData: Removing '/Game/Objects/Key/BP_KeyGreen.BP_KeyGreen:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Objects/Key/BP_Key_Green.PackageMetaData'
+[2018.04.08-01.02.37:498][ 37]LogMetaData: Removing '/Game/Objects/Key/BP_KeyGreen.BP_KeyGreen:EventGraph.K2Node_CallParentFunction_3' ref from Metadata '/Game/Objects/Key/BP_Key_Green.PackageMetaData'
+[2018.04.08-01.02.37:538][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/Key/BP_KeyGreen" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_KeyGreen.uasset" SILENT=true
+[2018.04.08-01.02.37:565][ 37]LogSavePackage: Save=24.78ms
+[2018.04.08-01.02.37:566][ 37]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_KeyGreen33A4470546665451D7B8D187D8697684.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_KeyGreen.uasset'
+[2018.04.08-01.02.37:569][ 37]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_KeyGreen.uasset
+[2018.04.08-01.03.50:274][634]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.08-01.06.03:338][ 64]LogSlate: Window 'Color Picker' being destroyed
+[2018.04.08-01.06.42:845][793]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/Key/BP_KeyGreen" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_KeyGreen.uasset" SILENT=true
+[2018.04.08-01.06.42:913][793]LogSavePackage: Save=31.42ms
+[2018.04.08-01.06.42:913][793]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_KeyGreenF52DE0B64A75455B915DB180A7543219.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_KeyGreen.uasset'
+[2018.04.08-01.06.42:917][793]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_KeyGreen.uasset
+[2018.04.08-01.06.43:323][840]BlueprintLog: New page: Compile BP_KeyGreen
+[2018.04.08-01.06.55:746][628]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.08-01.07.02:155][389]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/Key/BP_KeyGreen" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_KeyGreen.uasset" SILENT=true
+[2018.04.08-01.07.02:217][389]LogSavePackage: Save=32.06ms
+[2018.04.08-01.07.02:217][389]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_KeyGreen1F8E93E14A031DD1F562919073867520.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_KeyGreen.uasset'
+[2018.04.08-01.07.02:221][389]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_KeyGreen.uasset
+[2018.04.08-01.07.02:762][452]BlueprintLog: New page: Compile BP_KeyGreen
+[2018.04.08-01.07.44:335][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/Key/BP_KeyGreen" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_KeyGreen.uasset" SILENT=true
+[2018.04.08-01.07.44:395][ 44]LogSavePackage: Save=31.52ms
+[2018.04.08-01.07.44:395][ 44]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_KeyGreen8F749AB4489C04C9B6DC349CA95CC395.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_KeyGreen.uasset'
+[2018.04.08-01.07.44:399][ 44]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_KeyGreen.uasset
+[2018.04.08-01.07.44:857][ 97]BlueprintLog: New page: Compile BP_KeyGreen
+[2018.04.08-01.09.11:614][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/Key/BP_KeyGreen" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_KeyGreen.uasset" SILENT=true
+[2018.04.08-01.09.11:680][200]LogSavePackage: Save=36.32ms
+[2018.04.08-01.09.11:680][200]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_KeyGreen3CFE6C8441404D54E0FD35B6D2C5F775.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_KeyGreen.uasset'
+[2018.04.08-01.09.11:684][200]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_KeyGreen.uasset
+[2018.04.08-01.09.12:011][237]BlueprintLog: New page: Compile BP_KeyGreen
+[2018.04.08-01.10.04:139][174]LogSlate: Window 'Color Picker' being destroyed
+[2018.04.08-01.10.09:828][485]LogSlate: Window 'Color Picker' being destroyed
+[2018.04.08-01.10.13:473][584]LogSlate: Window 'Color Picker' being destroyed
+[2018.04.08-01.10.15:430][801]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/Key/BP_KeyPink" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_KeyPink.uasset" SILENT=true
+[2018.04.08-01.10.15:494][801]LogSavePackage: Save=59.42ms
+[2018.04.08-01.10.15:494][801]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_KeyPink3033022244EAA34F1B282198E776693F.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_KeyPink.uasset'
+[2018.04.08-01.10.15:497][801]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_KeyPink.uasset
+[2018.04.08-01.10.16:445][914]BlueprintLog: New page: Compile BP_KeyPink
+[2018.04.08-01.10.26:820][105]LogSlate: Window 'Color Picker' being destroyed
+[2018.04.08-01.10.52:864][829]LogSlate: Window 'Color Picker' being destroyed
+[2018.04.08-01.10.57:695][965]LogSlate: Window 'Color Picker' being destroyed
+[2018.04.08-01.10.58:970][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/Key/BP_KeyBlue" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_KeyBlue.uasset" SILENT=true
+[2018.04.08-01.10.59:010][106]LogSavePackage: Save=37.60ms
+[2018.04.08-01.10.59:010][106]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_KeyBlueB98D13114029B7B5A824E08D4F1CC19E.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_KeyBlue.uasset'
+[2018.04.08-01.10.59:014][106]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_KeyBlue.uasset
+[2018.04.08-01.10.59:418][149]BlueprintLog: New page: Compile BP_KeyBlue
+[2018.04.08-01.12.13:285][913]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.08-01.12.13:370][922]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.08-01.12.13:403][922]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.08-01.12.13:403][922]PIE: New page: PIE session: 01Gameplay (Apr 7, 2018, 7:12:13 PM)
+[2018.04.08-01.12.13:403][922]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_01Gameplay
+[2018.04.08-01.12.13:408][922]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005110s)
+[2018.04.08-01.12.13:409][922]LogAIModule: Creating AISystem for world 01Gameplay
+[2018.04.08-01.12.13:409][922]LogPlayLevel: PIE: World Init took: (0.000780s)
+[2018.04.08-01.12.13:409][922]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/01Gameplay.01Gameplay to /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay (0.006071s)
+[2018.04.08-01.12.13:442][922]LogInit: XAudio2 using 'Fones de ouvido (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.08-01.12.13:452][922]LogInit: FAudioDevice initialized.
+[2018.04.08-01.12.13:492][922]LogLoad: Game class is 'BP_GameplayGameMode_C'
+[2018.04.08-01.12.13:499][922]LogWorld: Bringing World /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay up for play (max tick rate 0) at 2018.04.07-22.12.13
+[2018.04.08-01.12.13:500][922]LogWorld: Bringing up level for play took: 0.006180
+[2018.04.08-01.12.13:508][922]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_01Gameplay 0.976
+[2018.04.08-01.12.21:594][675]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.08-01.12.28:702][313]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.08-01.12.29:379][372]LogEditorActor: Deleted Actor: BP_Key_C
+[2018.04.08-01.12.29:404][372]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2018.04.08-01.12.38:925][214]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.08-01.12.42:936][547]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.08-01.12.47:556][926]LogEditorViewport: Clicking on Actor (LMB): BP_KeyBlue_C (BP_KeyBlue)
+[2018.04.08-01.12.48:683][ 28]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.08-01.12.59:758][  1]LogEditorViewport: Clicking on Actor (LMB): BP_KeyGreen_C (BP_KeyGreen)
+[2018.04.08-01.13.00:803][ 88]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.08-01.13.06:287][574]Cmd: TRANSACTION UNDO
+[2018.04.08-01.13.06:287][574]LogEditorTransaction: Undo Set Location
+[2018.04.08-01.13.16:962][518]LogEditorViewport: Clicking on Actor (LMB): BP_KeyPink_C (BP_KeyPink)
+[2018.04.08-01.13.18:905][684]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.08-01.13.28:300][504]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.08-01.13.28:378][511]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.08-01.13.28:426][511]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.08-01.13.28:427][511]PIE: New page: PIE session: 01Gameplay (Apr 7, 2018, 7:13:28 PM)
+[2018.04.08-01.13.28:427][511]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_01Gameplay
+[2018.04.08-01.13.28:433][511]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005951s)
+[2018.04.08-01.13.28:433][511]LogAIModule: Creating AISystem for world 01Gameplay
+[2018.04.08-01.13.28:433][511]LogPlayLevel: PIE: World Init took: (0.000762s)
+[2018.04.08-01.13.28:434][511]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/01Gameplay.01Gameplay to /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay (0.006901s)
+[2018.04.08-01.13.28:478][511]LogInit: XAudio2 using 'Fones de ouvido (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.08-01.13.28:488][511]LogInit: FAudioDevice initialized.
+[2018.04.08-01.13.28:524][511]LogLoad: Game class is 'BP_GameplayGameMode_C'
+[2018.04.08-01.13.28:531][511]LogWorld: Bringing World /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay up for play (max tick rate 0) at 2018.04.07-22.13.28
+[2018.04.08-01.13.28:532][511]LogWorld: Bringing up level for play took: 0.006883
+[2018.04.08-01.13.28:541][511]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_01Gameplay 0.008
+[2018.04.08-01.14.15:141][616]LogEditorViewport: Clicking on Actor (LMB): BP_KeyBlue_C (BP_KeyBlue)
+[2018.04.08-01.14.17:162][780]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.08-01.14.19:951][997]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/01Gameplay" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Saved/Autosaves/Game/Maps/01Gameplay_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.04.08-01.14.20:067][997]LogSavePackage: Save=82.87ms
+[2018.04.08-01.14.20:068][997]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/01Gameplay_Auto4174354D54E3783C0300BE781C8A50CA6.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Saved/Autosaves/Game/Maps/01Gameplay_Auto4.umap'
+[2018.04.08-01.14.20:069][997]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Saved/Autosaves/Game/Maps/01Gameplay_Auto4.umap
+[2018.04.08-01.14.20:072][997]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/01Gameplay' took 0.149
+[2018.04.08-01.14.20:072][997]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.149
+[2018.04.08-01.14.20:404][ 21]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grid-floor-1x15)
+[2018.04.08-01.14.22:019][138]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.08-01.14.22:682][192]Cmd: TRANSACTION UNDO
+[2018.04.08-01.14.22:682][192]LogEditorTransaction: Undo Clicking on Actors
+[2018.04.08-01.14.29:033][685]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.08-01.14.29:143][695]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.08-01.14.29:168][695]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.08-01.14.29:169][695]PIE: New page: PIE session: 01Gameplay (Apr 7, 2018, 7:14:29 PM)
+[2018.04.08-01.14.29:169][695]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_01Gameplay
+[2018.04.08-01.14.29:175][695]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006000s)
+[2018.04.08-01.14.29:175][695]LogAIModule: Creating AISystem for world 01Gameplay
+[2018.04.08-01.14.29:176][695]LogPlayLevel: PIE: World Init took: (0.000880s)
+[2018.04.08-01.14.29:176][695]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/01Gameplay.01Gameplay to /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay (0.007046s)
+[2018.04.08-01.14.29:210][695]LogInit: XAudio2 using 'Fones de ouvido (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.08-01.14.29:219][695]LogInit: FAudioDevice initialized.
+[2018.04.08-01.14.29:251][695]LogLoad: Game class is 'BP_GameplayGameMode_C'
+[2018.04.08-01.14.29:255][695]LogWorld: Bringing World /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay up for play (max tick rate 0) at 2018.04.07-22.14.29
+[2018.04.08-01.14.29:255][695]LogWorld: Bringing up level for play took: 0.003724
+[2018.04.08-01.14.29:260][695]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_01Gameplay 0.727
+[2018.04.08-01.14.59:636][922]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.08-01.15.00:195][972]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.04.08-01.15.00:613][  8]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.04.08-01.15.01:201][ 63]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.04.08-01.15.04:292][233]LogSlate: Window 'Save Content' being destroyed
+[2018.04.08-01.15.04:409][233]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/01Gameplay" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/Maps/01Gameplay.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.08-01.15.04:545][233]LogSavePackage: Save=86.90ms
+[2018.04.08-01.15.04:545][233]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/01Gameplay7044F1654F0D49F813B9EFB7C94C5236.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/Maps/01Gameplay.umap'
+[2018.04.08-01.15.04:549][233]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/Maps/01Gameplay.umap
+[2018.04.08-01.15.04:591][233]LogFileHelpers: Saving map '01Gameplay' took 0.278
+[2018.04.08-01.19.04:503][301]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.08-01.19.04:600][311]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.08-01.19.04:634][311]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.08-01.19.04:634][311]PIE: New page: PIE session: 01Gameplay (Apr 7, 2018, 7:19:04 PM)
+[2018.04.08-01.19.04:634][311]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_01Gameplay
+[2018.04.08-01.19.04:640][311]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006133s)
+[2018.04.08-01.19.04:641][311]LogAIModule: Creating AISystem for world 01Gameplay
+[2018.04.08-01.19.04:641][311]LogPlayLevel: PIE: World Init took: (0.000813s)
+[2018.04.08-01.19.04:641][311]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/01Gameplay.01Gameplay to /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay (0.007118s)
+[2018.04.08-01.19.04:695][311]LogInit: XAudio2 using 'Fones de ouvido (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.08-01.19.04:705][311]LogInit: FAudioDevice initialized.
+[2018.04.08-01.19.04:738][311]LogLoad: Game class is 'BP_GameplayGameMode_C'
+[2018.04.08-01.19.04:742][311]LogWorld: Bringing World /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay up for play (max tick rate 0) at 2018.04.07-22.19.04
+[2018.04.08-01.19.04:742][311]LogWorld: Bringing up level for play took: 0.003654
+[2018.04.08-01.19.04:747][311]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_01Gameplay 0.214
+[2018.04.08-01.19.09:921][815]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.08-01.19.13:384][146]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.08-01.19.13:483][156]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.08-01.19.13:509][156]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.08-01.19.13:509][156]PIE: New page: PIE session: 01Gameplay (Apr 7, 2018, 7:19:13 PM)
+[2018.04.08-01.19.13:509][156]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_01Gameplay
+[2018.04.08-01.19.13:515][156]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006074s)
+[2018.04.08-01.19.13:516][156]LogAIModule: Creating AISystem for world 01Gameplay
+[2018.04.08-01.19.13:516][156]LogPlayLevel: PIE: World Init took: (0.000730s)
+[2018.04.08-01.19.13:516][156]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/01Gameplay.01Gameplay to /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay (0.006972s)
+[2018.04.08-01.19.13:544][156]LogInit: XAudio2 using 'Fones de ouvido (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.08-01.19.13:553][156]LogInit: FAudioDevice initialized.
+[2018.04.08-01.19.13:583][156]LogLoad: Game class is 'BP_GameplayGameMode_C'
+[2018.04.08-01.19.13:588][156]LogWorld: Bringing World /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay up for play (max tick rate 0) at 2018.04.07-22.19.13
+[2018.04.08-01.19.13:588][156]LogWorld: Bringing up level for play took: 0.003978
+[2018.04.08-01.19.13:593][156]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_01Gameplay 1.06
+[2018.04.08-01.21.05:766][717]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.08-01.21.39:954][588]LogSlate: Window 'Color Picker' being destroyed
+[2018.04.08-01.21.41:998][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroChar/BP_HeroChar" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset" SILENT=true
+[2018.04.08-01.21.42:156][808]LogSavePackage: Save=123.63ms
+[2018.04.08-01.21.42:156][808]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_HeroCharE2552AF14B90FCED4A3755A66BAED10F.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset'
+[2018.04.08-01.21.42:160][808]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset
+[2018.04.08-01.21.42:412][836]BlueprintLog: New page: Compile BP_HeroChar
+[2018.04.08-01.22.55:408][100]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.04.08-01.22.55:602][101]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.TheGrind
+[2018.04.08-01.22.55:602][101]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.04.08-01.22.55:602][101]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.19
+[2018.04.08-01.22.55:602][101]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.04.08-01.22.55:602][101]LogTemp: BranchPath = DESKTOP-BRVLTMR/C/Program Files/Epic Games/UE_4.19/Engine/Binaries --- GameBranchPath = DESKTOP-BRVLTMR/C/Program Files/Epic Games/UE_4.19/Engine/Binaries
+[2018.04.08-01.22.55:603][101]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Ricardo\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.04.08-01.25.36:199][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/01Gameplay" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Saved/Autosaves/Game/Maps/01Gameplay_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.04.08-01.25.36:330][409]LogSavePackage: Save=85.64ms
+[2018.04.08-01.25.36:330][409]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/01Gameplay_Auto52EBFD57D4A8242F7C50C4499C1328FFC.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Saved/Autosaves/Game/Maps/01Gameplay_Auto5.umap'
+[2018.04.08-01.25.36:332][409]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Saved/Autosaves/Game/Maps/01Gameplay_Auto5.umap
+[2018.04.08-01.25.36:334][409]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/01Gameplay' took 0.192
+[2018.04.08-01.25.36:334][409]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.192
+[2018.04.08-01.25.36:352][409]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HeroChar/BP_HeroChar] ([1] browsable assets)...
+[2018.04.08-01.25.36:374][409]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/HeroChar/BP_HeroChar.BP_HeroChar]
+[2018.04.08-01.25.36:374][409]OBJ SavePackage: Finished generating thumbnails for package [/Game/HeroChar/BP_HeroChar]
+[2018.04.08-01.25.36:374][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroChar/BP_HeroChar" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Saved/Autosaves/Game/HeroChar/BP_HeroChar_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2018.04.08-01.25.36:504][409]LogSavePackage: Save=109.91ms
+[2018.04.08-01.25.36:504][409]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_HeroChar_Auto5212F29964A3E7832EB6DFEA5E775B9AC.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Saved/Autosaves/Game/HeroChar/BP_HeroChar_Auto5.uasset'
+[2018.04.08-01.25.36:533][409]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Saved/Autosaves/Game/HeroChar/BP_HeroChar_Auto5.uasset
+[2018.04.08-01.25.36:533][409]LogFileHelpers: Auto-saving content packages took 0.197
+[2018.04.08-01.27.04:718][435]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroChar/BP_HeroChar" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset" SILENT=true
+[2018.04.08-01.27.04:867][435]LogSavePackage: Save=113.11ms
+[2018.04.08-01.27.04:867][435]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_HeroChar6F6B3E35430718B22235C78B51AE1FD7.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset'
+[2018.04.08-01.27.04:873][435]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset
+[2018.04.08-01.27.05:344][488]BlueprintLog: New page: Compile BP_HeroChar
+[2018.04.08-01.27.06:335][533]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.08-01.27.06:364][533]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.08-01.27.06:364][533]PIE: New page: PIE session: 01Gameplay (Apr 7, 2018, 7:27:06 PM)
+[2018.04.08-01.27.06:364][533]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_01Gameplay
+[2018.04.08-01.27.06:370][533]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005702s)
+[2018.04.08-01.27.06:371][533]LogAIModule: Creating AISystem for world 01Gameplay
+[2018.04.08-01.27.06:371][533]LogPlayLevel: PIE: World Init took: (0.000802s)
+[2018.04.08-01.27.06:371][533]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/01Gameplay.01Gameplay to /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay (0.006667s)
+[2018.04.08-01.27.06:402][533]LogInit: XAudio2 using 'Fones de ouvido (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.08-01.27.06:411][533]LogInit: FAudioDevice initialized.
+[2018.04.08-01.27.06:458][533]LogLoad: Game class is 'BP_GameplayGameMode_C'
+[2018.04.08-01.27.06:462][533]LogWorld: Bringing World /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay up for play (max tick rate 0) at 2018.04.07-22.27.06
+[2018.04.08-01.27.06:463][533]LogWorld: Bringing up level for play took: 0.004537
+[2018.04.08-01.27.06:474][533]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_01Gameplay -0.058
+[2018.04.08-01.27.21:525][ 94]LogSlate: Window 'TheGrind Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.08-01.28.39:502][427]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/Key/BI_PickUp" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BI_PickUp.uasset" SILENT=true
+[2018.04.08-01.28.39:513][427]LogSavePackage: Save=6.96ms
+[2018.04.08-01.28.39:513][427]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BI_PickUp680CF4B14D286AD168E8A09DF8D7547D.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BI_PickUp.uasset'
+[2018.04.08-01.28.39:516][427]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BI_PickUp.uasset
+[2018.04.08-01.28.54:044][994]LogSlate: Window 'BI_Pickup*' being destroyed
+[2018.04.08-01.28.56:908][184]LogSlate: Window 'Save Content' being destroyed
+[2018.04.08-01.28.57:024][184]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/01Gameplay" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/Maps/01Gameplay.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.08-01.28.57:163][184]LogSavePackage: Save=86.91ms
+[2018.04.08-01.28.57:163][184]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/01GameplayFF03ED31404E3077119B29BB13AE20BC.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/Maps/01Gameplay.umap'
+[2018.04.08-01.28.57:166][184]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/Maps/01Gameplay.umap
+[2018.04.08-01.28.57:207][184]LogFileHelpers: Saving map '01Gameplay' took 0.280
+[2018.04.08-01.28.57:210][184]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/Key/BI_PickUp" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BI_PickUp.uasset" SILENT=true
+[2018.04.08-01.28.57:240][184]LogSavePackage: Save=7.44ms
+[2018.04.08-01.28.57:241][184]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BI_PickUpEA23FF0545BCD02DE2999EB02F3ECA47.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BI_PickUp.uasset'
+[2018.04.08-01.28.57:244][184]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BI_PickUp.uasset
+[2018.04.08-01.29.29:119][149]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.04.08-01.29.45:644][121]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/Key/BP_Key" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_Key.uasset" SILENT=true
+[2018.04.08-01.29.45:718][121]LogSavePackage: Save=38.50ms
+[2018.04.08-01.29.45:718][121]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_Key9D76E71E43C3908459295C85D0DCDA0E.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_Key.uasset'
+[2018.04.08-01.29.45:722][121]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_Key.uasset
+[2018.04.08-01.29.46:096][158]BlueprintLog: New page: Compile BP_Key
+[2018.04.08-01.30.52:366][694]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.04.08-01.32.03:986][784]BlueprintLog: New page: Compile BP_HeroChar
+[2018.04.08-01.32.05:034][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroChar/BP_HeroChar" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset" SILENT=true
+[2018.04.08-01.32.05:183][830]LogSavePackage: Save=114.43ms
+[2018.04.08-01.32.05:183][830]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_HeroChar020B3E5D443B0552A7EA56A352FBD5EC.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset'
+[2018.04.08-01.32.05:187][830]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/HeroChar/BP_HeroChar.uasset
+[2018.04.08-01.32.08:066][ 11]LogSlate: Window 'Save Content' being destroyed
+[2018.04.08-01.32.08:186][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/01Gameplay" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/Maps/01Gameplay.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.08-01.32.08:323][ 11]LogSavePackage: Save=87.21ms
+[2018.04.08-01.32.08:323][ 11]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/01Gameplay1AE927564551CF3D7F0DC3B666A2CA6E.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/Maps/01Gameplay.umap'
+[2018.04.08-01.32.08:327][ 11]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/Maps/01Gameplay.umap
+[2018.04.08-01.32.08:370][ 11]LogFileHelpers: Saving map '01Gameplay' took 0.282
+[2018.04.08-01.32.08:386][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/Key/BP_KeyBlue" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_KeyBlue.uasset" SILENT=true
+[2018.04.08-01.32.08:447][ 11]LogSavePackage: Save=33.82ms
+[2018.04.08-01.32.08:447][ 11]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_KeyBlueF0242D2749D5F8184D30D9BCA1E2EB07.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_KeyBlue.uasset'
+[2018.04.08-01.32.08:451][ 11]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_KeyBlue.uasset
+[2018.04.08-01.32.08:468][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/Key/BP_KeyGreen" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_KeyGreen.uasset" SILENT=true
+[2018.04.08-01.32.08:529][ 11]LogSavePackage: Save=33.96ms
+[2018.04.08-01.32.08:529][ 11]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_KeyGreen14DE00D44D4C7D3A1DC521935D6D6EFD.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_KeyGreen.uasset'
+[2018.04.08-01.32.08:532][ 11]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_KeyGreen.uasset
+[2018.04.08-01.32.08:551][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/Key/BP_KeyPink" FILE="../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_KeyPink.uasset" SILENT=true
+[2018.04.08-01.32.08:613][ 11]LogSavePackage: Save=33.88ms
+[2018.04.08-01.32.08:613][ 11]LogSavePackage: Moving '../../../../../../Repositorios/The-Grind/TheGrind/Saved/BP_KeyPink93B9266B48A930A759194CA976B6BA01.tmp' to '../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_KeyPink.uasset'
+[2018.04.08-01.32.08:616][ 11]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositorios/The-Grind/TheGrind/Content/Objects/Key/BP_KeyPink.uasset
+[2018.04.08-01.32.09:307][ 74]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.08-01.32.09:346][ 74]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.08-01.32.09:348][ 74]LogPlayLevel: [PlayLevel] Compiling BI_Pickup before play...
+[2018.04.08-01.32.09:385][ 74]LogPlayLevel: PlayLevel: Blueprint regeneration took 39 ms (1 blueprints)
+[2018.04.08-01.32.09:386][ 74]PIE: New page: PIE session: 01Gameplay (Apr 7, 2018, 7:32:09 PM)
+[2018.04.08-01.32.09:386][ 74]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_01Gameplay
+[2018.04.08-01.32.09:392][ 74]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005757s)
+[2018.04.08-01.32.09:392][ 74]LogAIModule: Creating AISystem for world 01Gameplay
+[2018.04.08-01.32.09:392][ 74]LogPlayLevel: PIE: World Init took: (0.000765s)
+[2018.04.08-01.32.09:392][ 74]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/01Gameplay.01Gameplay to /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay (0.006668s)
+[2018.04.08-01.32.09:420][ 74]LogInit: XAudio2 using 'Fones de ouvido (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.08-01.32.09:429][ 74]LogInit: FAudioDevice initialized.
+[2018.04.08-01.32.09:464][ 74]LogLoad: Game class is 'BP_GameplayGameMode_C'
+[2018.04.08-01.32.09:468][ 74]LogWorld: Bringing World /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay up for play (max tick rate 0) at 2018.04.07-22.32.09
+[2018.04.08-01.32.09:469][ 74]LogWorld: Bringing up level for play took: 0.003750
+[2018.04.08-01.32.09:473][ 74]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_01Gameplay 0.941
+[2018.04.08-01.32.15:694][655]LogBlueprintUserMessages: [BP_HeroChar_C_0] Key
+[2018.04.08-01.32.17:431][820]LogBlueprintUserMessages: [BP_HeroChar_C_0] Key
+[2018.04.08-01.32.21:406][197]LogBlueprintUserMessages: [BP_HeroChar_C_0] Key
+[2018.04.08-01.32.23:981][443]LogBlueprintUserMessages: [BP_HeroChar_C_0] Key
+[2018.04.08-01.32.24:354][479]LogBlueprintUserMessages: [BP_HeroChar_C_0] Key
+[2018.04.08-01.32.24:735][516]LogBlueprintUserMessages: [BP_HeroChar_C_0] Key
+[2018.04.08-01.32.24:903][532]LogBlueprintUserMessages: [BP_HeroChar_C_0] Key
+[2018.04.08-01.32.25:047][546]LogBlueprintUserMessages: [BP_HeroChar_C_0] Key
+[2018.04.08-01.32.25:214][562]LogBlueprintUserMessages: [BP_HeroChar_C_0] Key
+[2018.04.08-01.32.26:736][703]LogBlueprintUserMessages: [BP_HeroChar_C_0] Key
+[2018.04.08-01.32.26:957][724]LogBlueprintUserMessages: [BP_HeroChar_C_0] Key
+[2018.04.08-01.32.27:135][741]LogBlueprintUserMessages: [BP_HeroChar_C_0] Key
+[2018.04.08-01.32.27:271][754]LogBlueprintUserMessages: [BP_HeroChar_C_0] Key
+[2018.04.08-01.32.27:420][768]LogBlueprintUserMessages: [BP_HeroChar_C_0] Key
+[2018.04.08-01.32.27:568][782]LogBlueprintUserMessages: [BP_HeroChar_C_0] Key
+[2018.04.08-01.32.28:376][857]LogBlueprintUserMessages: [BP_HeroChar_C_0] Key
+[2018.04.08-01.32.28:569][875]LogBlueprintUserMessages: [BP_HeroChar_C_0] Key
+[2018.04.08-01.32.28:739][891]LogBlueprintUserMessages: [BP_HeroChar_C_0] Key
+[2018.04.08-01.32.28:890][905]LogBlueprintUserMessages: [BP_HeroChar_C_0] Key
+[2018.04.08-01.32.29:060][921]LogBlueprintUserMessages: [BP_HeroChar_C_0] Key
+[2018.04.08-01.32.29:218][936]LogBlueprintUserMessages: [BP_HeroChar_C_0] Key
+[2018.04.08-01.32.29:378][951]LogBlueprintUserMessages: [BP_HeroChar_C_0] Key
+[2018.04.08-01.32.29:537][966]LogBlueprintUserMessages: [BP_HeroChar_C_0] Key
+[2018.04.08-01.32.37:854][730]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.08-01.32.37:972][741]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.08-01.32.38:002][741]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.08-01.32.38:002][741]PIE: New page: PIE session: 01Gameplay (Apr 7, 2018, 7:32:38 PM)
+[2018.04.08-01.32.38:002][741]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_01Gameplay
+[2018.04.08-01.32.38:008][741]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005748s)
+[2018.04.08-01.32.38:008][741]LogAIModule: Creating AISystem for world 01Gameplay
+[2018.04.08-01.32.38:009][741]LogPlayLevel: PIE: World Init took: (0.000715s)
+[2018.04.08-01.32.38:009][741]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/01Gameplay.01Gameplay to /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay (0.006611s)
+[2018.04.08-01.32.38:036][741]LogInit: XAudio2 using 'Fones de ouvido (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.08-01.32.38:045][741]LogInit: FAudioDevice initialized.
+[2018.04.08-01.32.38:080][741]LogLoad: Game class is 'BP_GameplayGameMode_C'
+[2018.04.08-01.32.38:084][741]LogWorld: Bringing World /Game/Maps/UEDPIE_0_01Gameplay.01Gameplay up for play (max tick rate 0) at 2018.04.07-22.32.38
+[2018.04.08-01.32.38:084][741]LogWorld: Bringing up level for play took: 0.003930
+[2018.04.08-01.32.38:089][741]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_01Gameplay -0.443
+[2018.04.08-01.32.41:359][ 44]LogBlueprintUserMessages: [BP_HeroChar_C_0] Key
+[2018.04.08-01.32.42:158][120]LogBlueprintUserMessages: [BP_HeroChar_C_0] Key
+[2018.04.08-01.32.43:269][226]LogBlueprintUserMessages: [BP_HeroChar_C_0] Key
+[2018.04.08-01.32.43:647][262]LogBlueprintUserMessages: [BP_HeroChar_C_0] Key
+[2018.04.08-01.32.44:359][330]LogBlueprintUserMessages: [BP_HeroChar_C_0] Key
+[2018.04.08-01.32.44:915][383]LogBlueprintUserMessages: [BP_HeroChar_C_0] Key
+[2018.04.08-01.32.45:407][431]LogBlueprintUserMessages: [BP_HeroChar_C_0] Key
+[2018.04.08-01.32.45:573][447]LogBlueprintUserMessages: [BP_HeroChar_C_0] Key
+[2018.04.08-01.32.45:718][461]LogBlueprintUserMessages: [BP_HeroChar_C_0] Key
+[2018.04.08-01.32.45:873][476]LogBlueprintUserMessages: [BP_HeroChar_C_0] Key
+[2018.04.08-01.34.39:441][196]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.08-01.35.06:078][909]LogSlate: Took 0.013730 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.04.08-01.35.10:254][409]BlueprintLog: New page: Compile BI_Pickup
+[2018.04.08-01.35.11:527][409]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.242 s
+[2018.04.08-01.35.11:527][409]LogOutputDevice: Error: === Handled ensure: ===
+[2018.04.08-01.35.11:527][409]LogOutputDevice: Error: 
+[2018.04.08-01.35.11:527][409]LogOutputDevice: Error: Ensure condition failed: !ExistingGraph [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\BlueprintEditorUtils.cpp] [Line: 2334]
+[2018.04.08-01.35.11:527][409]LogOutputDevice: Error: Graph Pickup already exists: EdGraph /Game/Objects/Key/BP_Key.BP_Key:Pickup
+[2018.04.08-01.35.11:527][409]LogOutputDevice: Error: Stack: 
+[2018.04.08-01.35.11:527][409]LogOutputDevice: Error: [Callstack] 0x00000000A3E7BA76 UE4Editor-Core.dll!UnknownFunction []
+[2018.04.08-01.35.11:527][409]LogOutputDevice: Error: [Callstack] 0x00000000A3BDAE3A UE4Editor-Core.dll!UnknownFunction []
+[2018.04.08-01.35.11:527][409]LogOutputDevice: Error: [Callstack] 0x00000000A3BEECD6 UE4Editor-Core.dll!UnknownFunction []
+[2018.04.08-01.35.11:527][409]LogOutputDevice: Error: [Callstack] 0x000000008FAA05D7 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.04.08-01.35.11:527][409]LogOutputDevice: Error: [Callstack] 0x000000008FA9D497 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.04.08-01.35.11:527][409]LogOutputDevice: Error: [Callstack] 0x000000008FA9C506 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.04.08-01.35.11:527][409]LogOutputDevice: Error: [Callstack] 0x000000008A98A0CA UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.04.08-01.35.11:527][409]LogOutputDevice: Error: [Callstack] 0x000000008DB7F4BF UE4Editor-Kismet.dll!UnknownFunction []
+[2018.04.08-01.35.11:527][409]LogOutputDevice: Error: [Callstack] 0x000000008DB20629 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.04.08-01.35.11:527][409]LogOutputDevice: Error: [Callstack] 0x000000008FB072F1 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.04.08-01.35.11:528][409]LogOutputDevice: Error: [Callstack] 0x000000008DB20043 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.04.08-01.35.11:528][409]LogOutputDevice: Error: [Callstack] 0x000000008DB6FE41 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.04.08-01.35.11:528][409]LogOutputDevice: Error: [Callstack] 0x000000008DB74BA6 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.04.08-01.35.11:528][409]LogOutputDevice: Error: [Callstack] 0x000000009B02687F UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.08-01.35.11:528][409]LogOutputDevice: Error: [Callstack] 0x000000009B11F8B6 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.08-01.35.11:528][409]LogOutputDevice: Error: [Callstack] 0x000000009B0846B2 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.08-01.35.11:528][409]LogOutputDevice: Error: [Callstack] 0x000000009B085BD9 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.08-01.35.11:528][409]LogOutputDevice: Error: [Callstack] 0x000000009B1012F5 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.08-01.35.11:528][409]LogOutputDevice: Error: [Callstack] 0x000000009B1BB7F7 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.08-01.35.11:528][409]LogOutputDevice: Error: [Callstack] 0x000000009B1E19E8 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.08-01.35.11:528][409]LogOutputDevice: Error: [Callstack] 0x000000009B00485C UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.08-01.35.11:528][409]LogOutputDevice: Error: [Callstack] 0x000000009AFD7D75 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.08-01.35.11:528][409]LogOutputDevice: Error: [Callstack] 0x000000009B06F617 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.08-01.35.11:528][409]LogOutputDevice: Error: [Callstack] 0x000000009B057D0D UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.08-01.35.11:528][409]LogOutputDevice: Error: [Callstack] 0x000000009B04B3E2 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.08-01.35.11:528][409]LogOutputDevice: Error: [Callstack] 0x00000000C6D7E69B UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.08-01.35.11:528][409]LogOutputDevice: Error: [Callstack] 0x00000000C6D71B78 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.08-01.35.11:528][409]LogOutputDevice: Error: [Callstack] 0x00000000C6D8052C UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.08-01.35.11:528][409]LogOutputDevice: Error: [Callstack] 0x00000000C6D6D679 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.08-01.35.11:528][409]LogOutputDevice: Error: [Callstack] 0x00000000DBEBB85D USER32.dll!UnknownFunction []
+[2018.04.08-01.35.11:528][409]LogOutputDevice: Error: [Callstack] 0x00000000DBEBB1EF USER32.dll!UnknownFunction []
+[2018.04.08-01.35.11:528][409]LogOutputDevice: Error: [Callstack] 0x00000000C6D81666 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.08-01.35.11:528][409]LogOutputDevice: Error: [Callstack] 0x000000007BCC5475 UE4Editor.exe!UnknownFunction []
+[2018.04.08-01.35.11:528][409]LogOutputDevice: Error: [Callstack] 0x000000007BCD6BD0 UE4Editor.exe!UnknownFunction []
+[2018.04.08-01.35.11:528][409]LogOutputDevice: Error: [Callstack] 0x000000007BCD6C4A UE4Editor.exe!UnknownFunction []
+[2018.04.08-01.35.11:529][409]LogOutputDevice: Error: [Callstack] 0x000000007BCE4149 UE4Editor.exe!UnknownFunction []
+[2018.04.08-01.35.11:529][409]LogOutputDevice: Error: [Callstack] 0x000000007BCE5B57 UE4Editor.exe!UnknownFunction []
+[2018.04.08-01.35.11:529][409]LogOutputDevice: Error: [Callstack] 0x00000000DB961FE4 KERNEL32.DLL!UnknownFunction []
+[2018.04.08-01.35.11:529][409]LogOutputDevice: Error: [Callstack] 0x00000000DE4CEFC1 ntdll.dll!UnknownFunction []
+[2018.04.08-01.35.11:529][409]LogOutputDevice: Error: 
+[2018.04.08-01.35.11:534][409]LogStats:                SubmitErrorReport -  0.000 s
